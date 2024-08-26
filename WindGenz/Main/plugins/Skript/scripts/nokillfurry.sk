@@ -1,0 +1,3 @@
+on death of player:
+    if name of victim is "RedSnicker" or "anmvc":
+        cancel event

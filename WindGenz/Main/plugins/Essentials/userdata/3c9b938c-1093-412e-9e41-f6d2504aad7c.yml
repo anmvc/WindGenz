@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.11.118.232
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722757236026
+  login: 1722757182082
+money: '0'
+last-account-name: Boyoyi
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -14.068335527106065
+  y: 64.5
+  z: -7.964468276250632
+  yaw: -42.20410919189453
+  pitch: 27.315223693847656

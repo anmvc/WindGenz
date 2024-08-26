@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 61.252.53.247
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723043718915
+  login: 1723043710618
+money: '0'
+last-account-name: Tymekkoozak
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.5642715581269875
+  y: 64.875
+  z: 0.5065018302499171
+  yaw: 79.30970764160156
+  pitch: 2.8670272827148438

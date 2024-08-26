@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 147.155.209.167
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720717424177
+  login: 1720717268124
+money: '0'
+last-account-name: TeslaESP
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 6.604642198598571
+  y: 64.0
+  z: 10.966217931092766
+  yaw: 175.524169921875
+  pitch: 26.99996566772461

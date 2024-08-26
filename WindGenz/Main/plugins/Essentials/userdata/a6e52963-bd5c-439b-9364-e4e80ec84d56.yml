@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 156.76.95.63
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721279832067
+  login: 1721279826365
+money: '0'
+last-account-name: OreoGoblin123
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 3.190246096349023
+  y: 65.0625
+  z: -1.1789831952362815
+  yaw: -150.7499237060547
+  pitch: 28.949995040893555

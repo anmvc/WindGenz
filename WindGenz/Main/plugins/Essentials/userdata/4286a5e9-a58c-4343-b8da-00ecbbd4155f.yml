@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.128.67.199
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721402697168
+  login: 1721402688465
+money: '0'
+last-account-name: TheSuperGood
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.18325622332867708
+  y: 65.0625
+  z: -20.780614869716374
+  yaw: 156.89996337890625
+  pitch: 15.900009155273438

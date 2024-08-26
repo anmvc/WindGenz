@@ -1,0 +1,3 @@
+on right click with a netherite axe:
+	if player's tool has custom model data of 120:
+		push player at speed 100

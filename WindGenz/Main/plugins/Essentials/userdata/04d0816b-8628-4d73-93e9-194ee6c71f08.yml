@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 232.40.218.150
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721608969206
+  login: 1721608921201
+money: '0'
+last-account-name: ZaluFromOhia
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -0.003754044073714519
+  y: 65.0625
+  z: -21.733485142080895
+  yaw: -142.77679443359375
+  pitch: -3.102935791015625

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 156.172.42.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721676592755
+  login: 1721676576151
+money: '0'
+last-account-name: zendov
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -3.054922113242505
+  y: 65.0625
+  z: -0.11860571693097968
+  yaw: -108.09219360351562
+  pitch: 16.07293128967285

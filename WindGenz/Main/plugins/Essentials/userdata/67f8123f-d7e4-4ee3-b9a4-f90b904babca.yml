@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 21.186.99.204
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720861950328
+  login: 1720861942474
+money: '0'
+last-account-name: Grumpfelchen2
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 25.14386012162187
+  y: 65.0
+  z: -9.665484755040968
+  yaw: -123.25724029541016
+  pitch: 1.9909673929214478

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 186.11.127.173
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721681629305
+  login: 1721681525801
+money: '0'
+last-account-name: ShrewdKitty
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -3.1779664790363484
+  y: 64.0
+  z: 20.30000001192093
+  yaw: -1.7109532356262207
+  pitch: 15.809843063354492

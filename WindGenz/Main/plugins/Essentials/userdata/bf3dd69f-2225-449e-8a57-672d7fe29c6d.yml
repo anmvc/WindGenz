@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 141.191.176.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720273706269
+  login: 1720273108775
+money: '0'
+last-account-name: enforcedblock10
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 26.967809921814123
+  y: 64.5
+  z: -11.355355971764128
+  yaw: -14.2494478225708
+  pitch: 2.100022315979004
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 16.04917550703915
+  y: 64.0
+  z: -2.533316520800407
+  yaw: -43.208251953125
+  pitch: 31.499996185302734

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 249.6.219.172
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720467371088
+  login: 1720467333434
+money: '0'
+last-account-name: oriononmar
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -10.305596637796018
+  y: 64.0
+  z: -14.83277885875529
+  yaw: -114.6001205444336
+  pitch: -1.7999876737594604

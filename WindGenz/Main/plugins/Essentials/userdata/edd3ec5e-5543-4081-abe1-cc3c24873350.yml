@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 76.14.239.174
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721398789818
+  login: 1721398733565
+money: '0'
+last-account-name: Bajutzu
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 4.709211153126299
+  y: 65.0625
+  z: 1.0814486193256434
+  yaw: 73.05230712890625
+  pitch: 20.5499324798584

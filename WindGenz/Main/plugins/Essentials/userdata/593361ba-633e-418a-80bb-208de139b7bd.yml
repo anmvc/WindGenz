@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 126.172.158.25
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721021557578
+  login: 1721021296475
+money: '0'
+last-account-name: Beanboy2586
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -1.4218070146210124
+  y: 65.0
+  z: 1.1140198043087515
+  yaw: -111.74839782714844
+  pitch: 65.54997253417969

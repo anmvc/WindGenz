@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 210.196.68.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720810058227
+  login: 1720810053374
+money: '0'
+last-account-name: ActionJack101
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 8.092340627748584
+  y: 64.0
+  z: -9.76685485241938
+  yaw: -127.49996185302734
+  pitch: 31.65000343322754

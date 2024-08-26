@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.148.216.114
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720477986787
+  login: 1720477762584
+money: '0'
+last-account-name: JIacamin
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 14.132082253682768
+  y: 65.25220334025373
+  z: -14.365326583611326
+  yaw: 78.44976806640625
+  pitch: 39.59992599487305

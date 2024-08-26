@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 44.131.114.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721433361968
+  login: 1721433084565
+money: '0'
+last-account-name: CPVP_Dan
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -12.625414180505826
+  y: 65.0
+  z: 16.571068494618167
+  yaw: -2.5234460830688477
+  pitch: 22.246387481689453

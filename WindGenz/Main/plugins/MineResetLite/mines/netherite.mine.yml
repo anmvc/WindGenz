@@ -1,0 +1,29 @@
+mine:
+  ==: com.koletar.jj.mineresetlite.Mine
+  maxZ: 72
+  tpYaw: 0
+  maxY: 66
+  maxX: 68
+  lucky_blocks: 0
+  fillMode: false
+  lucky_commands: []
+  world: world
+  composition:
+    ANCIENT_DEBRIS:0: 1.0
+  tpY: -2147483647
+  tpX: 0
+  tpZ: 0
+  tpAtReset: false
+  resetDelay: 5
+  surface: ''
+  resetPercent: -1.0
+  structure: []
+  tpPitch: 0
+  minY: 65
+  resetWarnings: []
+  minX: 68
+  potions: {}
+  name: netherite
+  resetClock: 2
+  minZ: 71
+  isSilent: false

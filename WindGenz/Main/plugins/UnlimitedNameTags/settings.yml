@@ -1,0 +1,32 @@
+nameTags:
+  redsnicker:
+    permission: user.redsnicker
+    lines:
+    - '&c&lUNKILLABLE'
+    - '%luckperms_prefix% &c&lCLAPPER %luckperms_suffix%'
+    background:
+      type: integer
+      enabled: true
+      opacity: 255
+      shadowed: true
+      seeThrough: false
+      red: 255
+      green: 0
+      blue: 0
+taskInterval: 20
+# This is opacity that will be applied to the nametag when a player sneaks. So, the value is from -128 to 127. 
+# Similar to the background, the text rendering is discarded when it is less than 26. Defaults to -1, which represents 255 and is completely opaque.
+sneakOpacity: 70
+yOffset: 0.30000001192092896
+viewDistance: 60.0
+# Which text formatter to use (MINEDOWN, MINIMESSAGE, LEGACY or UNIVERSAL) 
+# Take note that UNIVERSAL is the most resource intensive but it supports all formatting options. 
+# (&x&0&8&4&c&f&bc LEGACY OF LEGACY - &#084cfbc LEGACY - &#084cfbc& MINEDOWN - <color:#084cfbc> MINIMESSAGE)
+format: LEGACY
+# Whether to disable the default name tag or not.
+disableDefaultNameTag: false
+# Whether to disable the default name tag or not for bedrock players. Only works if Floodgate is installed.
+disableDefaultNameTagBedrock: false
+removeEmptyLines: true
+
+# Authors: AlexDev_

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 231.49.231.208
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723060839519
+  login: 1723060785570
+money: '0'
+last-account-name: x_ThatWeirdKid_x
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -17.122803692581122
+  y: 64.5
+  z: -9.869526455306062
+  yaw: 117.87154388427734
+  pitch: 9.5419282913208

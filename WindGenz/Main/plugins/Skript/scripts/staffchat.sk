@@ -1,0 +1,11 @@
+command /sc [<text>]:
+     aliases: schat
+     permission: staff.chat
+     permission message: {@m}
+     trigger:
+          if arg 1 is not set:
+               send "&cUsage &4→ /sc (message)" to player
+          if arg 1 is set:
+               loop all players:
+                    if loop-player has permission "staff.chat":
+                         send "%uncolored display name of sender% →&b %arg-1%" to loop-player

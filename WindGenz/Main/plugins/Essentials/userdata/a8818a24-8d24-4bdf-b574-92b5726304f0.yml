@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 17.207.7.65
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720716272329
+  login: 1720716202924
+money: '0'
+last-account-name: Promaster2771
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -4.069035502854375
+  y: 66.5
+  z: -1.2536523275325333
+  yaw: 102.000244140625
+  pitch: 10.349996566772461

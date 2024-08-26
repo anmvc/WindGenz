@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: true
+ip-address: 42.177.0.32
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721000531557
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721001908128
+  login: 1721000372674
+money: '0'
+last-account-name: ZephyrLIVES
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -16.028875373762066
+  y: 151.0
+  z: 254.51944771436393
+  yaw: 127.5557861328125
+  pitch: 18.382160186767578
+jail: jail
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 19.30000001192093
+  y: 61.0
+  z: -13.777255080062146
+  yaw: -31.787261962890625
+  pitch: -25.463727951049805

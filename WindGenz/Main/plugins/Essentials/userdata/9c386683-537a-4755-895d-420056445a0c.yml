@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 40.48.216.238
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721420632918
+  login: 1721420466022
+money: '0'
+last-account-name: stewpidz1234
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 52.98861090925183
+  y: 64.0
+  z: 0.18103169985371004
+  yaw: 107.10285949707031
+  pitch: 36.44960403442383

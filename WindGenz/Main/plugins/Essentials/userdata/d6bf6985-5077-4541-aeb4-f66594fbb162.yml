@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 166.233.37.32
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721611070756
+  login: 1721610564151
+money: '0'
+last-account-name: Eskimo_Penguin
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 25.355162410111085
+  y: 65.0
+  z: -2.1904294651060683
+  yaw: -112.21650695800781
+  pitch: 26.107818603515625

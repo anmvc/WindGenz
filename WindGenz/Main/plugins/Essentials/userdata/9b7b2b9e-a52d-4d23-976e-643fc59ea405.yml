@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 1.196.199.93
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720478022836
+  login: 1720477927084
+money: '0'
+last-account-name: dancreeper118
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 13.065934218336329
+  y: 55.0
+  z: 12.97259901806193
+  yaw: 34.1999626159668
+  pitch: -31.199995040893555

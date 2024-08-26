@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.228.211.217
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722794217426
+  login: 1722793357057
+money: '0'
+last-account-name: khalaitev2
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -15.01398174520138
+  y: 64.5
+  z: -11.542418943418125
+  yaw: 163.6057586669922
+  pitch: 27.51573371887207
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 23.3961860961099
+  y: 66.0
+  z: -7.872693706409907
+  yaw: 167.23374938964844
+  pitch: 11.357718467712402

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 13.240.199.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721361710568
+  login: 1721361428065
+money: '0'
+last-account-name: Mrleaf7
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 9.30824165477113
+  y: 63.0
+  z: -6.699999988079071
+  yaw: -131.93951416015625
+  pitch: 9.95211410522461

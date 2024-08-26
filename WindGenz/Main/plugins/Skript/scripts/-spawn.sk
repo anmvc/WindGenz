@@ -1,0 +1,4 @@
+on death:
+	if victim is in region "spawn":
+		keep the inventory and experiences
+        clear drops

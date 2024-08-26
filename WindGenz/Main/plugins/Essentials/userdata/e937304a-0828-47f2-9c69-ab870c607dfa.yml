@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 224.90.99.118
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722877206043
+  login: 1722877199585
+money: '0'
+last-account-name: Cuban_Coffee
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.8701819203474214
+  y: 65.0
+  z: -8.304242428808228
+  yaw: 44.821502685546875
+  pitch: 18.691917419433594

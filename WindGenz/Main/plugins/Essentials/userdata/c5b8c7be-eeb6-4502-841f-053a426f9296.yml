@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 71.228.125.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721357215768
+  login: 1721357134465
+money: '0'
+last-account-name: KIngDucky25906
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 2.2540746940606016
+  y: 65.0625
+  z: -1.5970854023320886
+  yaw: -140.84991455078125
+  pitch: 16.649995803833008

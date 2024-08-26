@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 146.204.248.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721322769667
+  login: 1721322758314
+money: '0'
+last-account-name: ElephantGamer90
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -1.176245620199005
+  y: 65.0625
+  z: 4.154463708657514
+  yaw: -4.0465087890625
+  pitch: 86.69996643066406

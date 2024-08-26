@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 146.197.75.106
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721660944105
+  login: 1721660936007
+money: '0'
+last-account-name: petman007
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -0.3436425582746753
+  y: 65.0
+  z: -4.428787505304193
+  yaw: 179.50799560546875
+  pitch: 26.138259887695312
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 73.05194835649215
+  y: 66.0
+  z: 1.4264754798278831
+  yaw: 84.2145004272461
+  pitch: 30.222862243652344

@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 98.166.241.154
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723917030807
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723917555786
+  login: 1723916991667
+  kits:
+    color: 1722092430922
+    vip: 1722213350728
+money: '0'
+last-account-name: Mikeyross23yt
+logoutlocation:
+  world: bd42949a-e084-4cda-ac36-5e75e307b450
+  world-name: snipershowdown
+  x: 12.303773392897781
+  y: 19.255168295725262
+  z: -52.556246704824
+  yaw: 164.20803833007812
+  pitch: 40.071533203125
+lastlocation:
+  world: bd42949a-e084-4cda-ac36-5e75e307b450
+  world-name: snipershowdown
+  x: 67.31206845330797
+  y: -47.82491662521135
+  z: -158.28547630078697
+  yaw: 87.09527587890625
+  pitch: 19.380285263061523

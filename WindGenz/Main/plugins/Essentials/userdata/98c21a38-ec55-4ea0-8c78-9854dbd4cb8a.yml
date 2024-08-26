@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 175.28.194.200
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720216356865
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722968675521
+  login: 1722968627535
+  kits:
+    notch: 1720214431781
+    firework: 1720214453913
+    dtools: 1720214464088
+    color: 1720214488076
+    tools: 1720214496512
+money: '0'
+last-account-name: ComplexSteves
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -8.652391977113513
+  y: 64.5
+  z: 15.780388772939176
+  yaw: -8.734310150146484
+  pitch: 19.851221084594727
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 8.768315958831465
+  y: 65.76636799395752
+  z: -0.40148550820153
+  yaw: 100.6439208984375
+  pitch: 34.54388427734375

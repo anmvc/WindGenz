@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 217.211.252.56
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721435274218
+  login: 1721435100765
+money: '0'
+last-account-name: BreadDonator
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 12.93017316900202
+  y: 65.0
+  z: 25.211788226932487
+  yaw: 170.84085083007812
+  pitch: 27.29976463317871

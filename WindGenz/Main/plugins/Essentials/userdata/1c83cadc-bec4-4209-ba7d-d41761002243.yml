@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.15.249.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721557087923
+  login: 1721556427819
+money: '0'
+last-account-name: Jesse12Koekje
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 14.005470839575054
+  y: 55.0
+  z: 14.570371093417782
+  yaw: 134.24673461914062
+  pitch: -0.4502311944961548

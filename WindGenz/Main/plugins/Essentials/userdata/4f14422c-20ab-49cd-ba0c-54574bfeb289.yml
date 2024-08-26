@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 105.75.123.222
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721418460819
+  login: 1721418426522
+money: '0'
+last-account-name: monkeyGOD__
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -16.461332241665865
+  y: 64.0
+  z: -3.09538479560843
+  yaw: -67.35031127929688
+  pitch: 9.000015258789062

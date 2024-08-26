@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 189.247.51.138
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720533791487
+  login: 1720531805784
+money: '0'
+last-account-name: JesseDeGamer2014
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 22.182909058748137
+  y: 64.0
+  z: -62.386960735884166
+  yaw: -158.8529815673828
+  pitch: 14.849906921386719

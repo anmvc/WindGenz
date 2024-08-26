@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 173.96.204.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721496039686
+  login: 1721496026282
+money: '0'
+last-account-name: RWHisAmazing
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 3.911379527566417
+  y: 64.5
+  z: -3.500712891363307
+  yaw: 6.7500152587890625
+  pitch: 37.949989318847656

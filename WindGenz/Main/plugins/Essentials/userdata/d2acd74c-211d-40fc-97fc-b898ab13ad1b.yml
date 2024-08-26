@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 211.224.105.239
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721435656667
+  login: 1721433397314
+money: '0'
+last-account-name: HimothyTheGoat1
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -13.560566395799158
+  y: 64.0
+  z: -9.830267185035135
+  yaw: 175.8314208984375
+  pitch: 11.250188827514648

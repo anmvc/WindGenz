@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 11.47.32.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721133513927
+  login: 1721133500774
+money: '0'
+last-account-name: leil7577
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 2.5112647414482745
+  y: 65.0625001
+  z: -1.511264741448274
+  yaw: 110.69993591308594
+  pitch: 10.94998836517334

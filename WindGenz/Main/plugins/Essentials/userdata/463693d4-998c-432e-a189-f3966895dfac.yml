@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 115.238.41.110
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720664828071
+  login: 1720664821769
+money: '0'
+last-account-name: Markywarkyyy
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 6.24375961943964
+  y: 65.0625
+  z: 0.9380761753156271
+  yaw: -83.69981384277344
+  pitch: 28.49998664855957

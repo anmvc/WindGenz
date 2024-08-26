@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 167.24.66.218
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721642332904
+  login: 1721642317951
+money: '0'
+last-account-name: ShadowMaster200
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 34.334933922146234
+  y: 64.0
+  z: -17.429722209961927
+  yaw: -48.44302749633789
+  pitch: 37.10399627685547

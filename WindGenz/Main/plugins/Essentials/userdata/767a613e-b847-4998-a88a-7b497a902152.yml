@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 57.178.145.225
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721012106226
+  login: 1721011970274
+money: '0'
+last-account-name: Fastjet_Gaming
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -0.06939909598470329
+  y: 65.0
+  z: -0.22985783091370227
+  yaw: -118.19744873046875
+  pitch: 55.56577682495117

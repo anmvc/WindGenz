@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 129.222.137.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721930658638
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723060210568
+  login: 1723060133352
+money: '0'
+last-account-name: stinkywms
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 938.0756791879888
+  y: 108.0
+  z: 48.857424984592626
+  yaw: 107.43462371826172
+  pitch: 2.12515926361084
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -6.004430446875705
+  y: 64.0
+  z: 35.86130506600493
+  yaw: -4.407075881958008
+  pitch: 1.3346784114837646

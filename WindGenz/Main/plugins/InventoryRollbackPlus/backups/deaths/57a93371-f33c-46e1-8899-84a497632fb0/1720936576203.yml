@@ -1,0 +1,12 @@
+xp: 0.0
+health: 0.0
+hunger: 20
+saturation: 0.0
+location:
+  world: world
+  x: -33.2
+  y: 65.4
+  z: -37.9
+logType: DEATH
+version: v1_20_R4
+deathReason: ENTITY_ATTACK (Twizxe)

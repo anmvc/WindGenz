@@ -1,0 +1,8 @@
+worlds:
+  sniper_showdown:
+    key: minecraft:sniper_showdown
+    type: NORMAL
+    environment: NORMAL
+    seed: -1214901092379600364
+    structures: true
+    hardcore: false

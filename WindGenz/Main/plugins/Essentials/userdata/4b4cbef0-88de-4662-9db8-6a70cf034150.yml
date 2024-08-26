@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.58.131.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722043793674
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722904608436
+  login: 1722900527742
+  kits:
+    color: 1720660497933
+money: '0'
+last-account-name: GodDucky
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 69.73093465461491
+  y: 64.70950131206627
+  z: -32.60579464574509
+  yaw: 95.85346984863281
+  pitch: 18.222375869750977
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 2.4187218646128845
+  y: 66.0
+  z: -7.0367951999970995
+  yaw: 175.77151489257812
+  pitch: 7.891918182373047
+homes:
+  home:
+    world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+    world-name: world
+    x: -284.29696562488164
+    y: 125.0
+    z: 13.944433314558317
+    yaw: -7.005565643310547
+    pitch: 52.3499755859375

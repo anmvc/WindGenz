@@ -1,0 +1,41 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 249.117.202.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1720226125871
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721518767026
+  login: 1721513531825
+  kits:
+    dtools: 1720063822292
+    notch: 1720214426611
+money: '0'
+last-account-name: equivocal2
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -24.438716703656905
+  y: 65.0
+  z: 13.374234926139618
+  yaw: -3.086669921875
+  pitch: 1.8305833339691162
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -18.5
+  y: 73.0
+  z: 8.5
+  yaw: 120.63911437988281
+  pitch: 11.370555877685547

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 61.252.53.247
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723917041927
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723917555791
+  login: 1723917310476
+money: '0'
+last-account-name: szimione
+logoutlocation:
+  world: bd42949a-e084-4cda-ac36-5e75e307b450
+  world-name: snipershowdown
+  x: 4.8584741717308795
+  y: -46.457909285030524
+  z: -210.99652285879927
+  yaw: 129.7147979736328
+  pitch: 37.077423095703125
+lastlocation:
+  world: bd42949a-e084-4cda-ac36-5e75e307b450
+  world-name: snipershowdown
+  x: -6.128752864483072
+  y: -55.40799197155802
+  z: 4.224822433682863
+  yaw: 78.7759780883789
+  pitch: 30.48232078552246

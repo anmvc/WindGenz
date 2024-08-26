@@ -1,0 +1,12 @@
+location: world:-5.528:66.500:6.506
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&a&lCrates'
+    height: 0.3
+  actions: {}

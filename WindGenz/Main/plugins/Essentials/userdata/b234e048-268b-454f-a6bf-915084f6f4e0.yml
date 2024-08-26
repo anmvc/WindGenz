@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 99.245.171.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723059978173
+  login: 1723059863355
+money: '0'
+last-account-name: MozthMC
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -176.5564844520744
+  y: 67.0
+  z: 21.30000001192093
+  yaw: 19.66046142578125
+  pitch: 4.538989543914795
+past-usernames:
+- Mozth

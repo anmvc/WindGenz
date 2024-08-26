@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 76.153.251.63
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723069176366
+  login: 1723064539403
+money: '0'
+last-account-name: Latorias
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -11.134901025940819
+  y: 64.0
+  z: 13.270902659766685
+  yaw: 101.08773803710938
+  pitch: -5.105589866638184
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 3.5414607791107326
+  y: 65.0
+  z: 0.49070496863929514
+  yaw: 91.58279418945312
+  pitch: -2.4927687644958496

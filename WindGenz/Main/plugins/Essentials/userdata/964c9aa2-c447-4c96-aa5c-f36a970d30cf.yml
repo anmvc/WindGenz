@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 7.32.169.98
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720948900427
+  login: 1720948879978
+money: '0'
+last-account-name: BlueNooth
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -9.53813734601217
+  y: 66.0
+  z: -21.401358574548905
+  yaw: 88.80010986328125
+  pitch: 20.54999351501465

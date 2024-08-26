@@ -1,0 +1,12 @@
+location: world:20.290:67.496:-12.187
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&7&lJail'
+    height: 0.3
+  actions: {}

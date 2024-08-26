@@ -1,0 +1,180 @@
+Name: '&9&lBOSS CRATE'
+Preview_Config: default
+Permission_Required: false
+Opening:
+  Cooldown: 0
+Key:
+  # Sets whether or not keys are required to open this crate.
+  Required: true
+  Ids:
+  - boss
+Block:
+  Locations:
+  - 941.0,107.0,43.0,0.0,0.0,world
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: false
+    Template: boss crate
+    Y_Offset: 0.0
+  Effect:
+    Model: HELIX
+    Particle:
+      Name: DUST
+      Color: 138,15,139
+      Size: 1.0
+Milestones:
+  Repeatable: false
+Rewards:
+  List:
+    boss_helmet:
+      Name: '&9&lBOSS HELMET'
+      Weight: 25.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 50000a00566rrde1nmspbeehpgk00mdlkmspb3e9gmct1qcln66q31dpq6qpbeehpgk006dhincpbcec1g04bdd5n6aoric5j78ejdcln68qbecs0000010c018rb9dpim6sj1cpq3ktbec9p6aobbd5n6e000001g600kdlkmspb3e9gmct1qe1p6ut35cdq6irre00000180004005bdd5n6aoric5j78ej3elpn8rrdbtn62rb50297m8j5f1q74o9279dnm8j2dtm688hqehp7ap9c49hmur3fe8h3k8j2dhqma8hc49kn8obcd5hi4ej6c5m76p9c49nm4pjledhm2t35cgh3kpj1dhpmab12edq74qbbclq6gsjfeljmg8hqcpgmosr55gh78pboegh3k8i29t9l68288l64qhak48m24tbechin4r39dpim88hqcpgmosr5fleio8jkcls788hq48h7q003002m6rrldpq00000044000j9cg01krb9dpim6sj1cpq3krj5ehk6asj9ehiluq35dhmmat00
+      Commands: []
+      Items:
+      - 50000a00566rrde1nmspbeehpgk00mdlkmspb3e9gmct1qcln66q31dpq6qpbeehpgk006dhincpbcec1g04bdd5n6aoric5j78ejdcln68qbecs0000010c018rb9dpim6sj1cpq3ktbec9p6aobbd5n6e000001g600kdlkmspb3e9gmct1qe1p6ut35cdq6irre00000180004005bdd5n6aoric5j78ej3elpn8rrdbtn62rb50297m8j5f1q74o9279dnm8j2dtm688hqehp7ap9c49hmur3fe8h3k8j2dhqma8hc49kn8obcd5hi4ej6c5m76p9c49nm4pjledhm2t35cgh3kpj1dhpmab12edq74qbbclq6gsjfeljmg8hqcpgmosr55gh78pboegh3k8i29t9l68288l64qhak48m24tbechin4r39dpim88hqcpgmosr5fleio8jkcls788hq48h7q003002m6rrldpq00000044000j9cg01krb9dpim6sj1cpq3krj5ehk6asj9ehiluq35dhmmat00
+      Ignored_For_Permissions: []
+    boss_chestplate:
+      Name: '&9&lBOSS CHESTPLATE'
+      Weight: 25.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 2g0005002j3dtmn0rrecln78soa00b6qqbeclhn4ob6egt6arj3d1gmst3dcln78soa0036opbmclm760o025mmirj5cdp62pjk79mmarj4d5n6e000000g600kdlkmspb3e9gmct1qeln64sj5c5lmirj7000000o300a6qqbeclhn4ob6egt70sjfehim6t39dtn000000k0002002lmmirj5cdp62pjk79hnasrkdtmlurj1dlig15jr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24orfdhnn48hq49h6otb548m24qbkc5m6iop279j62r3jckm24rr2cpqn6or1ehim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jkcls788hq4914ukqj411kghajah84ogak8kh2o8jldpi6asjcd5n6ap1279j62r3jclulqb12ehingt1278h24v800c00aorfeln78000000gg002d5i007jdd5n6aoric5j78ejeclq6gpbid5q6anr3d1in6t3gdhgn8p80
+      Commands: []
+      Items:
+      - 2g0005002j3dtmn0rrecln78soa00b6qqbeclhn4ob6egt6arj3d1gmst3dcln78soa0036opbmclm760o025mmirj5cdp62pjk79mmarj4d5n6e000000g600kdlkmspb3e9gmct1qeln64sj5c5lmirj7000000o300a6qqbeclhn4ob6egt70sjfehim6t39dtn000000k0002002lmmirj5cdp62pjk79hnasrkdtmlurj1dlig15jr49ingt3ic4h3kmrr49h6ur3448t78sjlckm24orfdhnn48hq49h6otb548m24qbkc5m6iop279j62r3jckm24rr2cpqn6or1ehim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jkcls788hq4914ukqj411kghajah84ogak8kh2o8jldpi6asjcd5n6ap1279j62r3jclulqb12ehingt1278h24v800c00aorfeln78000000gg002d5i007jdd5n6aoric5j78ejeclq6gpbid5q6anr3d1in6t3gdhgn8p80
+      Ignored_For_Permissions: []
+    boss_leggings:
+      Name: '&9&lBOSS LEGGINGS'
+      Weight: 25.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: k0001800korfdlo6urj5dpq762g02pmmirj5cdp62pjk79imsor8c5n78rb5dpq762g00pm6atj5dhpg600hdlkmspb3e9gmct1qdlimsp39dpjg0000041g053dd5n6aoric5j78ejldph74pb1ddkmspo0000060o02hmmirj5cdp62pjk79o74rrkclhn8qbfdo0000050000g00ldlkmspb3e9gmct1qcdqn6t3fdlfmsobdck098up2cls78sj148t5mup2c9nmop1279q74tb55gh66rrcdtp24eh2c9m7ap925gh6it31dhkm68hqcpgmosr55gh6uoj6elpm6obkcli24ej6c5m76p9c49pn8sj9ddin8q3idtqmeq1279j62r3jckm24t35f1q24eh2897l6kp09h2kehq99p3l68hc49qmsp35e9m6irj5cgh3kpj1dhpmavat5gh78pboegh3k8h2fk006005cdnnarjk000000880016ip003hmmirj5cdp62pjk79n6at38clp6it35btm6apr7d5n6eso0
+      Commands: []
+      Items:
+      - k0001800korfdlo6urj5dpq762g02pmmirj5cdp62pjk79imsor8c5n78rb5dpq762g00pm6atj5dhpg600hdlkmspb3e9gmct1qdlimsp39dpjg0000041g053dd5n6aoric5j78ejldph74pb1ddkmspo0000060o02hmmirj5cdp62pjk79o74rrkclhn8qbfdo0000050000g00ldlkmspb3e9gmct1qcdqn6t3fdlfmsobdck098up2cls78sj148t5mup2c9nmop1279q74tb55gh66rrcdtp24eh2c9m7ap925gh6it31dhkm68hqcpgmosr55gh6uoj6elpm6obkcli24ej6c5m76p9c49pn8sj9ddin8q3idtqmeq1279j62r3jckm24t35f1q24eh2897l6kp09h2kehq99p3l68hc49qmsp35e9m6irj5cgh3kpj1dhpmavat5gh78pboegh3k8h2fk006005cdnnarjk000000880016ip003hmmirj5cdp62pjk79n6at38clp6it35btm6apr7d5n6eso0
+      Ignored_For_Permissions: []
+    boss_boots:
+      Name: '&9&lBOSS BOOTS'
+      Weight: 25.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 2g0005002j3dtmn0rrecln78soa00b6qqbeclhn4ob6egt6arj3d1gmst3dcln78soa0036opbmclm760o025mmirj5cdp62pjk79mmarj4d5n6e000000g600kdlkmspb3e9gmct1qeln64sj5c5lmirj7000000o300a6qqbeclhn4ob6egt70sjfehim6t39dtn000000k0002002lmmirj5cdp62pjk79hnasrkdtmlurj1dlig14br49ingt3ic4h3kmrr49h6ur3448t78sjlckm24orfdhnn48hq49h6otb548m24qbkc5m6iop279j62r3jckm24rr2cpqn6or1ehim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jkcls788hq4914ukqj4114ujqkach2o8jldpi6asjcd5n6ap1279j62r3jclulqb12ehingt1278h24v800c00aorfeln78000000gg002d5i006bdd5n6aoric5j78ejeclq6gpbid5q6anr2dtnn8so0
+      Commands: []
+      Items:
+      - 2g0005002j3dtmn0rrecln78soa00b6qqbeclhn4ob6egt6arj3d1gmst3dcln78soa0036opbmclm760o025mmirj5cdp62pjk79mmarj4d5n6e000000g600kdlkmspb3e9gmct1qeln64sj5c5lmirj7000000o300a6qqbeclhn4ob6egt70sjfehim6t39dtn000000k0002002lmmirj5cdp62pjk79hnasrkdtmlurj1dlig14br49ingt3ic4h3kmrr49h6ur3448t78sjlckm24orfdhnn48hq49h6otb548m24qbkc5m6iop279j62r3jckm24rr2cpqn6or1ehim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jkcls788hq4914ukqj4114ujqkach2o8jldpi6asjcd5n6ap1279j62r3jclulqb12ehingt1278h24v800c00aorfeln78000000gg002d5i006bdd5n6aoric5j78ejeclq6gpbid5q6anr2dtnn8so0
+      Ignored_For_Permissions: []
+    boss_sword:
+      Name: '&9&lBOSS SWORD'
+      Weight: 25.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 2g0005002j3dtmn0rrecln78so300amqqbeclhn4ob6egt74pbgc5kn4nr3dtpn8000007gk00mdlkmspb3e9gmct1qcln66q31dpq6qpbeehpgk006dhincpbcec1g04bdd5n6aoric5j78ejdcln68qbecs0000010c01arb9dpim6sj1cpq3kpj9e9iluobje1im6t00000040o02dmmirj5cdp62pjk79pmgobie1n6asrj000001g300a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg00000c0002002lmmirj5cdp62pjk79hnasrkdtmlurj1dlig14br49ingt3ic4h3kmrr49h6ur3448t78sjlckm24orfdhnn48hq49h6otb548m24qbkc5m6iop279j62r3jckm24rr2cpqn6or1ehim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jkcls788hq4914ukqj419lejqi8gh2o8jldpi6asjcd5n6ap1279j62r3jclulqb12ehingt1278h24v800c00aorfeln78000000gg002d5i006bdd5n6aoric5j78ejeclq6gpbid5q6anrjetnn4p00
+      Commands: []
+      Items:
+      - 2g0005002j3dtmn0rrecln78so300amqqbeclhn4ob6egt74pbgc5kn4nr3dtpn8000007gk00mdlkmspb3e9gmct1qcln66q31dpq6qpbeehpgk006dhincpbcec1g04bdd5n6aoric5j78ejdcln68qbecs0000010c01arb9dpim6sj1cpq3kpj9e9iluobje1im6t00000040o02dmmirj5cdp62pjk79pmgobie1n6asrj000001g300a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg00000c0002002lmmirj5cdp62pjk79hnasrkdtmlurj1dlig14br49ingt3ic4h3kmrr49h6ur3448t78sjlckm24orfdhnn48hq49h6otb548m24qbkc5m6iop279j62r3jckm24rr2cpqn6or1ehim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jkcls788hq4914ukqj419lejqi8gh2o8jldpi6asjcd5n6ap1279j62r3jclulqb12ehingt1278h24v800c00aorfeln78000000gg002d5i006bdd5n6aoric5j78ejeclq6gpbid5q6anrjetnn4p00
+      Ignored_For_Permissions: []
+    boss_pickaxe:
+      Name: '#1400FBB#2513FBo#3626FCs#4839FCs #594CFDP#6A60FDi#7B73FDc#8C86FEk#9E99FEa#AFACFFx#C0BFFFe'
+      Weight: 25.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 180002g019hmurbgdtn6arjkec5005jdd5n6aoric5j78ej5dphmgobeehmmarjkec5001jcclr6ar3j0c012rb9dpim6sj1cpq3krb5dpi6irj70000008300a6qqbeclhn4ob6egt6apj6d5hmipbecdsg00001g1g04bdd5n6aoric5j78ej6dtp78tbeck0000070c018rb9dpim6sj1cpq3ktbec9p6aobbd5n6e000002g000800amqqbeclhn4ob6egt66tbjehnmqnrec5mma19jfch6au3ke9gi4eirfch64rrccgh3kpj1dhpmab12cdnmorri48t248ph6go30hi248m24qbkc5m6iop279j62r3jckm24rr2cpqn6or1ehim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jkcls788hq49124b12eln68pbidhkmspb448t6cobcedinqb3r49h6ur3448t6cobcediio8j3dtm6ush278h26chl64pkcgh25gh6it31dhkm68hqcpgmosr55gh6uoj6elpm6obkcli24ej6c5m76p9c49pn8sj9ddin8q3idtqmeq1279j62r3jckm24t35f1q24eh2dsh2o8jldpi6asjcd5n6ap1279j62r3jcluioup2c9nmop1279j62r3jckm24orfdhnn48hq48hj6dhi6p3468hc49kn8obcd5hi4ej6c5m76p9c49nm4pjledhm2t35cgh3kpj1dhpmab12edq74qbbclq6gsjfeljmg8hqcpgmosr55gh78pboegh3k8jj48m24tbechin4r39dpim88hqcpgmosr5fkm7m8j2dtm688hqcpgmosr55gh66rrcdtp24eh24cq3gcpp8p1i4b12d5q62r39cch3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8jjehp6iqr5ehk74rrlctk24ej6c5m76p9c49q6au3k48t24sp048m24tbechin4r39dpim88hqcpgmosr5fkm7m8j2dtm688hqcpgmosr55gh66rrcdtp24eh24cqjid238p224b12d5q62r39cch3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8jjehp6iqr5ehk74rrlctk24ej6c5m76p9c49q6au3k48t24k125gh7arj4clp6oqbecli24ej6c5m76pbt5hti4ojfdhi24ej6c5m76p9c49hmur3fe8h3k8h36p0jcc268gh2o8j9ehgmoqb348t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12ehingt1278h6i8hc49qmsp35e9m6irj5cgh3kpj1dhpmav9cfch64rrccgh3kpj1dhpmab12cdnmorri48t248pn88rj6hi448m24qbkc5m6iop279j62r3jckm24rr2cpqn6or1ehim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jkcls788hq49hi4b12eln68pbidhkmspb448t6cobcedinqb3r49h6ur3448t6cobcediio8j3dtm6ush278h26e2370r4ch925gh6it31dhkm68hqcpgmosr55gh6uoj6elpm6obkcli24ej6c5m76p9c49pn8sj9ddin8q3idtqmeq1279j62r3jckm24t35f1q24eh2dch2o8jldpi6asjcd5n6ap1279j62r3jcluioup2c9nmop1279j62r3jckm24orfdhnn48hq48hjih9p7534a8hc49kn8obcd5hi4ej6c5m76p9c49nm4pjledhm2t35cgh3kpj1dhpmab12edq74qbbclq6gsjfeljmg8hqcpgmosr55gh78pboegh3k8j148m24tbechin4r39dpim88hqcpgmosr5fkm7m8j2dtm688hqcpgmosr55gh66rrcdtp24eh24d0kcga38p324b12d5q62r39cch3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8jjehp6iqr5ehk74rrlctk24ej6c5m76p9c49q6au3k48t24u125gh7arj4clp6oqbecli24ej6c5m76pbt5hti4ojfdhi24ej6c5m76p9c49hmur3fe8h3k8h38co44hi68oh2o8j9ehgmoqb348t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12ehingt1278h6a8hc49qmsp35e9m6irj5cgh3kpj1dhpmavat5gh78pboegh3k8h2fk5005bdd5n6aoric5j78ej3elpn8rrdbti62t311400ohbecdk62rjkdlimst3j1800000410004qb4003mcrriehqmsp82001motjc002g020009km8007dlimsp39dpjg4003dhr6o001004000j9cg00ktbec9p6aobbd5n6e0g00dm7cr000k00g002d5i002j5cpj6ior9cln66u82001motjc005000o00p262rb1ctig0000000000o00lhmutbeeg00000110004qb400dmqqbeclhn4ob6egt6spbkd1in4qbkclfn0qb3ddgngp80
+      Commands: []
+      Items:
+      - 180002g019hmurbgdtn6arjkec5005jdd5n6aoric5j78ej5dphmgobeehmmarjkec5001jcclr6ar3j0c012rb9dpim6sj1cpq3krb5dpi6irj70000008300a6qqbeclhn4ob6egt6apj6d5hmipbecdsg00001g1g04bdd5n6aoric5j78ej6dtp78tbeck0000070c018rb9dpim6sj1cpq3ktbec9p6aobbd5n6e000002g000800amqqbeclhn4ob6egt66tbjehnmqnrec5mma19jfch6au3ke9gi4eirfch64rrccgh3kpj1dhpmab12cdnmorri48t248ph6go30hi248m24qbkc5m6iop279j62r3jckm24rr2cpqn6or1ehim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jkcls788hq49124b12eln68pbidhkmspb448t6cobcedinqb3r49h6ur3448t6cobcediio8j3dtm6ush278h26chl64pkcgh25gh6it31dhkm68hqcpgmosr55gh6uoj6elpm6obkcli24ej6c5m76p9c49pn8sj9ddin8q3idtqmeq1279j62r3jckm24t35f1q24eh2dsh2o8jldpi6asjcd5n6ap1279j62r3jcluioup2c9nmop1279j62r3jckm24orfdhnn48hq48hj6dhi6p3468hc49kn8obcd5hi4ej6c5m76p9c49nm4pjledhm2t35cgh3kpj1dhpmab12edq74qbbclq6gsjfeljmg8hqcpgmosr55gh78pboegh3k8jj48m24tbechin4r39dpim88hqcpgmosr5fkm7m8j2dtm688hqcpgmosr55gh66rrcdtp24eh24cq3gcpp8p1i4b12d5q62r39cch3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8jjehp6iqr5ehk74rrlctk24ej6c5m76p9c49q6au3k48t24sp048m24tbechin4r39dpim88hqcpgmosr5fkm7m8j2dtm688hqcpgmosr55gh66rrcdtp24eh24cqjid238p224b12d5q62r39cch3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8jjehp6iqr5ehk74rrlctk24ej6c5m76p9c49q6au3k48t24k125gh7arj4clp6oqbecli24ej6c5m76pbt5hti4ojfdhi24ej6c5m76p9c49hmur3fe8h3k8h36p0jcc268gh2o8j9ehgmoqb348t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12ehingt1278h6i8hc49qmsp35e9m6irj5cgh3kpj1dhpmav9cfch64rrccgh3kpj1dhpmab12cdnmorri48t248pn88rj6hi448m24qbkc5m6iop279j62r3jckm24rr2cpqn6or1ehim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jkcls788hq49hi4b12eln68pbidhkmspb448t6cobcedinqb3r49h6ur3448t6cobcediio8j3dtm6ush278h26e2370r4ch925gh6it31dhkm68hqcpgmosr55gh6uoj6elpm6obkcli24ej6c5m76p9c49pn8sj9ddin8q3idtqmeq1279j62r3jckm24t35f1q24eh2dch2o8jldpi6asjcd5n6ap1279j62r3jcluioup2c9nmop1279j62r3jckm24orfdhnn48hq48hjih9p7534a8hc49kn8obcd5hi4ej6c5m76p9c49nm4pjledhm2t35cgh3kpj1dhpmab12edq74qbbclq6gsjfeljmg8hqcpgmosr55gh78pboegh3k8j148m24tbechin4r39dpim88hqcpgmosr5fkm7m8j2dtm688hqcpgmosr55gh66rrcdtp24eh24d0kcga38p324b12d5q62r39cch3kpj1dhpmab12dth6ctbjcdgn8pb448t6cobcediio8jjehp6iqr5ehk74rrlctk24ej6c5m76p9c49q6au3k48t24u125gh7arj4clp6oqbecli24ej6c5m76pbt5hti4ojfdhi24ej6c5m76p9c49hmur3fe8h3k8h38co44hi68oh2o8j9ehgmoqb348t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24srke9kmmpbkd1p6utb7d0h3kpj1dhpmab12ehingt1278h6a8hc49qmsp35e9m6irj5cgh3kpj1dhpmavat5gh78pboegh3k8h2fk5005bdd5n6aoric5j78ej3elpn8rrdbti62t311400ohbecdk62rjkdlimst3j1800000410004qb4003mcrriehqmsp82001motjc002g020009km8007dlimsp39dpjg4003dhr6o001004000j9cg00ktbec9p6aobbd5n6e0g00dm7cr000k00g002d5i002j5cpj6ior9cln66u82001motjc005000o00p262rb1ctig0000000000o00lhmutbeeg00000110004qb400dmqqbeclhn4ob6egt6spbkd1in4qbkclfn0qb3ddgngp80
+      Ignored_For_Permissions: []
+    3_in_1_potion:
+      Name: '&23 in 1 Potion'
+      Weight: 25.0
+      Rarity: rare
+      Broadcast: false
+      Win_Limit:
+        Player:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+        Global:
+          Enabled: false
+          Amount: -1
+          Cooldown: 0
+          CooldownStep: 1
+      Preview: 50000a00566rrde1nmspbeehpgk00pdlkmspb3e9gmct1qe1nn8qbfdpfm6rreehimst3j1000cs3fehkmurg025mmirj5cdp62pjk79gneqrnc5p680o01hhnasrkdtmluorfdhnn4014uo00i00ecdqn6t3fdlfmapj6clhn8soa000000o300468tbic5q6irre00015g01004n6q3fetfmiorfdo0gg002d5i004jdd5n6aoric5j78ejjehp6arj7ehk02007c5mm4qb5dpq0208015gmqs3cd5j6ipbi04006008chqn4obkd5nms0002b002009edk6utqvd5hmurg110004qb4007mqqbeclhn4ob6egt76s35cli02007c5mm4qb5dpq0208015gmqs3cd5j6ipbi04006008chqn4obkd5nms0002b002009edk6utqvd5hmurg110004qb400cmqqbeclhn4ob6egt6cqbiclfn4pbjd5pn8obecdig2007c5mm4qb5dpq0208015gmqs3cd5j6ipbi040002002lmmirj5cdp62pjk79hnasrkdtmlurj1dlig0kjr49ingt3ic4h3kmrr49hmur3fe8h3k8j4c5p6mnr7e9imarh25gh6it31dhkm68hqcpgmosr55gh78pboegh3k8hj41kms81h4186ut39dtn24vat5gh78pboegh3k8h2fk5005bdd5n6aoric5j78ej3elpn8rrdbti62t311401aorledq6urave1nn8qbfdpfmapj6clhn8soa000000o100776q3fetfn0obiehkm6r35ec0gg002d5i004jdd5n6aoric5j78ejjehp6arj7ehk02007c5mm4qb5dpq0208015gmqs3cd5j6ipbi041g0234elp62t39dtn0000io00g02bjd1nnenr9cdnms0800400ssr8dtrlus31e9q6iorcclpg220009km800fdlkmspb3e9gmct1qedo6apb40400eobdc9kmarjk040g02b1dlo6oqb6d5in408300468tbic5q6irre00015g01004n6q3fetfmiorfdo0g00801ppmgrrnbto62sjkd5hmopbj044000j9cg01irb9dpim6sj1cpq3kpj9e9ilusj5edkn6t31dphma0800tgmqoj9cln78081004m2rbgdhkmcqb5e80g6008chqn4obkd5nms0002b002009edk6utqvd5hmurg1001g04a3elpn8rrda1nn8qbfdp1mur3fe8029tg01000ck3fehkmurg00tgneqrnc5p682g00ti6isrgdhgni2000h762rb50197m8jkcls788hq48h2o8j5f1q74o9279dnm8jkcls788hq48pi0qbe40oi0k3fehkmurh25gh66rrcdtp24eh2chgn4qqvctp6apbe48m24qbkc5m6iop279j62r3jclulqv8000006005cdnnarjk000000880016ip002tmmirj5cdp62pjk79pn0r31edk5us3fehkmurg0
+      Commands: []
+      Items:
+      - 50000a00566rrde1nmspbeehpgk00pdlkmspb3e9gmct1qe1nn8qbfdpfm6rreehimst3j1000cs3fehkmurg025mmirj5cdp62pjk79gneqrnc5p680o01hhnasrkdtmluorfdhnn4014uo00i00ecdqn6t3fdlfmapj6clhn8soa000000o300468tbic5q6irre00015g01004n6q3fetfmiorfdo0gg002d5i004jdd5n6aoric5j78ejjehp6arj7ehk02007c5mm4qb5dpq0208015gmqs3cd5j6ipbi04006008chqn4obkd5nms0002b002009edk6utqvd5hmurg110004qb4007mqqbeclhn4ob6egt76s35cli02007c5mm4qb5dpq0208015gmqs3cd5j6ipbi04006008chqn4obkd5nms0002b002009edk6utqvd5hmurg110004qb400cmqqbeclhn4ob6egt6cqbiclfn4pbjd5pn8obecdig2007c5mm4qb5dpq0208015gmqs3cd5j6ipbi040002002lmmirj5cdp62pjk79hnasrkdtmlurj1dlig0kjr49ingt3ic4h3kmrr49hmur3fe8h3k8j4c5p6mnr7e9imarh25gh6it31dhkm68hqcpgmosr55gh78pboegh3k8hj41kms81h4186ut39dtn24vat5gh78pboegh3k8h2fk5005bdd5n6aoric5j78ej3elpn8rrdbti62t311401aorledq6urave1nn8qbfdpfmapj6clhn8soa000000o100776q3fetfn0obiehkm6r35ec0gg002d5i004jdd5n6aoric5j78ejjehp6arj7ehk02007c5mm4qb5dpq0208015gmqs3cd5j6ipbi041g0234elp62t39dtn0000io00g02bjd1nnenr9cdnms0800400ssr8dtrlus31e9q6iorcclpg220009km800fdlkmspb3e9gmct1qedo6apb40400eobdc9kmarjk040g02b1dlo6oqb6d5in408300468tbic5q6irre00015g01004n6q3fetfmiorfdo0g00801ppmgrrnbto62sjkd5hmopbj044000j9cg01irb9dpim6sj1cpq3kpj9e9ilusj5edkn6t31dphma0800tgmqoj9cln78081004m2rbgdhkmcqb5e80g6008chqn4obkd5nms0002b002009edk6utqvd5hmurg1001g04a3elpn8rrda1nn8qbfdp1mur3fe8029tg01000ck3fehkmurg00tgneqrnc5p682g00ti6isrgdhgni2000h762rb50197m8jkcls788hq48h2o8j5f1q74o9279dnm8jkcls788hq48pi0qbe40oi0k3fehkmurh25gh66rrcdtp24eh2chgn4qqvctp6apbe48m24qbkc5m6iop279j62r3jclulqv8000006005cdnnarjk000000880016ip002tmmirj5cdp62pjk79pn0r31edk5us3fehkmurg0
+      Ignored_For_Permissions: []
+Last_Opener: Jaxon0604
+Last_Reward: '&9&lBOSS SWORD'
+Item:
+  Material: PURPLE_SHULKER_BOX

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 117.183.131.120
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720866844127
+  login: 1720866838524
+money: '0'
+last-account-name: zivkocahvi
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 4.19859983075091
+  y: 65.0
+  z: -2.5026588521904753
+  yaw: -110.56112670898438
+  pitch: 14.393705368041992

@@ -1,0 +1,32 @@
+Name: Wind Crate
+Preview_Config: default
+Permission_Required: false
+Opening:
+  Cooldown: 5
+Key:
+  # Sets whether or not keys are required to open this crate.
+  Required: false
+  Ids:
+  - mace
+Block:
+  Locations:
+  - 941.0,107.0,39.0,0.0,0.0,world
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: false
+    Template: default
+    Y_Offset: 0.0
+  Effect:
+    Model: HELIX
+    Particle:
+      Name: DUST
+      Color: 16,121,198
+      Size: 1.0
+Milestones:
+  Repeatable: false
+Rewards: {}
+Last_Opener: MrMistakeMare
+Last_Reward: '#FBE200D#EDE31Cu#DEE339c#D0E455k#C2E471y#B3E58EA#A5E5AAr#97E6C6m#88E6E3o#7AE7FFr'
+Item:
+  Material: WHITE_SHULKER_BOX

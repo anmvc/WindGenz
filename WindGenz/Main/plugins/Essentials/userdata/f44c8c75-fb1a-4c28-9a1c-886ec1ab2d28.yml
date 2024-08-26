@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 166.80.62.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720462990287
+  login: 1720462930784
+money: '0'
+last-account-name: FrogSpot25
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 11.292588536602949
+  y: 63.0
+  z: -15.300000011920929
+  yaw: -16.240739822387695
+  pitch: 36.75701904296875

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 234.84.1.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720727497829
+  login: 1720727494924
+money: '0'
+last-account-name: ThijsjeboyGaming
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 4.669479760950799
+  y: 65.55770087700593
+  z: -3.658831270355499
+  yaw: -134.85000610351562
+  pitch: 1.8000000715255737

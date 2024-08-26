@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 47.86.23.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720523156436
+  login: 1720523134690
+money: '0'
+last-account-name: Stroopwafel95
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -47.315853094195084
+  y: 64.0
+  z: -4.452601031217029
+  yaw: -14.65570068359375
+  pitch: 10.100433349609375

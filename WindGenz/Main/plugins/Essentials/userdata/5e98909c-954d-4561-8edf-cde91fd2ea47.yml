@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 240.68.10.6
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720472444937
+  login: 1720472363334
+money: '0'
+last-account-name: ciastko8541
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 7.701633157664239
+  y: 63.009239999253154
+  z: -11.950798822699541
+  yaw: -162.4502410888672
+  pitch: 19.649993896484375

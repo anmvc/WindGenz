@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 204.170.187.8
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720834705927
+  login: 1720828785874
+money: '0'
+last-account-name: gamingrex_yt
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 11.85016242265887
+  y: 63.0
+  z: -10.425493118248884
+  yaw: 37.94121551513672
+  pitch: 30.4249210357666

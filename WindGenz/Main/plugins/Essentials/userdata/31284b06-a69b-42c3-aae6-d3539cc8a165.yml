@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 118.192.23.168
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721146585578
+  login: 1721143233874
+money: '0'
+last-account-name: sigmaedgelord69
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.9929152075954806
+  y: 65.0625
+  z: 3.9438679512870927
+  yaw: 178.65472412109375
+  pitch: 24.601436614990234

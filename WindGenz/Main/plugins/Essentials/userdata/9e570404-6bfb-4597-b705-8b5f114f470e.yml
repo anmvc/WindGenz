@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 9.112.32.217
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720566145839
+  login: 1720564960136
+money: '0'
+last-account-name: vlntsamurai
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 13.333887801400918
+  y: 63.0
+  z: -13.530978133415047
+  yaw: 139.95196533203125
+  pitch: 40.80012893676758

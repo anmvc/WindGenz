@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 54.239.114.168
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721038886677
+  login: 1721038414824
+money: '0'
+last-account-name: Zjem_Ci_Pieroga
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 7.798873674635066
+  y: 63.0
+  z: -11.6977532448355
+  yaw: 169.2548828125
+  pitch: 22.388973236083984

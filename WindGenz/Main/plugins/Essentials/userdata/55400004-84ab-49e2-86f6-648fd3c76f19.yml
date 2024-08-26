@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 48.107.210.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720779388777
+  login: 1720779377974
+money: '0'
+last-account-name: ShadowPvPro
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 10.516301023561404
+  y: 63.6875
+  z: -12.529624584780436
+  yaw: 158.1978759765625
+  pitch: 54.41276550292969

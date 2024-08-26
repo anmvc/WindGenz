@@ -1,0 +1,18 @@
+command /tailv2 [<player>]:
+	permission: tailv2.use
+	trigger:
+		if arg-1 is not set:
+			set {_tailed} to {-tailer::%sender's uuid%}
+			delete {-tailer::%sender's uuid%}
+			delete {-tailed::%{_tailed}'s uuid%}
+			send "Untailed %{_tailed}%" to sender
+		else if arg-1 is set:
+			set {-tailed::%arg-1's uuid%} to sender
+			set {-tailer::%sender's uuid%} to arg-1
+			send "Tailed %arg-1%" to sender
+
+on player move:
+	if {-tailed::%player's uuid%} is set:
+		cancel event
+	else if {-tailer::%player's uuid%} is set:
+		teleport {tailer::%player's uuid%} to player

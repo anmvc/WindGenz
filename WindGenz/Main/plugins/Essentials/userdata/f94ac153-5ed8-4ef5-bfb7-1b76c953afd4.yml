@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.251.185.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722865230884
+  login: 1722865113349
+money: '0'
+last-account-name: ItzFrankie945
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -10.008408474722323
+  y: 64.0
+  z: -9.33683865031602
+  yaw: 147.99465942382812
+  pitch: 9.097207069396973
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 20.265995608213835
+  y: 61.0
+  z: -13.217837812997685
+  yaw: -8.763641357421875
+  pitch: -23.017139434814453

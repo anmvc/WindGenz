@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 252.87.124.110
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721544720773
+  login: 1721544092968
+money: '0'
+last-account-name: LilEnderman95413
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -12.454734706876218
+  y: 64.0
+  z: -3.2634649390502544
+  yaw: -100.53417205810547
+  pitch: 23.35519027709961

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 214.133.221.146
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721497319585
+  login: 1721493428882
+money: '0'
+last-account-name: FrwostyMC
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -10.34924095982953
+  y: 65.0
+  z: -22.723973594037762
+  yaw: -121.91778564453125
+  pitch: 16.350078582763672
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -44.16877053339108
+  y: 66.02442408821369
+  z: 7.016051648610867
+  yaw: 90.75001525878906
+  pitch: 28.79996109008789

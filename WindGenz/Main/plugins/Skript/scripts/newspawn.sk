@@ -1,0 +1,15 @@
+command /worknewspawn:
+	permission: newspawn.work
+	trigger:
+		if {worknewspawn::*} contains player:
+			remove player from {worknewspawn::*}
+			reveal all players to player
+		else if {worknewspawn::*} does not contain player:
+			add player to {worknewspawn::*}
+			hide all players where [{worknewspawn::*} does not contain input] from player
+on chat:
+	if {worknewspawn::*} does not contain player:
+		if name of player is not "anmvc":
+			set chat recipients to all players where [{worknewspawn::*} does not contain input]
+on join:
+	hide player from all players where [{worknewspawn::*} contains input]

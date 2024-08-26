@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 241.197.80.233
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722875899584
+  login: 1722875768293
+money: '0'
+last-account-name: Indent_Error
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 13.649994803939553
+  y: 64.0
+  z: -16.024777938031107
+  yaw: -5.3995361328125
+  pitch: 50.713958740234375

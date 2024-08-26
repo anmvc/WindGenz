@@ -1,0 +1,44 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.66.218.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723916832844
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723917072621
+  login: 1723916823940
+  kits:
+    vip: 1722103023492
+money: '0'
+last-account-name: DroppedByPhantom
+logoutlocation:
+  world: bd42949a-e084-4cda-ac36-5e75e307b450
+  world-name: snipershowdown
+  x: -4.251545842510976
+  y: -55.0
+  z: -16.69999998807907
+  yaw: -161.6370086669922
+  pitch: 26.592100143432617
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -10.1942403917209
+  y: 72.0
+  z: -160.36721564843182
+  yaw: -14.852313041687012
+  pitch: 1.0353132486343384
+past-usernames:
+- Twizxe
+- EvantiiIsCrazy
+nickname: Twizxe

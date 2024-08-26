@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 194.51.136.98
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721667069305
+  login: 1721667039501
+money: '0'
+last-account-name: 408jbridrockz
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 11.19588188146815
+  y: 66.0
+  z: 2.543811634940876
+  yaw: -125.65032196044922
+  pitch: 45.30000305175781
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -2.8238070283350605
+  y: 64.5
+  z: -3.7218891054600065
+  yaw: 147.350341796875
+  pitch: -90.0

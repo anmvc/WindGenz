@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 99.107.70.48
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721370976368
+  login: 1721370874772
+money: '0'
+last-account-name: Undefeatable_god
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -13.493210280835903
+  y: 65.0
+  z: -14.444793563166519
+  yaw: -148.49957275390625
+  pitch: -3.600034236907959

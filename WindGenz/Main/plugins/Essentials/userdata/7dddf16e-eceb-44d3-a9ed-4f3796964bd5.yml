@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 52.148.34.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720536072837
+  login: 1720535950784
+money: '0'
+last-account-name: nielsniels10
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 32.92584307357461
+  y: 186.3156999805212
+  z: 20.17184201192451
+  yaw: 9.600170135498047
+  pitch: 58.34999084472656

@@ -1,0 +1,15 @@
+command /Dash:
+	permission: op 
+	permission message: you got a huge skill issue ngl. 
+	trigger:
+		give player netherite sword named "&a&lDash"
+
+                
+options:
+  time: 5
+on right click:
+	if player's tool is a netherite sword with name "&a&lDash":
+		cancel event
+		push player forward at speed 2.0
+		set item cooldown of netherite sword with name "&a&lDash" for shooter to {@time} seconds   
+             

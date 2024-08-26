@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 120.219.102.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721528234371
+  login: 1721528193329
+money: '0'
+last-account-name: Zombieficator
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -4.290284484887306
+  y: 64.0
+  z: -14.455577238601947
+  yaw: -90.79845428466797
+  pitch: 28.00815773010254

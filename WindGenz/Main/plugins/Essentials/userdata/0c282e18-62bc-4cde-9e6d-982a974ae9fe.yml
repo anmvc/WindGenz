@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.144.251.180
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721924339985
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723041979913
+  login: 1723041979766
+money: '0'
+last-account-name: MrMistakeMare
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.5642715581269875
+  y: 64.875
+  z: 0.5065018302499171
+  yaw: 179.97149658203125
+  pitch: -0.6580834984779358
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -7.748850585328321
+  y: 65.0
+  z: -23.848136275894355
+  yaw: -87.61026763916016
+  pitch: 15.8366117477417
+unlimited:
+- SMOOTH_STONE

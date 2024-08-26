@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 227.28.51.146
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720809527678
+  login: 1720809498824
+money: '0'
+last-account-name: Ytrixi
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 16.483716158512156
+  y: 64.0
+  z: -12.732798146845678
+  yaw: 77.52166748046875
+  pitch: 28.027223587036133

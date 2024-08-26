@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.120.178.215
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721508265629
+  login: 1721506530275
+money: '0'
+last-account-name: FemousHawk876
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -0.2884374051355522
+  y: 67.17675927506424
+  z: 0.8212073124859988
+  yaw: 149.10009765625
+  pitch: 46.35000228881836
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 14.446541889761413
+  y: 68.0
+  z: 13.864739448008669
+  yaw: -141.00030517578125
+  pitch: 10.649834632873535

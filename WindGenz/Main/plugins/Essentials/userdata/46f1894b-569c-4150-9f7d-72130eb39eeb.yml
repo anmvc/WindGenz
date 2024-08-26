@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 137.123.125.205
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722893799433
+  login: 1722893764787
+money: '0'
+last-account-name: BrixNotYT
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -31.91831909212437
+  y: 65.71449679483436
+  z: -13.058638526244588
+  yaw: -172.19155883789062
+  pitch: 16.11967658996582

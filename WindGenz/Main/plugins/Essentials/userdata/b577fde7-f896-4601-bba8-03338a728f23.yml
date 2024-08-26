@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 203.81.30.231
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721649443104
+  login: 1721649124051
+money: '0'
+last-account-name: Freezingice321
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 5.014867378093923
+  y: 65.0
+  z: -2.4598162061620585
+  yaw: -93.46673583984375
+  pitch: -0.5999526381492615
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -3.3215165589284674
+  y: 65.0625
+  z: 0.3192819293761375
+  yaw: 84.21270751953125
+  pitch: 9.524166107177734

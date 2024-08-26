@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 211.153.175.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722706793227
+  login: 1722706753875
+money: '0'
+last-account-name: feikkiangel0012
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -0.36988496983914937
+  y: 65.0
+  z: -17.26865615894417
+  yaw: 1.1724298000335693
+  pitch: 6.84191370010376

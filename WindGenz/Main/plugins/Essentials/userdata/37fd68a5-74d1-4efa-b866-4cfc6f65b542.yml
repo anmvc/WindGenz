@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.209.8.40
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722877347886
+  login: 1722877310644
+money: '0'
+last-account-name: SamosBarfanos
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -38.28339370784764
+  y: 64.0
+  z: 2.7835122167515327
+  yaw: 59.071868896484375
+  pitch: 13.741927146911621

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 65.116.45.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720792642477
+  login: 1720792574524
+money: '0'
+last-account-name: PhonedEmpress31
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 171.69999998807907
+  y: 265.0
+  z: 156.69999998807907
+  yaw: 155.50355529785156
+  pitch: 69.23834991455078

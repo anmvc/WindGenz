@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 101.207.180.19
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721687564455
+  login: 1721687508001
+money: '0'
+last-account-name: I_am_a_dog_4EVER
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 29.07147731906936
+  y: 64.0
+  z: 0.6215678012098302
+  yaw: -91.32659912109375
+  pitch: 2.0854103565216064

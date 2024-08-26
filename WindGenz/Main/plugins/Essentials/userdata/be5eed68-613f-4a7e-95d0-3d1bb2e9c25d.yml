@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 200.50.182.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721617664505
+  login: 1721617659451
+money: '0'
+last-account-name: TrueKillYT
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.7009531874756405
+  y: 65.0625
+  z: -4.3132926040087805
+  yaw: 173.4117889404297
+  pitch: 4.470348358154297E-8

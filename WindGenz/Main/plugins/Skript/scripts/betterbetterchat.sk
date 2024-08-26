@@ -1,0 +1,63 @@
+function registerReplace(s: string, r: string):
+	set {-badwords::%{_s}%} to {_r}
+
+on load:
+	delete {-badwords::*}
+	registerReplace("shit", "shirt")
+	registerReplace("fuck", "fork")
+	registerReplace("bitch", "bench")
+	registerReplace("ass", "ash")
+	registerReplace("dick", "deck")
+	registerReplace("cock", "cork")
+	registerReplace("faggot", "puppy")
+	registerReplace("nigger", "kitty cat")
+	registerReplace(":\)", "&e☺&r")
+	registerReplace("<3", "&c❤&r")
+	registerReplace(":skull:", "&7☠&r")
+	registerReplace(":\(", "&e☹&r")
+	registerReplace("skull", "&7☠&r")
+	registerReplace("sll", "&7☠&r")
+	registerReplace(":heart:", "&c❤&r")
+
+on async chat:
+	# Create our chat format
+	set {_p} to player
+	set {_w} to "%world of {_p}%"
+	replace "_" with " " in {_w}
+	set {_w} to strict proper case {_w}
+	if world of {_p} = world "world_nether":
+		set {_w} to "&cNether"
+	set {_m::1} to text component from player's prefix
+	set {_m::2} to text component from "%uncolored display name of {_p}% &7» &r"
+	set {_m::3} to async chat message
+
+	# Prepare signed message for deletion
+	set {_sig} to async chat message
+	add {_sig} to {-signatures::*}
+	create callback for {_m::1}:
+		if player has permission "chat.delete":
+			remove all players from {_sig}
+
+	set {_format} to merge components {_m::*}
+
+	# Replace [item] in chat
+	if "%{_format}%" contains "[item]" or "[i]":
+		set {_t} to translate component of player's tool
+		set enchantments of {_t} to enchantments of player's tool
+		set color format of {_t} to rgb(0, 253, 196)
+		set hover event of {_t} to hover event showing player's tool
+		set {_m} to merge components ("[", {_t}, "]")
+		component replace "\[item]" and "\[i]" with {_m} in {_format}
+
+	# Replace bad words
+	loop {-badwords::*}:
+		component replace loop-index with loop-value in {_format}
+	# Finally set the chat format
+	set async chat format to {_format}
+
+command /clearchat:
+	trigger:
+		loop {-signatures::*}:
+			set {_s} to loop-value
+			remove all players from {_s}
+		delete {-signatures::*}

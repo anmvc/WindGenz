@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 68.70.201.247
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720597399988
+  login: 1720597393936
+money: '0'
+last-account-name: KarnekqEZ
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 4.00561533090366
+  y: 64.5
+  z: -3.6405248895952673
+  yaw: -152.585693359375
+  pitch: 28.137088775634766

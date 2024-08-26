@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 65.177.73.125
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721041371277
+  login: 1721041342124
+money: '0'
+last-account-name: Atomicbananana
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 19.146680213106844
+  y: 63.0
+  z: -15.300000011920929
+  yaw: -17.39995002746582
+  pitch: 40.650001525878906

@@ -1,0 +1,11 @@
+xp: 175.0
+health: 0.0
+hunger: 19
+saturation: 0.0
+location:
+  world: world
+  x: 50.4
+  y: 64.0
+  z: -5.9
+logType: JOIN
+version: v1_20_R4

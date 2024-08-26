@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 112.143.43.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721611710907
+  login: 1721611679108
+money: '0'
+last-account-name: Shad0wKnightmar
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -41.52715359414086
+  y: 64.0
+  z: -0.2099967422613773
+  yaw: -94.77294921875
+  pitch: 32.59343338012695

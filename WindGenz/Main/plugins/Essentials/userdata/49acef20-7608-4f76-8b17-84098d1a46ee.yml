@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 248.88.10.179
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720949262779
+  login: 1720949245674
+money: '0'
+last-account-name: mr_catster
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 14.366834358577778
+  y: 64.07969854367613
+  z: -20.181810877004214
+  yaw: 75.73384094238281
+  pitch: 7.996881008148193

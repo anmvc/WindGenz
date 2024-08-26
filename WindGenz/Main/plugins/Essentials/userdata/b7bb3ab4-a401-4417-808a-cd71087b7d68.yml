@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 105.184.20.86
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721098321877
+  login: 1721098319724
+money: '0'
+last-account-name: EndingOstrich76
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 1.3445240457611098
+  y: 65.0
+  z: -0.167672137493345
+  yaw: -131.51446533203125
+  pitch: 5.057077884674072

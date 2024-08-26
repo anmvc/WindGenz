@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 65.186.97.58
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720838639127
+  login: 1720838418074
+money: '0'
+last-account-name: SykoAnimeYT
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 3.310209977213773
+  y: 65.0
+  z: -2.1388005817875224
+  yaw: -133.20001220703125
+  pitch: -0.6000000834465027

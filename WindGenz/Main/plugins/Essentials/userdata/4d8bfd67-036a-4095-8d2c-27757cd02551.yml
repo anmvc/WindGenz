@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.138.76.199
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721498641744
+  login: 1721498525282
+money: '0'
+last-account-name: CDCoatzin
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 20.703129693677475
+  y: 65.0625
+  z: 0.21032170048693558
+  yaw: -98.40023803710938
+  pitch: 21.600011825561523

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 63.232.179.151
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723017255913
+  login: 1723017246364
+money: '0'
+last-account-name: decentssss
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -19.013726192451568
+  y: 66.7531999805212
+  z: 2.490705906513304
+  yaw: -68.99669647216797
+  pitch: 9.862858772277832
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.7030765156341177
+  y: 65.0625
+  z: -15.016144970095292
+  yaw: 176.58717346191406
+  pitch: 2.137065887451172
+past-usernames:
+- robstark1

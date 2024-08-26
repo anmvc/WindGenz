@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 155.124.213.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723001550315
+  login: 1723001542223
+money: '0'
+last-account-name: DuckAtKeyboard
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 7.699999988079071
+  y: 65.0
+  z: 2.2065146693888797
+  yaw: 112.4684829711914
+  pitch: 47.985530853271484

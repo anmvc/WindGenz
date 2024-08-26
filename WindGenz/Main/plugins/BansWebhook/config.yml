@@ -1,0 +1,92 @@
+reload-message: "&aReloaded Configuration!"
+permanent-duration-translation: "Permanent"
+litebans-do-not-send-silent-punishments: true
+inline-webhooks: false
+
+ban:
+  enabled: true
+  webhook-url: "https://canary.discord.com/api/webhooks/1264696202205859911/dW-X7L8OOe0bNTcssnl5tPJeXz1NE5gKfEzvoKD5Ki38XLQGnAaEOCc6j7pXXN5zrki1"
+  webhook-title: "New Ban!"
+  webhook-thumbnail: ""
+  webhook-color: "ff0000"
+  fields:
+    "Banned by": "{executor}"
+    "ID": "{id}"
+    "Username": "{player}"
+    "Reason": "{reason}"
+    "Duration": "{duration}"
+
+mute:
+  enabled: true
+  webhook-url: "https://canary.discord.com/api/webhooks/1264696202205859911/dW-X7L8OOe0bNTcssnl5tPJeXz1NE5gKfEzvoKD5Ki38XLQGnAaEOCc6j7pXXN5zrki1"
+  webhook-title: "New Mute!!"
+  webhook-thumbnail: ""
+  webhook-color: "ff0000"
+  fields:
+    "Banned by": "{executor}"
+    "ID": "{id}"
+    "Username": "{player}"
+    "Reason": "{reason}"
+    "Duration": "{duration}"
+
+warn:
+  enabled: true
+  webhook-url: "https://canary.discord.com/api/webhooks/1264696202205859911/dW-X7L8OOe0bNTcssnl5tPJeXz1NE5gKfEzvoKD5Ki38XLQGnAaEOCc6j7pXXN5zrki1"
+  webhook-title: "New Warn!"
+  webhook-thumbnail: ""
+  webhook-color: "ff0000"
+  fields:
+    "Banned by": "{executor}"
+    "ID": "{id}"
+    "Username": "{player}"
+    "Reason": "{reason}"
+    "Duration": "{duration}"
+
+kick:
+  enabled: true
+  webhook-url: "https://canary.discord.com/api/webhooks/1264696202205859911/dW-X7L8OOe0bNTcssnl5tPJeXz1NE5gKfEzvoKD5Ki38XLQGnAaEOCc6j7pXXN5zrki1"
+  webhook-title: "New Kick!"
+  webhook-thumbnail: ""
+  webhook-color: "ff0000"
+  fields:
+    "Banned by": "{executor}"
+    "ID": "{id}"
+    "Username": "{player}"
+    "Reason": "{reason}"
+    "Duration": "{duration}"
+
+unban:
+  enabled: true
+  webhook-url: "https://canary.discord.com/api/webhooks/1264696202205859911/dW-X7L8OOe0bNTcssnl5tPJeXz1NE5gKfEzvoKD5Ki38XLQGnAaEOCc6j7pXXN5zrki1"
+  webhook-title: "Player Unbanned!"
+  webhook-thumbnail: ""
+  webhook-color: "ff0000"
+  fields:
+    "Unbanned by": "{executor}"
+    "ID": "{id}"
+    "Username": "{player}"
+    "Reason": "{reason}"
+
+unmute:
+  enabled: true
+  webhook-url: "https://canary.discord.com/api/webhooks/1264696202205859911/dW-X7L8OOe0bNTcssnl5tPJeXz1NE5gKfEzvoKD5Ki38XLQGnAaEOCc6j7pXXN5zrki1"
+  webhook-title: "Player Unmuted!"
+  webhook-thumbnail: ""
+  webhook-color: "ff0000"
+  fields:
+    "Unmuted by": "{executor}"
+    "ID": "{id}"
+    "Username": "{player}"
+    "Reason": "{reason}"
+
+unwarn:
+  enabled: true
+  webhook-url: "https://canary.discord.com/api/webhooks/1264696202205859911/dW-X7L8OOe0bNTcssnl5tPJeXz1NE5gKfEzvoKD5Ki38XLQGnAaEOCc6j7pXXN5zrki1"
+  webhook-title: "Player Unwarned!"
+  webhook-thumbnail: ""
+  webhook-color: "ff0000"
+  fields:
+    "Unwarned by": "{executor}"
+    "ID": "{id}"
+    "Username": "{player}"
+    "Reason": "{reason}"

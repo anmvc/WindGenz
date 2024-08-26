@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 118.189.18.125
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721199969878
+  login: 1721199956024
+money: '0'
+last-account-name: Linc_Sylvester
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.0683853170573646
+  y: 65.0
+  z: -0.306587196293459
+  yaw: 138.7500457763672
+  pitch: 7.799999237060547

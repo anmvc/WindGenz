@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 43.244.218.111
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721304894918
+  login: 1721304786165
+money: '0'
+last-account-name: CaptainC0Ward
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.40895141037544047
+  y: 65.0
+  z: 2.8139140030956558
+  yaw: -177.90103149414062
+  pitch: 20.803955078125

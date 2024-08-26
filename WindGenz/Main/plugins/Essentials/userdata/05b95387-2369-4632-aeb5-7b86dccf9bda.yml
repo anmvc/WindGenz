@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 9.70.131.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720474877788
+  login: 1720474841484
+money: '0'
+last-account-name: The_Rents_buddy
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 26.671813687440956
+  y: 65.0
+  z: -1.1741891939213758
+  yaw: 77.70008087158203
+  pitch: 5.099996566772461

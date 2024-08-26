@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 206.238.241.224
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722892064336
+  login: 1722890892794
+money: '0'
+last-account-name: NextHT1IsMe
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.5642715581269875
+  y: 64.875
+  z: 0.5065018302499171
+  yaw: 95.44338989257812
+  pitch: -1.1286944150924683
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 3.300000011920929
+  y: 65.0
+  z: 3.7942696153338757
+  yaw: -111.55551147460938
+  pitch: 25.062808990478516

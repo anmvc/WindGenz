@@ -1,0 +1,1357 @@
+[21:34:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:34:08] [ServerMain/INFO]: Loaded 1304 recipes
+[21:34:08] [ServerMain/INFO]: Loaded 1413 advancements
+[21:34:08] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[21:34:08] [Server thread/INFO]: Loading properties
+[21:34:08] [Server thread/INFO]: This server is running Purpur version 1.20.6-2233-ver/1.20.6@0d6766e (2024-06-18T04:01:10Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[21:34:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:34:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:34:09] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[21:34:10] [Server thread/INFO]: Default game type: SURVIVAL
+[21:34:10] [Server thread/INFO]: Generating keypair
+[21:34:10] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:24454
+[21:34:10] [Server thread/INFO]: Using epoll channel type
+[21:34:10] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[21:34:10] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[21:34:11] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loading 2 libraries... please wait
+[21:34:11] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loaded library /home/container/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[21:34:11] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loaded library /home/container/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[21:34:11] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loaded library /home/container/libraries/it/unimi/dsi/fastutil-core/8.5.13/fastutil-core-8.5.13.jar
+[21:34:13] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[21:34:19] [Server thread/WARN]: Legacy plugin BansWebhook v2.2 does not specify an api-version.
+[21:34:19] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3-SNAPSHOT
+[21:34:19] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[21:34:19] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[21:34:20] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[21:34:20] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[21:34:20] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[21:34:21] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[21:34:21] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.128
+[21:34:21] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.11.1-SNAPSHOT-859;8c3df59
+[21:34:22] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@14fcc456]
+[21:34:22] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0-SNAPSHOT-721
+[21:34:22] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.20.6) has not yet been tested! Proceed with caution.
+[21:34:23] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[21:34:23] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+102-fcf6e64
+[21:34:23] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.10+d9424b1
+[21:34:23] [Server thread/INFO]: [VoidGen] Loading server plugin VoidGen v2.2.1
+[21:34:23] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3-SNAPSHOT
+[21:34:23] [Server thread/INFO]: [SuperVanish] Loading server plugin SuperVanish v6.2.19
+[21:34:23] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.9.1
+[21:34:23] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.1-b861
+[21:34:23] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[21:34:23] [Server thread/INFO]: [floodgate] Took 747ms to boot Floodgate
+[21:34:23] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
+[21:34:23] [Server thread/INFO]: [Citizens] Loading server plugin Citizens v2.0.35-SNAPSHOT (build 3441)
+[21:34:23] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.4.2
+[21:34:23] [Server thread/INFO]: [Blue Slime Core] Loading server plugin BlueSlimeCore v2.9.6.431
+[21:34:23] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.9
+[21:34:23] [Server thread/INFO]: [nightcore] Loading server plugin nightcore v2.6.2
+[21:34:23] [Server thread/INFO]: [AdvancedBan] Loading server plugin AdvancedBan v2.3.0
+[21:34:23] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.4
+[21:34:23] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.93
+[21:34:23] [Server thread/INFO]: [AxVaults] Loading server plugin AxVaults v1.9.1
+[21:34:23] [Server thread/INFO]: [AxVaults] Loading library commons-math3
+[21:34:23] [Server thread/INFO]: [AxVaults] Loading library caffeine
+[21:34:24] [Server thread/INFO]: [AxVaults] Loading library sqlite-jdbc
+[21:34:24] [Server thread/INFO]: [AxVaults] Loading library h2
+[21:34:24] [Server thread/INFO]: [SkBee] Loading server plugin SkBee v3.5.7
+[21:34:24] [Server thread/INFO]: [MiniMOTD] Loading server plugin MiniMOTD v2.1.2
+[21:34:24] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.27.0
+[21:34:24] [Server thread/INFO]: [CataMines] Loading server plugin CataMines v2.5.11
+[21:34:24] [Server thread/INFO]: [PermSk] Loading server plugin PermSk v1.1.1
+[21:34:24] [Server thread/INFO]: [TAB] Loading server plugin TAB v4.1.6
+[21:34:24] [Server thread/INFO]: [AutoPickup] Loading server plugin AutoPickup v1.4.4-SNAPSHOT
+[21:34:24] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.22.3
+[21:34:24] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (497 ms).
+[21:34:24] [Server thread/INFO]: [Shopkeepers] Loading config.
+[21:34:24] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[21:34:24] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[21:34:24] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[21:34:24] [Server thread/INFO]: [Tebex] Loading server plugin Tebex v2.0.6
+[21:34:24] [Server thread/INFO]: [ItemTag] Loading server plugin ItemTag v3.4.2
+[21:34:24] [Server thread/INFO]: [DiSky] Loading server plugin DiSky v4.17.2
+[21:34:24] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v2.4.1
+[21:34:24] [Server thread/INFO]: [FreedomChat] Loading server plugin FreedomChat v1.6.1
+[21:34:24] [Server thread/INFO]: [LPC] Loading server plugin LPC v3.6.0
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Loading server plugin ajLeaderboards v2.9.0
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for gson
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for gson
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for jar-relocator
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for jar-relocator
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for asm
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for asm
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for asm-commons
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for asm-commons
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for gson
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for gson
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for HikariCP
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for HikariCP
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for slf4j-api
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for slf4j-api
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for h2
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for h2
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for okhttp
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for okhttp
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for okio
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for okio
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for okio-jvm
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for okio-jvm
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib-jdk8
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib-jdk8
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib-common
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib-common
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for annotations
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for annotations
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib-jdk7
+[21:34:24] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib-jdk7
+[21:34:24] [Server thread/INFO]: [CombatLogX] Loading server plugin CombatLogX v11.5.0.0.1242
+[21:34:24] [Server thread/INFO]: [CombatLogX] Configuration version is recent, no major changes necessary.
+[21:34:24] [Server thread/INFO]: [CombatLogX] Loading expansions...
+[21:34:24] [Server thread/INFO]: [CombatLogX] There were no expansions to load.
+[21:34:24] [Server thread/INFO]: [AntiPopup] Loading server plugin AntiPopup v9.2
+[21:34:26] [Server thread/INFO]: [AntiPopup] Loaded PacketEvents.
+[21:34:26] [Server thread/INFO]: [WESV] Loading server plugin WorldEditSelectionVisualizer v2.1.7
+[21:34:26] [Server thread/INFO]: [InventoryRollbackPlus] Loading server plugin InventoryRollbackPlus v1.6.17
+[21:34:26] [Server thread/INFO]: [ShulkerPacks] Loading server plugin ShulkerPacks v1.6.4
+[21:34:26] [Server thread/INFO]: [SimplePortals] Loading server plugin SimplePortals v1.7.6
+[21:34:26] [Server thread/INFO]: [ExcellentCrates] Loading server plugin ExcellentCrates v5.2.3.1
+[21:34:26] [Server thread/INFO]: [BansWebhook] Loading server plugin BansWebhook v2.2
+[21:34:26] [Server thread/INFO]: [AxiomPaper] Loading server plugin AxiomPaper v1.5.12
+[21:34:26] [Server thread/INFO]: [Vulcan] Loading server plugin Vulcan v2.8.9
+[21:34:27] [Server thread/INFO]: [skript-reflect] Loading server plugin skript-reflect v2.5.1
+[21:34:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:34:27] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.128
+[21:34:27] [Server thread/INFO]:         __    
+[21:34:27] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.128
+[21:34:27] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
+[21:34:27] [Server thread/INFO]: 
+[21:34:27] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[21:34:27] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[21:34:28] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[21:34:28] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[21:34:28] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1664ms)
+[21:34:28] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.11.1-SNAPSHOT-859;8c3df59
+[21:34:28] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[21:34:28] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[21:34:28] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[21:34:29] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[21:34:29] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_20_R4.PaperweightFaweAdapter as the Bukkit adapter
+[21:34:29] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0-SNAPSHOT-721
+[21:34:29] [Server thread/INFO]: [VoidGen] Enabling VoidGen v2.2.1
+[21:34:29] [Server thread/INFO]: [VoidGen] Using VoidChunkGen: VERSION_UNKNOWN
+[21:34:29] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
+[21:34:29] [Server thread/INFO]: [Blue Slime Core] Enabling BlueSlimeCore v2.9.6.431
+[21:34:29] [Server thread/INFO]: [Blue Slime Core] Successfully loaded 2 language(s).
+[21:34:29] [Server thread/INFO]: [Blue Slime Core] Detected server as regular SpigotMC/PaperMC (not Folia)
+[21:34:30] [Server thread/INFO]: [nightcore] Enabling nightcore v2.6.2
+[21:34:30] [Server thread/INFO]: [nightcore] Server Version: 1.20.6 ✔
+[21:34:30] [Server thread/INFO]: [nightcore] Entity Id Counter: OK ✔
+[21:34:30] [Server thread/INFO]: [nightcore] Item NBT Compress: OK ✔
+[21:34:30] [Server thread/INFO]: [nightcore] Plugin loaded in 237 ms!
+[21:34:30] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.4.1
+[21:34:30] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[21:34:30] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
+[21:34:30] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
+[21:34:30] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
+[21:34:30] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/TheBlackEntity/PlugMan
+[21:34:30] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[21:34:30] [Thread-10/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 7 build(s) out of date.
+You are running build 859, the latest version is build 866.
+Update at https://www.spigotmc.org/resources/13932/
+[21:34:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:34:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:34:31] [Server thread/WARN]: Whilst this makes it possible to use Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[21:34:31] [Server thread/WARN]: Please see https://docs.papermc.io/velocity/security for further information.
+[21:34:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:34:31] [Server thread/INFO]: Preparing level "world"
+[21:34:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:34:32] [Server thread/INFO]: Time elapsed: 14 ms
+[21:34:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:34:32] [Server thread/INFO]: Time elapsed: 490 ms
+[21:34:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:34:33] [Server thread/INFO]: Time elapsed: 412 ms
+[21:34:33] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3-SNAPSHOT
+[21:34:33] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.20.5-1.20.6 (766)
+[21:34:33] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[21:34:33] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[21:34:33] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+102-fcf6e64
+[21:34:34] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[21:34:34] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[21:34:34] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[21:34:34] [Server thread/INFO]: [Essentials] Using locale en_US
+[21:34:35] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[21:34:35] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[21:34:35] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[21:34:35] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[21:34:35] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[21:34:35] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.10+d9424b1
+[21:34:35] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[21:34:35] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[21:34:35] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[21:34:35] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[21:34:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[21:34:35] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[21:34:35] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[21:34:35] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[21:34:35] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[21:34:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[21:34:35] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[21:34:35] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[21:34:35] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[21:34:35] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[21:34:35] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[21:34:35] [Server thread/INFO]: [WorldGuard] Loading region data...
+[21:34:36] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3-SNAPSHOT
+[21:34:36] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.19
+[21:34:36] [Server thread/INFO]: [SuperVanish] Hooked into PaperSpigot for server list ping support
+[21:34:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: supervanish [6.2.19]
+[21:34:36] [Server thread/INFO]: [SuperVanish] Hooked into PlaceholderAPI
+[21:34:36] [Server thread/INFO]: [SuperVanish] Hooked into Essentials
+[21:34:36] [Server thread/INFO]: [Skript] Enabling Skript v2.9.1
+[21:34:37] [Thread-12/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[21:34:41] [Server thread/INFO]: [Skript] Loaded 233068 aliases in 4659ms
+[21:34:42] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[21:34:42] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[21:34:42] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.1-b861" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[21:34:42] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[21:34:42] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[21:34:42] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[21:34:42] [Server thread/INFO]: [Multiverse-Core] Version 4.3.1-b861 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[21:34:42] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[21:34:42] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.35-SNAPSHOT (build 3441)
+[21:34:42] [Server thread/INFO]: [Citizens] Loading external libraries
+[21:34:42] [Server thread/INFO]: [Citizens] Using mojmapped server, avoiding server package checks
+[21:34:43] [Server thread/INFO]: [Citizens] Loaded 0 templates.
+[21:34:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: citizensplaceholder [1.0.0]
+[21:34:43] [Server thread/INFO]: [SuperVanish] Hooked into Citizens
+[21:34:43] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.4.2
+[21:34:43] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[21:34:43] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[21:34:43] [Server thread/INFO]: [ItemEdit] Hooking into PlaceholderApi
+[21:34:43] [Server thread/INFO]: [ItemEdit] Hooked into PlaceHolderAPI:
+[21:34:43] [Server thread/INFO]: [ItemEdit] placeholders:
+[21:34:43] [Server thread/INFO]: [ItemEdit]   %itemedit_amount_<{itemid}>_[{slot}]_[{player}]%
+[21:34:43] [Server thread/INFO]: [ItemEdit]     shows how many itemid player has on slot
+[21:34:43] [Server thread/INFO]: [ItemEdit]     <{itemid}> for item id on serveritem
+[21:34:43] [Server thread/INFO]: [ItemEdit]     [{slot}] for the slot where the item should be counted, by default inventory
+[21:34:43] [Server thread/INFO]: [ItemEdit]       Values: inventory (include offhand), equip (include offhand), inventoryandequip (include offhand), hand, offhand, head, chest, legs, feet
+[21:34:43] [Server thread/INFO]: [ItemEdit]     [{player}] for the player, by default self
+[21:34:43] [Server thread/INFO]: [ItemEdit]     example: %itemedit_amount_{my_item_id}_{hand}%
+[21:34:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemedit [1.0]
+[21:34:43] [Server thread/INFO]: [ItemEdit] # Enabled (took 123 ms)
+[21:34:43] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.9
+[21:34:43] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.3.0
+[21:34:43] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[21:34:44] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[21:34:44] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[21:34:44] [Server thread/INFO]: 
+[21:34:44] [Server thread/INFO]:  
+[21:34:44] [Server thread/INFO]: []=====[Enabling AdvancedBan]=====[]
+[21:34:44] [Server thread/INFO]: | Information:
+[21:34:44] [Server thread/INFO]: |   Name: AdvancedBan
+[21:34:44] [Server thread/INFO]: |   Developer: Leoko
+[21:34:44] [Server thread/INFO]: |   Version: 2.3.0
+[21:34:44] [Server thread/INFO]: |   Storage: HSQLDB (local)
+[21:34:44] [Server thread/INFO]: | Support:
+[21:34:44] [Server thread/INFO]: |   Github: https://github.com/DevLeoko/AdvancedBan/issues
+[21:34:44] [Server thread/INFO]: |   Discord: https://discord.gg/ycDG6rS
+[21:34:44] [Server thread/INFO]: | Twitter: @LeokoGar
+[21:34:44] [Server thread/INFO]: | Update:
+[21:34:44] [Server thread/INFO]: |   You have the newest version
+[21:34:44] [Server thread/INFO]: []================================[]
+[21:34:44] [Server thread/INFO]:  
+[21:34:44] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.4
+[21:34:44] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[21:34:44] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[21:34:44] [Server thread/INFO]: --------------------
+[21:34:44] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[21:34:44] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[21:34:44] [Server thread/INFO]: --------------------
+[21:34:44] [Server thread/INFO]: [spark] Enabling spark v1.10.93
+[21:34:45] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[21:34:45] [Server thread/INFO]: [spark] Starting background profiler...
+[21:34:45] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: spark [1.10.93]
+[21:34:45] [Server thread/INFO]: [spark] Registered PlaceholderAPI placeholders
+[21:34:45] [Server thread/INFO]: [AxVaults] Enabling AxVaults v1.9.1
+[21:34:46] [Server thread/INFO]: [AxVaults] Loaded plugin!
+[21:34:46] [Server thread/INFO]: [SkBee] Enabling SkBee v3.5.7
+[21:34:46] [Server thread/INFO]: [SkBee] Loading NBTApi...
+[21:34:46] [Server thread/INFO]: [SkBee] [NBTAPI] Found Minecraft: 1.20.6! Trying to find NMS support
+[21:34:46] [Server thread/INFO]: [SkBee] [NBTAPI] NMS support 'MC1_20_R4' loaded!
+[21:34:46] [Server thread/INFO]: [SkBee] Successfully loaded NBTApi!
+[21:34:46] [Server thread/INFO]: [SkBee] NBT Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Text Component Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Advancement Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] BossBar Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Bound Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Damage Source elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Display Entity elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Fishing elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Game Event Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Particle Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] RayTrace elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Recipe Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Scoreboard Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Scoreboard Objective Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Statistic Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Structure Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Minecraft Tag elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Team Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Tick Manager elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Villager Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Virtual Furnace Elements disabled via config
+[21:34:46] [Server thread/INFO]: [SkBee] World Border Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] World Creator Elements successfully loaded
+[21:34:46] [Server thread/INFO]: [SkBee] Chunk Generator Elements disabled via config
+[21:34:46] [Server thread/INFO]: [SkBee] Loaded (401) elements:
+[21:34:46] [Server thread/INFO]: [SkBee]  - 55 events
+[21:34:46] [Server thread/INFO]: [SkBee]  - 64 effects
+[21:34:46] [Server thread/INFO]: [SkBee]  - 244 expressions
+[21:34:46] [Server thread/INFO]: [SkBee]  - 27 conditions
+[21:34:46] [Server thread/INFO]: [SkBee]  - 11 sections
+[21:34:46] [Server thread/INFO]: [SkBee] Checking for update...
+[21:34:47] [Server thread/INFO]: [SkBee] Plugin is not up to date!
+[21:34:47] [Server thread/INFO]: [SkBee]  - Current version: v3.5.7
+[21:34:47] [Server thread/INFO]: [SkBee]  - Available update: v3.5.9
+[21:34:47] [Server thread/INFO]: [SkBee]  - Download available at: https://github.com/ShaneBeee/SkBee/releases
+[21:34:47] [Server thread/INFO]: [SkBee] Successfully enabled v3.5.7 in 0.74 seconds
+[21:34:47] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.1.2
+[21:34:47] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.27.0
+[21:34:47] [Server thread/INFO]: [CataMines] Enabling CataMines v2.5.11
+[21:34:47] [Server thread/INFO]: [CataMines] Loading config file
+[21:34:47] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: catamines [2.5.11]
+[21:34:47] [Server thread/INFO]: [PermSk] Enabling PermSk v1.1.1
+[21:34:47] [Server thread/INFO]: [PermSk] Checking for update...
+[21:34:47] [Server thread/INFO]: [PermSk] Plugin is not up to date!
+[21:34:47] [Server thread/INFO]: [PermSk]  - Current version: v1.1.1
+[21:34:47] [Server thread/INFO]: [PermSk]  - Available update: v2.0.0
+[21:34:47] [Server thread/INFO]: [PermSk]  - Download available at: https://github.com/iPlexy/PermSk/releases
+[21:34:47] [Server thread/INFO]: [PermSk] [Skript] Dependency found, loading Skript syntaxes
+[21:34:47] [Server thread/INFO]: [PermSk] [Vault] Dependency not found, ignoring Vault syntaxes
+[21:34:47] [Server thread/INFO]: [PermSk] [LuckPerms] Dependency found, permission plugin syntaxes loaded
+[21:34:47] [Server thread/INFO]: [PermSk] Add-on loaded successfully
+[21:34:48] [Server thread/INFO]: [PermSk] [bStats] Sucessfully loaded
+[21:34:48] [Server thread/INFO]: [TAB] Enabling TAB v4.1.6
+[21:34:48] [Server thread/INFO]: [TAB] Loaded NMS hook in 58ms
+[21:34:48] [Server thread/INFO]: [TAB] [WARN] Animation "serverlogo" has refresh interval of 110, which is not divisible by 50! Using 100.
+[21:34:48] [Server thread/INFO]: [TAB] [WARN] Animation "logoupdated" has refresh interval of 20, which is not divisible by 50! Using 50.
+[21:34:48] [Server thread/INFO]: [TAB] [WARN] ---------------------------------------------------------------------
+[21:34:48] [Server thread/INFO]: [TAB] [WARN] You have unlimited nametag mode feature enabled.
+[21:34:48] [Server thread/INFO]: [TAB] [WARN] This feature is scheduled for removal in a future TAB release.
+[21:34:48] [Server thread/INFO]: [TAB] [WARN] Please considering the alternative solutions available to achieve your desired result.
+[21:34:48] [Server thread/INFO]: [TAB] [WARN] No bug reports with this feature will be accepted anymore.
+[21:34:48] [Server thread/INFO]: [TAB] [WARN] No support with this feature will be provided anymore.
+[21:34:48] [Server thread/INFO]: [TAB] [WARN] See https://gist.github.com/NEZNAMY/f4cabf2fd9251a836b5eb877720dee5c/ for more info.
+[21:34:48] [Server thread/INFO]: [TAB] [WARN] ---------------------------------------------------------------------
+[21:34:48] [Server thread/INFO]: [TAB] [WARN] Found a total of 2 issues.
+[21:34:48] [Server thread/INFO]: [TAB] Enabled in 453ms
+[21:34:48] [Server thread/INFO]: [AutoPickup] Enabling AutoPickup v1.4.4-SNAPSHOT
+[21:34:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: autopickup [1.0.0]
+[21:34:48] [Server thread/INFO]: [AutoPickup] Checking for new verison...
+[21:34:48] [Server thread/INFO]: [AutoPickup] Plugin is up-to-date.
+[21:34:48] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.22.3
+[21:34:48] [pool-69-thread-1/WARN]: [DiscordSRV] 
+
+The current build of DiscordSRV is outdated by 120 commits! Get the latest build at your favorite distribution center.
+
+Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
+Github: https://github.com/DiscordSRV/DiscordSRV/releases
+Direct Download: https://get.discordsrv.com
+
+[21:34:48] [Server thread/INFO]: [Shopkeepers] Citizens found: Enabling NPC shopkeepers.
+[21:34:48] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:34:48] [Server thread/INFO]: [Shopkeepers] Loading the data of 20 shopkeepers ...
+[21:34:48] [Server thread/INFO]: [Tebex] Enabling Tebex v2.0.6
+[21:34:49] [Server thread/INFO]: [ItemTag] Enabling ItemTag v3.4.2
+[21:34:50] [Server thread/INFO]: [ItemTag] Data using Spigot PersistentDataContainer
+[21:34:50] [Server thread/INFO]: [ItemTag] EquipmentChangeListener
+[21:34:50] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[21:34:50] [Server thread/INFO]: [ItemTag] Hooking into PlaceholderApi
+[21:34:50] [Server thread/INFO]: [ItemTag] Hooked into PlaceHolderAPI:
+[21:34:50] [Server thread/INFO]: [ItemTag] placeholders:
+[21:34:50] [Server thread/INFO]: [ItemTag]   %itemtag_cooldown_<timeunit>_[cooldownid]%
+[21:34:50] [Server thread/INFO]: [ItemTag]     shows how much cooldown has selected cooldownid for player
+[21:34:50] [Server thread/INFO]: [ItemTag]     <timeunit> may be h, s or ms
+[21:34:50] [Server thread/INFO]: [ItemTag]     [cooldownid] for cooldown type, by default default
+[21:34:50] [Server thread/INFO]: [ItemTag]     example: %itemtag_cooldown_s_anid%
+[21:34:50] [Server thread/INFO]: [ItemTag]   %itemtag_handcooldown_<timeunit>%
+[21:34:50] [Server thread/INFO]: [ItemTag]     shows how much cooldown has player on the item in his hand
+[21:34:50] [Server thread/INFO]: [ItemTag]     <timeunit> may be h, s or ms
+[21:34:50] [Server thread/INFO]: [ItemTag]     example: %itemtag_handcooldown_s%
+[21:34:50] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemtag [1.0]
+[21:34:50] [Server thread/INFO]: [ItemTag] # Enabled (took 149 ms)
+[21:34:50] [Server thread/INFO]: [DiSky] Enabling DiSky v4.17.2
+[21:34:50] [Server thread/INFO]: [DiSky] Loading emoji library ...
+[21:34:50] [Server thread/INFO]: [DiSky] Success!
+[21:34:50] [OkHttp https://plugin.tebex.io/.../INFO]: [Tebex] Connected to WindGenz - Minecraft: Java Edition server.
+[21:34:50] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[21:34:51] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Found server G:WindGenz S1(1253384166008033341)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:📜・rules(1254006971544244295)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:📢・annoucements(1253915387670691911)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:👀・sneak-peeks(1253915437415010465)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:❔・how-to-join(1253915366015373472)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:🔄・staff-changes(1256937751404609546)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:📗・staff-application(1258183824668496015)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:📗staff-list(1267263496656126085)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:👬partner(1267262225991733338)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:📋partner-message(1267262280777596999)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:🗳・voting(1264666524916908152)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:💬・general(1253384166481854545)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:💬・minecraft-chat(1266112966747488399)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:🎫・tickets(1263798852230844416)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:👀・looking-for-team(1253915208259211325)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:🤝・trading(1253915182535671839)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:✉・offtopic-chat(1264994155373793412)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:🤣・memes(1264994867314950215)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:⌨・commands(1264995138728628254)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:🤖・robot-chat(1264997110860742807)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:no-mic(1264341978993131580)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:discord-alerts(1254006971544244296)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:staff-chat(1253916261797331065)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:staff-perms(1253916293225119745)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:automod-logs(1264643885968134195)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:staff-news(1253916313122902046)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:📄ban-logs(1260082700954370078)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:staff-warnings(1253916336053289041)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:staff-apps(1253916427593715723)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:⚡-logs(1258910997637238887)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:transcripts(1258183767953244272)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:spam(1265685297212035152)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:🎮・minecraft-console(1266122477160104086)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ticket-13(1264643682058109099)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ticket-15(1264732651831558260)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ticket-21(1266206207337693185)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ticket-22(1266439071358521384)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ticket-25(1266555679716413532)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:ticket-30(1269400331519922237)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:l6qz-6(1269355230403887224)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] - TC:application-netherist(1269741613299667026)
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:🎮・minecraft-console(1266122477160104086)
+[21:34:51] [DiscordSRV - Initialization/ERROR]: [STDERR] [com.mysql.jdbc.Driver] Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling Essentials hook
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling SuperVanish hook
+[21:34:51] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling LuckPerms hook
+[21:34:52] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling PlaceholderAPI hook
+[21:34:52] [Server thread/INFO]: [FreedomChat] Enabling FreedomChat v1.6.1
+[21:34:52] [Server thread/INFO]: [LPC] Enabling LPC v3.6.0
+[21:34:52] [Server thread/INFO]: [ajLeaderboards] Enabling ajLeaderboards v2.9.0
+[21:34:52] [Server thread/INFO]: [ajLeaderboards] Using H2 flatfile for board cache. (h2)
+[21:34:52] [Server thread/INFO]: [ajLeaderboards] Loaded 0 boards
+[21:34:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: ajlb [2.9.0]
+[21:34:52] [Server thread/INFO]: [ajLeaderboards] PAPI placeholders successfully registered!
+[21:34:52] [Server thread/INFO]: [ajLeaderboards] ajLeaderboards v2.9.0 by ajgeiss0702 enabled!
+[21:34:52] [Server thread/INFO]: [CombatLogX] Enabling CombatLogX v11.5.0.0.1242
+[21:34:53] [Server thread/INFO]: [CombatLogX] Successfully loaded 29 language(s).
+[21:34:53] [Server thread/INFO]: [CombatLogX] Detected server as regular SpigotMC/PaperMC (not Folia)
+[21:34:53] [Server thread/INFO]: CombatLogX was loaded successfully.
+[21:34:53] [Server thread/INFO]: [CombatLogX] Enabling expansions...
+[21:34:53] [Server thread/INFO]: [CombatLogX] There were no expansions to enable.
+[21:34:53] [Server thread/INFO]: CombatLogX was enabled successfully.
+[21:34:53] [Server thread/INFO]: [AntiPopup] Enabling AntiPopup v9.2
+[21:34:53] [Server thread/INFO]: [AntiPopup] Config enabled.
+[21:34:53] [Server thread/INFO]: [AntiPopup] Loaded a hook for ViaVersion.
+[21:34:53] [Server thread/INFO]: [AntiPopup] Initiated PacketEvents.
+[21:34:53] [Server thread/INFO]: [AntiPopup] Hooked on 1.20.6
+[21:34:53] [Server thread/INFO]: [AntiPopup] Commands registered.
+[21:34:53] [Server thread/INFO]: [AntiPopup] Logger filter enabled.
+[21:34:53] [Server thread/INFO]: [WESV] Enabling WorldEditSelectionVisualizer v2.1.7
+[21:34:53] [Server thread/INFO]: [WESV] Using WorldEdit 7 api
+[21:34:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: wesv [2.1.7]
+[21:34:53] [Server thread/INFO]: [WESV] PlaceholderAPI extension successfully registered.
+[21:34:53] [Server thread/INFO]: [InventoryRollbackPlus] Enabling InventoryRollbackPlus v1.6.17
+[21:34:53] [Server thread/INFO]: [InventoryRollbackPlus] Attempting Paper support for version: 1.20.6-R0.1-SNAPSHOT
+[21:34:53] [Server thread/INFO]: [InventoryRollbackPlus] Found CraftBukkit Package Version: v1_20_R4
+[21:34:53] [Server thread/INFO]: [InventoryRollbackPlus] Inventory backup data is set to save to: YAML
+[21:34:53] [Server thread/INFO]: [InventoryRollbackPlus] bStats are enabled
+[21:34:53] [Server thread/INFO]: [ShulkerPacks] Enabling ShulkerPacks v1.6.4
+[21:34:53] [Server thread/INFO]: [ShulkerPacks] §f§l[§9ShulkerPacks§f§l] §aShulkerPacks has been enabled!
+[21:34:53] [Server thread/INFO]: [SimplePortals] Enabling SimplePortals v1.7.6
+[21:34:53] [Server thread/INFO]: [SimplePortals] Everything inside the configuration seems to be up to date. (Took 1ms)
+[21:34:53] [Server thread/INFO]: [SimplePortals] Packets have been setup for v1_20_6R1!
+[21:34:53] [Server thread/INFO]: [ExcellentCrates] Enabling ExcellentCrates v5.2.3.1
+[21:34:53] [Server thread/INFO]: [ExcellentCrates] Powered by nightcore
+[21:34:53] [Server thread/INFO]: [ExcellentCrates] Read database configuration...
+[21:34:53] [Server thread/INFO]: [ExcellentCrates] Using Internal hologram handler.
+[21:34:53] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[21:34:53] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@391bde69
+[21:34:53] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[21:34:53] [Server thread/INFO]: [ExcellentCrates] Registered currency: xp
+[21:34:53] [Server thread/INFO]: [ExcellentCrates] Registered currency: levels
+[21:34:53] [Server thread/INFO]: [ExcellentCrates] Loaded 8 crate openings.
+[21:34:53] [Server thread/INFO]: [ExcellentCrates] Loaded 3 crate keys.
+[21:34:54] [Server thread/INFO]: [ExcellentCrates] Loaded 4 rarities!
+[21:34:54] [Server thread/INFO]: [ExcellentCrates] Loaded 3 crates.
+[21:34:54] [Server thread/INFO]: [ExcellentCrates] Loaded 1 crate menus.
+[21:34:54] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: excellentcrates [5.2.3.1]
+[21:34:54] [Server thread/INFO]: [ExcellentCrates] Plugin loaded in 569 ms!
+[21:34:54] [Server thread/INFO]: [BansWebhook] Enabling BansWebhook v2.2*
+[21:34:54] [Server thread/INFO]: Successfully Enabled BansWebhook 2.2 by PmzHero (Hooked with AdvancedBan)
+[21:34:54] [Server thread/INFO]: [AxiomPaper] Enabling AxiomPaper v1.5.12
+[21:34:55] [Server thread/INFO]: [AxiomPaper] CoreProtect integration enabled
+[21:34:55] [Server thread/INFO]: [Vulcan] Enabling Vulcan v2.8.9
+[21:34:55] [pool-76-thread-1/INFO]: [ajLeaderboards] You are up to date! (2.9.0)
+[21:34:55] [Server thread/INFO]: [Vulcan] Server Version: 1.20.6 detected!
+[21:34:55] [Server thread/INFO]: [Vulcan] Floodgate 2.0 found. Enabling hook!
+[21:34:55] [Server thread/INFO]: [Vulcan] BStats enabled!
+[21:34:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: Vulcan [2.8.9]
+[21:34:55] [Server thread/INFO]: [Vulcan] PlaceholderAPI found. Enabling hook!
+[21:34:55] [Server thread/INFO]: [skript-reflect] Enabling skript-reflect v2.5.1
+[21:34:56] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[21:34:56] [Server thread/INFO]: Running delayed init tasks
+[21:34:56] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
+[21:34:56] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[21:34:56] [Craft Scheduler Thread - 5 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[21:34:56] [Craft Scheduler Thread - 5 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'CombatLogX'.
+[21:34:56] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[21:34:56] [Craft Scheduler Thread - 8 - ItemEdit/INFO]: [ItemEdit] New Update at https://spigotmc.org/resources/40993
+[21:34:56] [Craft Scheduler Thread - 10 - DecentHolograms/INFO]: [DecentHolograms] Loading holograms... 
+[21:34:56] [Craft Scheduler Thread - 5 - Essentials/INFO]: [Essentials] Fetching version information...
+[21:34:56] [Server thread/INFO]: [Skript] Loading variables...
+[21:34:56] [Craft Scheduler Thread - 10 - DecentHolograms/INFO]: [DecentHolograms] Loaded 26 holograms!
+[21:34:56] [Craft Scheduler Thread - 12 - ItemTag/INFO]: [ItemTag] New Update at https://spigotmc.org/resources/89634
+[21:34:56] [Craft Scheduler Thread - 16 - InventoryRollbackPlus/INFO]: [InventoryRollbackPlus] Checking for updates...
+[21:34:57] [Craft Scheduler Thread - 16 - InventoryRollbackPlus/INFO]: [InventoryRollbackPlus] You are running the latest version.
+[21:34:57] [Server thread/INFO]: [Skript] Loaded 684 variables in 0.3 seconds
+[21:34:57] [Server thread/INFO]: [Skript] Line 5: (Ebox.sk)
+[21:34:57] [Server thread/INFO]:     indentation error: expected 4 spaces, but found 5 spaces
+[21:34:57] [Server thread/INFO]:     Line: if name of player's tool is "&d&lEnderBow":
+[21:34:57] [Server thread/INFO]:  
+[21:34:57] [Server thread/INFO]: [Skript] Line 6: (Ebox.sk)
+[21:34:57] [Server thread/INFO]:     indentation error: expected 4 spaces, but found 8 spaces
+[21:34:57] [Server thread/INFO]:     Line: cancel event
+[21:34:57] [Server thread/INFO]:  
+[21:34:57] [Server thread/INFO]: [Skript] Line 7: (Ebox.sk)
+[21:34:57] [Server thread/INFO]:     indentation error: expected 4 spaces, but found 8 spaces
+[21:34:57] [Server thread/INFO]:     Line: make the shooter shoot an ender pearl at speed 2
+[21:34:57] [Server thread/INFO]:  
+[21:34:57] [Server thread/INFO]: [Skript] Line 8: (Ebox.sk)
+[21:34:57] [Server thread/INFO]:     indentation error: expected 4 spaces, but found 8 spaces
+[21:34:57] [Server thread/INFO]:     Line: set item cooldown of bow with name "&d&lEnderBow" for shooter to {@time} seconds
+[21:34:57] [Server thread/INFO]:  
+[21:34:57] [Server thread/INFO]: [Skript] Line 15: (Whitelist.sk)
+[21:34:57] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[21:34:57] [Server thread/INFO]:     Line: post "# WindGenz S1 Is Getting Released!! :tada: :tada:
+[21:34:57] [Server thread/INFO]:  
+[21:34:57] [Server thread/INFO]: [Skript]     'scorebord.sk' is empty
+[21:34:57] [Craft Scheduler Thread - 5 - Essentials/WARN]: [Essentials] You're 5 EssentialsX dev build(s) out of date!
+[21:34:57] [Craft Scheduler Thread - 5 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[21:34:57] [Server thread/INFO]: [Skript] Line 16: (Whitelist.sk)
+[21:34:57] [Server thread/INFO]:     Can't understand this structure: We Are Happy To Announce That WindGenz Season 1 Is Officially Getting
+[21:34:57] [Server thread/INFO]:     Line: We Are Happy To Announce That WindGenz Season 1 Is Officially Getting
+[21:34:57] [Server thread/INFO]:  
+[21:34:57] [Server thread/INFO]: [Skript] Line 17: (Whitelist.sk)
+[21:34:57] [Server thread/INFO]:     Can't understand this structure: Released!
+[21:34:57] [Server thread/INFO]:     Line: Released!
+[21:34:57] [Server thread/INFO]:  
+[21:34:57] [Server thread/INFO]: [Skript] Line 18: (Whitelist.sk)
+[21:34:57] [Server thread/INFO]:     Can't understand this structure: And its not gonna be like the other ones (Staff Abuse)
+[21:34:57] [Server thread/INFO]:     Line: And its not gonna be like the other ones (Staff Abuse)
+[21:34:57] [Server thread/INFO]:  
+[21:34:57] [Server thread/INFO]: [Skript] Line 20: (Whitelist.sk)
+[21:34:57] [Server thread/INFO]:     Can't understand this structure: :hourglass: You can join now!
+[21:34:57] [Server thread/INFO]:     Line: :hourglass: You can join now!
+[21:34:57] [Server thread/INFO]:  
+[21:34:57] [Server thread/INFO]: [Skript] Line 22: (Whitelist.sk)
+[21:34:57] [Server thread/INFO]:     Can't understand this structure: :globe_with_meridians:  IP: <
+[21:34:57] [Server thread/INFO]:     Line: :globe_with_meridians:  IP: <#1253915366015373472>
+[21:34:57] [Server thread/INFO]:  
+[21:34:57] [Server thread/INFO]: [Skript] Line 23: (Whitelist.sk)
+[21:34:57] [Server thread/INFO]:     Can't understand this structure: :hammer:  VERSION: 1.21-1.8 (On minehut IP 1.20.1-1.19.2 is Unsupported.)
+[21:34:57] [Server thread/INFO]:     Line: :hammer:  VERSION: 1.21-1.8 (On minehut IP 1.20.1-1.19.2 is Unsupported.)
+[21:34:57] [Server thread/INFO]:  
+[21:34:57] [Server thread/INFO]: [Skript] Line 25: (Whitelist.sk)
+[21:34:57] [Server thread/INFO]:     Invalid use of quotes ("). If you want to use quotes in "quoted text", double them: "".
+[21:34:57] [Server thread/INFO]:     Line: :exclamation: Ping: || @everyone   ||" to text channel with id "1253915387670691911"
+[21:34:57] [Server thread/INFO]:  
+[21:34:57] [Craft Scheduler Thread - 6 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[21:34:57] [Craft Scheduler Thread - 6 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'BlueSlimeCore'.
+[21:35:00] [Server thread/INFO]: [net.dv8tion.jda.api.JDA] Login Successful!
+[21:35:01] [Server thread/INFO]: [Skript] Line 5: (asdd.sk)
+[21:35:01] [Server thread/INFO]:     Can't understand this condition/effect: spawn explosion at location of player
+[21:35:01] [Server thread/INFO]:     Line: spawn explosion at location of player
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 5: (cmdblock.sk)
+[21:35:01] [Server thread/INFO]:     There's no loop that matches 'loop-block'
+[21:35:01] [Server thread/INFO]:     Line: send "Location: %location of loop-block%" to sender
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [JDA MainWS-ReadThread/INFO]: [net.dv8tion.jda.internal.requests.WebSocketClient] Connected to WebSocket
+[21:35:01] [Server thread/INFO]: [Skript] Line 7: (cmdblock.sk)
+[21:35:01] [Server thread/INFO]:     There's no loop that matches 'loop-block'
+[21:35:01] [Server thread/INFO]:     Line: send "Location: %location of loop-block%" to sender
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 9: (cmdblock.sk)
+[21:35:01] [Server thread/INFO]:     There's no block in a command event
+[21:35:01] [Server thread/INFO]:     Line: send "Location: %location of command block%" to sender
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 15: (fakeeverything.sk)
+[21:35:01] [Server thread/INFO]:     Can't understand this condition/effect: set player's tag to arg 1
+[21:35:01] [Server thread/INFO]:     Line: set player's tag to arg 1
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 13: (nick.sk)
+[21:35:01] [Server thread/INFO]:     Can't understand this condition/effect: set player's tag to "%arg 1%"
+[21:35:01] [Server thread/INFO]:     Line: set player's tag to "%arg 1%"
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 14: (nick.sk)
+[21:35:01] [Server thread/INFO]:     Can't change the Minecraft name of a player. Change the 'display name' or 'tab list name' instead.
+[21:35:01] [Server thread/INFO]:     Line: set player's name to "%arg 1%"
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 15: (nick.sk)
+[21:35:01] [Server thread/INFO]:     the 1st argument is already a text, so you should not put it in one (e.g. the 1st argument instead of "%the 1st argument%")
+[21:35:01] [Server thread/INFO]:     Line: set player's tablist name to "%arg 1%"
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 5: (rank vouch.sk)
+[21:35:01] [Server thread/INFO]:     Can't understand this section: else %arg-1% or %arg-2% is not set
+[21:35:01] [Server thread/INFO]:     Line: else %arg-1% or %arg-2% is not set:
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 12: (rank vouch.sk)
+[21:35:01] [Server thread/INFO]:     Can't compare 'else argument 2' with a text
+[21:35:01] [Server thread/INFO]:     Line: else argument 2 is "20":
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [JDA MainWS-ReadThread/INFO]: [net.dv8tion.jda.api.JDA] Finished Loading!
+[21:35:01] [Server thread/INFO]: [Skript] Line 10: (Dashsword.sk)
+[21:35:01] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[21:35:01] [Server thread/INFO]:     Line: if {%player%::dash} is true:
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 12: (Dashsword.sk)
+[21:35:01] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[21:35:01] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 14: (Dashsword.sk)
+[21:35:01] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[21:35:01] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 15: (Dashsword.sk)
+[21:35:01] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[21:35:01] [Server thread/INFO]:     Line: if {%player%::dash} is not set:
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 17: (Dashsword.sk)
+[21:35:01] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[21:35:01] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 19: (Dashsword.sk)
+[21:35:01] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[21:35:01] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 15: (Whitelist.sk)
+[21:35:01] [Server thread/INFO]:     Invalid use of quotes ("). If you want to use quotes in "quoted text", double them: "".
+[21:35:01] [Server thread/INFO]:     Line: post "# WindGenz S1 Is Getting Released!! :tada: :tada:
+[21:35:01] [Server thread/INFO]:  
+[21:35:01] [Server thread/INFO]: [Skript] Line 2: (opcharge.sk)
+[21:35:01] [Server thread/INFO]:     Can't understand this condition: 'player's tool has custom model data of 120'
+[21:35:01] [Server thread/INFO]:     Line: if player's tool has custom model data of 120:
+[21:35:01] [Server thread/INFO]:  
+[21:35:02] [Server thread/INFO]: [Skript] Line 287: (token.sk)
+[21:35:02] [Server thread/INFO]:     There are multiple command senders in an on click event. You must define which command sender to use.
+[21:35:02] [Server thread/INFO]:     Line: message "{@prefix} {@token-claim}"
+[21:35:02] [Server thread/INFO]:  
+[21:35:02] [Server thread/INFO]: [Skript] Loaded 37 scripts with a total of 105 structures in 4.79 seconds
+[21:35:02] [Server thread/INFO]: [Skript] Finished loading.
+[21:35:02] [Server thread/INFO]: [CoreProtect] FastAsyncWorldEdit logging successfully initialized.
+[21:35:02] [Server thread/INFO]: [Citizens] Loaded 7 NPCs.
+[21:35:02] [Server thread/INFO]: [CataMines] Loading mines from files...
+[21:35:02] [Server thread/INFO]: [CataMines] Starting mines and registering commands. Running version 2.5.11
+[21:35:02] [Server thread/INFO]: [CataMines] Registering listeners
+[21:35:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[21:35:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[21:35:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.2]
+[21:35:02] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[21:35:02] [Server thread/INFO]: 3 placeholder hook(s) registered!
+[21:35:02] [Server thread/INFO]: [SuperVanish] Your current version of SuperVanish is outdated - New version: '6.2.20'; Currently: '6.2.19'
+[21:35:02] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[21:35:02] [Server thread/INFO]: Done (54.373s)! For help, type "help"
+[21:35:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6305ms or 126 ticks behind
+[21:35:02] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: discordsrv [1.27.0]
+[21:35:03] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[21:35:05] [Craft Scheduler Thread - 14 - AxVaults/INFO]: AxVaults » There is a new version of the plugin available! (current: %current% | latest: %latest%)
+[21:35:09] [User Authenticator #0/INFO]: UUID of player anmvc is e23c38f3-ad85-49e6-a62d-3fae69f9db97
+[21:35:10] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player anmvc
+[21:35:10] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player anmvc
+[21:35:11] [Server thread/INFO]: anmvc joined the game
+[21:35:11] [Server thread/INFO]: anmvc[/172.56.103.201:63008] logged in with entity id 69 at ([world]-35.106490212278075, 64.0, -17.27870395818165)
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: java.lang.ClassNotFoundException: Could not find net.minecraft.server.EntityPlayer
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: 	at DiscordSRV-Build-1.27.0.jar//github.scarsz.discordsrv.util.NMSUtil.fixBukkitClass(NMSUtil.java:122)
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: 	at DiscordSRV-Build-1.27.0.jar//github.scarsz.discordsrv.util.NMSUtil.<clinit>(NMSUtil.java:61)
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: 	at DiscordSRV-Build-1.27.0.jar//github.scarsz.discordsrv.DiscordSRV.getAvatarUrl(DiscordSRV.java:2025)
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: 	at DiscordSRV-Build-1.27.0.jar//github.scarsz.discordsrv.DiscordSRV.sendJoinMessage(DiscordSRV.java:1870)
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: 	at DiscordSRV-Build-1.27.0.jar//github.scarsz.discordsrv.listeners.PlayerJoinLeaveListener.lambda$onPlayerJoin$1(PlayerJoinLeaveListener.java:94)
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: 	at DiscordSRV-Build-1.27.0.jar//github.scarsz.discordsrv.util.SchedulerUtil.lambda$runTaskLaterAsynchronously$4(SchedulerUtil.java:125)
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: 	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217)
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: 	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: 	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: 	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+[21:35:12] [Folia Async Scheduler Thread Timer/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[21:35:23] [Server thread/INFO]: anmvc lost connection: Disconnected
+[21:35:24] [Server thread/INFO]: anmvc left the game
+[21:35:25] [User Authenticator #0/INFO]: UUID of player anmvc is e23c38f3-ad85-49e6-a62d-3fae69f9db97
+[21:35:26] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player anmvc
+[21:35:26] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player anmvc
+[21:35:26] [Server thread/INFO]: anmvc joined the game
+[21:35:26] [Server thread/INFO]: anmvc[/172.56.103.201:37522] logged in with entity id 88 at ([world]-4.469355560432731, 65.0, 2.081412386413282)
+[21:36:19] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_20_R4.PaperweightStarlightRelighterFactory as relighter factory.
+[21:36:30] [Server thread/INFO]: anmvc lost connection: Disconnected
+[21:36:30] [Server thread/INFO]: anmvc left the game
+[21:41:28] [User Authenticator #1/INFO]: UUID of player anmvc is e23c38f3-ad85-49e6-a62d-3fae69f9db97
+[21:41:28] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player anmvc
+[21:41:28] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player anmvc
+[21:41:28] [Server thread/INFO]: anmvc joined the game
+[21:41:28] [Server thread/INFO]: anmvc[/172.56.103.201:15000] logged in with entity id 107 at ([world]0.7515313249807002, 65.0, -13.013996352267476)
+[21:41:45] [Server thread/INFO]: anmvc lost connection: Disconnected
+[21:41:45] [Server thread/INFO]: anmvc left the game
+[21:45:02] [Server thread/INFO]: 
+[21:45:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[21:45:02] [Server thread/INFO]: 
+[21:55:02] [Server thread/INFO]: 
+[21:55:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[21:55:02] [Server thread/INFO]: 
+[22:05:02] [Server thread/INFO]: 
+[22:05:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[22:05:02] [Server thread/INFO]: 
+[22:08:16] [User Authenticator #2/INFO]: UUID of player Latorias is 76d69bd5-b5b4-4c15-9c5e-e94de5b7726d
+[22:08:17] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player Latorias
+[22:08:17] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player Latorias
+[22:08:17] [Server thread/INFO]: Latorias joined the game
+[22:08:17] [Server thread/INFO]: Latorias[/76.153.251.63:44366] logged in with entity id 132 at ([world]-11.097669280517145, 64.0, 3.7127507187122073)
+[22:09:31] [Server thread/WARN]: [SuperVanish] Unknown exception occurred!
+[22:09:31] [Server thread/WARN]: [SuperVanish] Please report this issue!
+[22:09:31] [Server thread/WARN]: [SuperVanish] Message: 
+[22:09:31] [Server thread/WARN]: [SuperVanish]   Field index 0 is out of bounds for length 0
+[22:09:31] [Server thread/WARN]: [SuperVanish] General information: 
+[22:09:31] [Server thread/WARN]: [SuperVanish]   ServerVersion: 1.20.6-2233-0d6766e (MC: 1.20.6)
+[22:09:31] [Server thread/WARN]: [SuperVanish]   PluginVersion: 6.2.19
+[22:09:31] [Server thread/WARN]: [SuperVanish]   ServerPlugins: ViaVersion v5.0.3-SNAPSHOT, LuckPerms v5.4.128, FastAsyncWorldEdit v2.11.1-SNAPSHOT-859;8c3df59, ProtocolLib v5.3.0-SNAPSHOT-721, PlaceholderAPI v2.11.6, Essentials v2.21.0-dev+102-fcf6e64, WorldGuard v7.0.10+d9424b1, VoidGen v2.2.1, ViaBackwards v5.0.3-SNAPSHOT, Skript v2.9.1, Multiverse-Core v4.3.1-b861, floodgate v2.2.3-SNAPSHOT (b109-49bd564), ViaRewind v4.0.2, Citizens v2.0.35-SNAPSHOT (build 3441), ItemEdit v3.4.2, BlueSlimeCore v2.9.6.431, DecentHolograms v2.8.9, nightcore v2.6.2, AdvancedBan v2.3.0, CoreProtect v22.4, spark v1.10.93, AxVaults v1.9.1, SkBee v3.5.7, MiniMOTD v2.1.2, DiscordSRV v1.27.0, CataMines v2.5.11, PermSk v1.1.1, TAB v4.1.6, AutoPickup v1.4.4-SNAPSHOT, Shopkeepers v2.22.3, Tebex v2.0.6, ItemTag v3.4.2, DiSky v4.17.2, PlugManX v2.4.1, FreedomChat v1.6.1, LPC v3.6.0, ajLeaderboards v2.9.0, CombatLogX v11.5.0.0.1242, AntiPopup v9.2, WorldEditSelectionVisualizer v2.1.7, InventoryRollbackPlus v1.6.17, ShulkerPacks v1.6.4, SimplePortals v1.7.6, ExcellentCrates v5.2.3.1, BansWebhook v2.2, AxiomPaper v1.5.12, Vulcan v2.8.9, skript-reflect v2.5.1,
+[22:09:31] [Server thread/WARN]: [SuperVanish] Settings:
+[22:09:31] [Server thread/WARN]: [SuperVanish]   MsgsVersion: 6.2.18
+[22:09:31] [Server thread/WARN]: [SuperVanish]   Settings: ||InvisibilityFeatures.NightVisionEffect>true||InvisibilityFeatures.DisableDamage>true||InvisibilityFeatures.DisableHunger>true||InvisibilityFeatures.DisableMobTarget>true||InvisibilityFeatures.OpenChestsSilently>true||InvisibilityFeatures.DisablePressurePlates>true||InvisibilityFeatures.DisablePush>false||InvisibilityFeatures.DefaultPickUpItemsOption>false||InvisibilityFeatures.ModifyTablistPackets>true||InvisibilityFeatures.ModifyTabCompletePackets>true||InvisibilityFeatures.PreventSculkSensorActivation>true||InvisibilityFeatures.PreventTurtleEggBreaking>true||InvisibilityFeatures.DisableDripLeaf>true||InvisibilityFeatures.PreventRaidTriggering>true||InvisibilityFeatures.PreventMobSpawning>true||InvisibilityFeatures.Fly.Enable>true||InvisibilityFeatures.Fly.DisableOnReappear>true||VanishStateFeatures.AutoVanishOnJoin>false||VanishStateFeatures.ReappearOnWorldChange>false||VanishStateFeatures.ReappearOnQuit>false||VanishStateFeatures.CheckPermissionOnWorldChange>false||VanishStateFeatures.CheckPermissionOnQuit>false||VanishStateFeatures.CheckPermissionOnLogin>false||IndicationFeatures.LayeredPermissions.EnableSeePermission>true||IndicationFeatures.LayeredPermissions.LayeredSeeAndUsePermissions>false||IndicationFeatures.LayeredPermissions.MaxLevel>100||IndicationFeatures.MarkVanishedPlayersAsSpectators>true||MessageOptions.FakeJoinQuitMessages.BroadcastFakeQuitOnVanish>false||MessageOptions.FakeJoinQuitMessages.BroadcastFakeJoinOnReappear>false||MessageOptions.FakeJoinQuitMessages.AnnounceVanishReappearToAdmins>false||MessageOptions.FakeJoinQuitMessages.SendMessageOnlyToAdmins>false||MessageOptions.FakeJoinQuitMessages.SendMessageOnlyToUsers>false||MessageOptions.HideRealJoinQuitMessages>true||MessageOptions.HideAdvancementMessages>true||MessageOptions.ReappearOnQuitHideLeaveMsg>true||MessageOptions.AnnounceRealJoinQuitToAdmins>true||MessageOptions.AnnounceDeathToAdmins>true||MessageOptions.RemindVanishedOnJoin>true||MessageOptions.DisplayActionBar>true||RestrictiveOptions.PreventBlockBreaking>false||RestrictiveOptions.PreventBlockPlacing>false||RestrictiveOptions.PreventHittingEntities>false||ExternalInvisibility.ServerList.AdjustAmountOfOnlinePlayers>true||ExternalInvisibility.ServerList.AdjustListOfLoggedInPlayers>true||HookOptions.EnableEssentialsHook>true||HookOptions.EnableDynmapHook>true||HookOptions.DynmapSendJoinLeaveMessages>true||HookOptions.EnableTrailGUIHook>true||HookOptions.EnablePlaceholderAPIHook>true||HookOptions.EnableMVdWPlaceholderAPIHook>true||HookOptions.EnableCitizensHook>true||CompatibilityOptions.PlayerJoinEventPriority>HIGH||CompatibilityOptions.PlayerQuitEventPriority>HIGH||MiscellaneousOptions.UpdateChecker.Enable>true||MiscellaneousOptions.UpdateChecker.NotifyAdmins>true||ConfigVersion>6.2.18||
+[22:09:31] [Server thread/WARN]: [SuperVanish] StackTrace: 
+[22:09:31] [Server thread/WARN]: FieldAccessException: Field index 0 is out of bounds for length 0
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.reflect.FieldAccessException.fromFormat(FieldAccessException.java:49)
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.reflect.StructureModifier.read(StructureModifier.java:247)
+[22:09:31] [Server thread/WARN]: 	at SuperVanish.jar//de.myzelyam.supervanish.visibility.hiders.modules.TabCompleteModule.onPacketSending(TabCompleteModule.java:47)
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.injector.collection.OutboundPacketListenerSet.invokeListener(OutboundPacketListenerSet.java:74)
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.injector.collection.PacketListenerSet.lambda$invoke$0(PacketListenerSet.java:120)
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.timing.TimingTracker.lambda$static$0(TimingTracker.java:7)
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.injector.collection.PacketListenerSet.invoke(PacketListenerSet.java:120)
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.injector.collection.OutboundPacketListenerSet.invoke(OutboundPacketListenerSet.java:30)
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.injector.collection.PacketListenerSet.invoke(PacketListenerSet.java:99)
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.injector.PacketFilterManager.postPacketToListeners(PacketFilterManager.java:543)
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.injector.PacketFilterManager.invokePacketSending(PacketFilterManager.java:517)
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.injector.netty.manager.NetworkManagerInjector.onPacketSending(NetworkManagerInjector.java:74)
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.injector.netty.channel.NettyChannelInjector.processOutbound(NettyChannelInjector.java:548)
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.proxyRunnable(NettyEventLoopProxy.java:44)
+[22:09:31] [Server thread/WARN]: 	at ProtocolLib.jar//com.comphenix.protocol.injector.netty.channel.NettyEventLoopProxy.execute(NettyEventLoopProxy.java:233)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.network.Connection.sendPacket(Connection.java:489)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.network.Connection.send(Connection.java:449)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.server.network.ServerCommonPacketListenerImpl.send(ServerCommonPacketListenerImpl.java:345)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.server.network.ServerCommonPacketListenerImpl.send(ServerCommonPacketListenerImpl.java:326)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$sendServerSuggestions$5(ServerGamePacketListenerImpl.java:900)
+[22:09:31] [Server thread/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptNow(CompletableFuture.java:757)
+[22:09:31] [Server thread/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.uniAcceptStage(CompletableFuture.java:735)
+[22:09:31] [Server thread/WARN]: 	at java.base/java.util.concurrent.CompletableFuture.thenAccept(CompletableFuture.java:2214)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl.sendServerSuggestions(ServerGamePacketListenerImpl.java:890)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.server.network.ServerGamePacketListenerImpl.lambda$handleCustomCommandSuggestions0$2(ServerGamePacketListenerImpl.java:851)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.server.TickTask.run(TickTask.java:18)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1546)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:195)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1523)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1446)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1412)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1273)
+[22:09:31] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:326)
+[22:09:31] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[22:09:31] [Server thread/WARN]: [SuperVanish] Please include this information
+[22:09:31] [Server thread/WARN]: [SuperVanish] if you report the issue.
+[22:09:31] [Server thread/WARN]: [SuperVanish] IMPORTANT: Please make sure that you are using the latest dev-build of ProtocolLib and that your server is up-to-date! This error likely happened inside of ProtocolLib code which is out of SuperVanish's control. It's part of an optional invisibility module and can be removed safely by disabling ModifyTabCompletePackets in the config. Please report this error if you can reproduce it on an up-to-date server with only latest ProtocolLib and latest SV installed.
+[22:09:31] [Server thread/INFO]: Latorias issued server command: /pv 1
+[22:09:51] [Server thread/INFO]: Latorias lost connection: Disconnected
+[22:09:51] [Server thread/INFO]: Latorias left the game
+[22:15:02] [Server thread/INFO]: 
+[22:15:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[22:15:02] [Server thread/INFO]: 
+[22:18:23] [User Authenticator #3/INFO]: UUID of player _Anybody___ is d352d435-30f6-4c1c-a10f-44d1a3c8d707
+[22:18:23] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player _Anybody___
+[22:18:23] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player _Anybody___
+[22:18:23] [Server thread/INFO]: _Anybody___ joined the game
+[22:18:23] [Server thread/INFO]: _Anybody___[/99.168.107.187:48820] logged in with entity id 161 at ([world]20.7296948387169, 66.0, 23.888277659814175)
+[22:20:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[22:25:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[22:25:02] [Server thread/INFO]: 
+[22:25:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[22:25:02] [Server thread/INFO]: 
+[22:30:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[22:35:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[22:35:02] [Server thread/INFO]: 
+[22:35:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[22:35:02] [Server thread/INFO]: 
+[22:40:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[22:45:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[22:45:02] [Server thread/INFO]: 
+[22:45:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[22:45:02] [Server thread/INFO]: 
+[22:50:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[22:55:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[22:55:02] [Server thread/INFO]: 
+[22:55:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[22:55:02] [Server thread/INFO]: 
+[22:56:00] [User Authenticator #4/INFO]: UUID of player CoolHotDog64 is 991d1520-2a9d-4f4d-9234-dce0492bd649
+[22:56:00] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player CoolHotDog64
+[22:56:00] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player CoolHotDog64
+[22:56:00] [Server thread/INFO]: CoolHotDog64 joined the game
+[22:56:00] [Server thread/INFO]: CoolHotDog64[/23.187.157.221:24206] logged in with entity id 378 at ([world]-12.5, 150.0, 229.5)
+[22:56:11] [User Authenticator #4/INFO]: UUID of player Latorias is 76d69bd5-b5b4-4c15-9c5e-e94de5b7726d
+[22:56:11] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player Latorias
+[22:56:11] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player Latorias
+[22:56:11] [Server thread/INFO]: Latorias joined the game
+[22:56:11] [Server thread/INFO]: Latorias[/76.153.251.63:38584] logged in with entity id 379 at ([world]-2.704734838814286, 65.0, 4.997303023740799)
+[22:56:19] [Async Chat Thread - #1/INFO]: ʜᴇʟᴘᴇʀ | Latorias: wsg
+[22:56:22] [Async Chat Thread - #1/INFO]: ʜᴇʟᴘᴇʀ | Latorias: \u need help???
+[22:56:25] [Async Chat Thread - #0/INFO]: ᴘʟᴀʏᴇʀ | CoolHotDog64: yes
+[22:56:28] [Server thread/INFO]: Latorias issued server command: /pv 1
+[22:56:47] [Async Chat Thread - #0/INFO]: ʜᴇʟᴘᴇʀ | Latorias: pick up the stuff
+[22:56:55] [Async Chat Thread - #0/INFO]: ᴘʟᴀʏᴇʀ | CoolHotDog64: no
+[22:56:57] [Async Chat Thread - #0/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: erm what the sigma
+[22:57:01] [Async Chat Thread - #0/INFO]: ᴘʟᴀʏᴇʀ | CoolHotDog64: yo thanks
+[22:57:53] [Server thread/INFO]: [CombatLogX] Using non-NMS Paper EntityHandler
+[22:58:03] [Async Chat Thread - #2/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: wait
+[22:58:08] [Async Chat Thread - #2/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: lemme sit in my chair right
+[22:58:10] [User Authenticator #5/INFO]: UUID of player _bunny_y is 507696ac-ddd2-4c41-9c56-e31ad085e03e
+[22:58:10] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player _bunny_y
+[22:58:11] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player _bunny_y
+[22:58:11] [Server thread/INFO]: _bunny_y joined the game
+[22:58:11] [Server thread/INFO]: _bunny_y[/253.33.219.34:40982] logged in with entity id 1872 at ([world]-12.5, 150.0, 229.5)
+[22:58:11] [Server thread/INFO]: _bunny_y lost connection: Disconnected
+[22:58:11] [Server thread/INFO]: _bunny_y left the game
+[23:00:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[23:00:42] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:01:06] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:01:13] [Server thread/INFO]: Latorias issued server command: /pv 2
+[23:01:18] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:01:56] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:02:55] [Server thread/INFO]: _Anybody___ issued server command: /pv 1
+[23:02:57] [Server thread/INFO]: _Anybody___ issued server command: /pv 2
+[23:03:38] [Async Chat Thread - #4/INFO]: ᴘʟᴀʏᴇʀ | CoolHotDog64: how do you get netherite
+[23:03:52] [Async Chat Thread - #4/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: you ahve to suck my hotdog
+[23:03:58] [Async Chat Thread - #4/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: and you get netherite
+[23:03:59] [User Authenticator #6/INFO]: UUID of player _Embody___ is 8be8b1ed-a1e0-4b62-bb81-70f44aa9c781
+[23:03:59] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player _Embody___
+[23:03:59] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player _Embody___
+[23:03:59] [Server thread/INFO]: _Embody___ joined the game
+[23:03:59] [Server thread/INFO]: _Embody___[/35.149.95.29:6352] logged in with entity id 2288 at ([world]-12.5, 150.0, 229.5)
+[23:04:18] [Async Chat Thread - #4/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: stepsis tryna get touched
+[23:04:50] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:05:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[23:05:02] [Server thread/INFO]: 
+[23:05:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[23:05:02] [Server thread/INFO]: 
+[23:05:20] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:05:22] [Server thread/INFO]: CoolHotDog64 lost connection: Disconnected
+[23:05:22] [Server thread/INFO]: CoolHotDog64 left the game
+[23:05:31] [Server thread/INFO]: _Anybody___ lost connection: Disconnected
+[23:05:31] [Server thread/INFO]: _Anybody___ left the game
+[23:05:48] [User Authenticator #7/INFO]: UUID of player Horizon_Wanderer is eff330dd-4f93-400a-b3da-4782a4ddd1da
+[23:05:48] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player Horizon_Wanderer
+[23:05:48] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player Horizon_Wanderer
+[23:05:48] [Server thread/INFO]: Horizon_Wanderer joined the game
+[23:05:48] [Server thread/INFO]: Horizon_Wanderer[/30.17.0.110:3986] logged in with entity id 3132 at ([world]-12.5, 150.0, 229.5)
+[23:06:35] [Server thread/INFO]: Horizon_Wanderer lost connection: Disconnected
+[23:06:35] [Server thread/INFO]: Horizon_Wanderer left the game
+[23:07:20] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:07:55] [Server thread/INFO]: Latorias lost connection: Disconnected
+[23:07:55] [Server thread/INFO]: Latorias left the game
+[23:13:24] [Server thread/INFO]: _Embody___ issued server command: /crate
+[23:15:02] [Server thread/INFO]: 
+[23:15:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[23:15:02] [Server thread/INFO]: 
+[23:22:44] [User Authenticator #8/INFO]: UUID of player Miss_Fox135 is 4df40d92-9e52-4492-8fcb-dfb8a2296065
+[23:22:44] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player Miss_Fox135
+[23:22:44] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player Miss_Fox135
+[23:22:44] [Server thread/INFO]: Miss_Fox135 joined the game
+[23:22:44] [Server thread/INFO]: Miss_Fox135[/112.49.179.72:2024] logged in with entity id 4076 at ([world]2.0146582664266153, 65.0, 7.537837549177527)
+[23:22:44] [Server thread/INFO]: Miss_Fox135 lost connection: Disconnected
+[23:22:44] [Server thread/INFO]: Miss_Fox135 left the game
+[23:23:17] [User Authenticator #8/INFO]: UUID of player Miss_Fox135 is 4df40d92-9e52-4492-8fcb-dfb8a2296065
+[23:23:17] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player Miss_Fox135
+[23:23:17] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player Miss_Fox135
+[23:23:17] [Server thread/INFO]: Miss_Fox135 joined the game
+[23:23:17] [Server thread/INFO]: Miss_Fox135[/112.49.179.72:45144] logged in with entity id 4077 at ([world]0.5642715581269875, 64.875, 0.5065018302499171)
+[23:23:17] [Server thread/INFO]: Miss_Fox135 lost connection: Disconnected
+[23:23:17] [Server thread/INFO]: Miss_Fox135 left the game
+[23:25:02] [Server thread/INFO]: 
+[23:25:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[23:25:02] [Server thread/INFO]: 
+[23:26:56] [User Authenticator #9/INFO]: UUID of player Latorias is 76d69bd5-b5b4-4c15-9c5e-e94de5b7726d
+[23:26:56] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player Latorias
+[23:26:56] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player Latorias
+[23:26:56] [Server thread/INFO]: Latorias joined the game
+[23:26:56] [Server thread/INFO]: Latorias[/76.153.251.63:61526] logged in with entity id 4102 at ([world]25.896481074557705, 65.0, -1.5307965447368015)
+[23:27:05] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:27:20] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:27:46] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:27:51] [Server thread/INFO]: Latorias issued server command: /spawn
+[23:28:11] [User Authenticator #10/INFO]: UUID of player RedSnicker is 387e7966-34d8-4397-b4d7-0c1dff6d2c05
+[23:28:12] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player RedSnicker
+[23:28:12] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player RedSnicker
+[23:28:12] [Server thread/INFO]: RedSnicker[/151.202.94.4:15672] logged in with entity id 4112 at ([world]0.7465890761123256, 67.87429331309657, -24.447234898933964)
+[23:28:28] [Server thread/INFO]: RedSnicker issued server command: /gamemode creative
+[23:29:05] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:29:11] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:29:16] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl
+[23:29:19] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl
+[23:29:25] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 2
+[23:29:29] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 1
+[23:29:31] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 5
+[23:29:40] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot snowball with speed 5
+[23:29:41] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot snowball with speed 5
+[23:29:44] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot snowball with speed 5
+[23:29:46] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot snowball with speed 5
+[23:29:48] [Server thread/INFO]: RedSnicker issued server command: /tp lato
+[23:30:27] [Server thread/INFO]: RedSnicker issued server command: /tp lato
+[23:30:30] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot fireball with speed 1
+[23:30:38] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot fireball with speed 10
+[23:30:41] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot fireball with speed 10
+[23:30:45] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot fireball with speed 10
+[23:30:46] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot fireball with speed 10
+[23:31:08] [Server thread/INFO]: Latorias issued server command: /spawn
+[23:31:16] [Server thread/INFO]: Latorias lost connection: Disconnected
+[23:31:16] [Server thread/INFO]: Latorias left the game
+[23:31:45] [Server thread/INFO]: RedSnicker issued server command: /tp _Embody___
+[23:31:49] [Server thread/INFO]: RedSnicker issued server command: /invsee em
+[23:32:00] [Server thread/INFO]: RedSnicker issued server command: /invsee em
+[23:32:04] [Server thread/INFO]: RedSnicker issued server command: /invsee em
+[23:32:15] [Server thread/INFO]: RedSnicker issued server command: /info
+[23:32:18] [Server thread/INFO]: RedSnicker issued server command: /invsee em
+[23:32:30] [Server thread/INFO]: RedSnicker issued server command: /enderchest _Embody___
+[23:32:37] [User Authenticator #11/INFO]: UUID of player _Anybody___ is d352d435-30f6-4c1c-a10f-44d1a3c8d707
+[23:32:37] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player _Anybody___
+[23:32:37] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player _Anybody___
+[23:32:37] [Server thread/INFO]: _Anybody___ joined the game
+[23:32:37] [Server thread/INFO]: _Anybody___[/99.168.107.187:7262] logged in with entity id 4219 at ([world]1.1636978382223162, 65.0, -3.381759071533662)
+[23:32:37] [Server thread/INFO]: RedSnicker issued server command: /vaultadmin view _Embody___
+[23:32:43] [Server thread/INFO]: RedSnicker issued server command: /vaultadmin view _Anybody___
+[23:32:48] [Server thread/INFO]: RedSnicker issued server command: /enderchest _Anybody___
+[23:32:56] [Async Chat Thread - #8/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: redsnicker I see you on tablist before joining the game
+[23:33:26] [Server thread/INFO]: [Skript] RedSnicker issued effect command: broadcast "i dont know whatchu talking about also this is your mind, definitely not red"
+[23:33:26] [Server thread/INFO]: i dont know whatchu talking about also this is your mind, definitely not red
+[23:33:36] [Async Chat Thread - #8/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: crazy
+[23:33:39] [Server thread/INFO]: RedSnicker issued server command: /invsee any
+[23:33:45] [Async Chat Thread - #8/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: why u afking?
+[23:33:50] [Server thread/INFO]: RedSnicker issued server command: /echest _Anybody___
+[23:33:57] [Async Chat Thread - #8/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: because idk
+[23:33:58] [Server thread/INFO]: RedSnicker issued server command: /invsee _Anybody___
+[23:34:00] [Async Chat Thread - #8/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: does it work
+[23:34:04] [Server thread/INFO]: RedSnicker issued server command: /info
+[23:34:07] [Async Chat Thread - #8/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: dont think so
+[23:34:11] [Async Chat Thread - #8/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: you gotta fix it
+[23:34:15] [Server thread/INFO]: RedSnicker issued server command: /echest A
+[23:34:25] [Server thread/INFO]: RedSnicker issued server command: /v
+[23:34:38] [Server thread/INFO]: RedSnicker issued server command: /v
+[23:34:40] [Async Chat Thread - #8/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: erm what the sigma
+[23:34:44] [Async Chat Thread - #8/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: u saw nothin
+[23:35:00] [Async Chat Thread - #8/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: also the fuck how did you even get full neth, magma offhand and full neth tools?
+[23:35:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[23:35:02] [Server thread/INFO]: 
+[23:35:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[23:35:02] [Server thread/INFO]: 
+[23:35:02] [Server thread/INFO]: Wind Genz | A koth has started! Stand in the red area in the Koth for 1 minute to win!
+[23:35:02] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:35:04] [Server thread/INFO]: RedSnicker issued server command: /invsee any
+[23:35:06] [Async Chat Thread - #8/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: because sigma
+[23:35:16] [Async Chat Thread - #8/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: when no one is on im on
+[23:35:18] [Server thread/INFO]: Wind Genz |  _Anybody___ is now capping koth!
+[23:35:18] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:35:23] [Async Chat Thread - #8/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: okay..
+[23:35:31] [Server thread/INFO]: _Anybody___ issued server command: /gay
+[23:35:36] [Server thread/INFO]: RedSnicker issued server command: /gay
+[23:35:40] [Async Chat Thread - #8/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: the fuck
+[23:35:45] [Async Chat Thread - #8/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: huh
+[23:35:59] [Async Chat Thread - #8/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: u typed [/gay]
+[23:36:02] [Async Chat Thread - #8/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: nuh uh
+[23:36:06] [Async Chat Thread - #8/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: yuh uh
+[23:36:09] [Async Chat Thread - #8/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: i have screenshot proof
+[23:36:09] [Async Chat Thread - #9/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: erm
+[23:36:15] [Async Chat Thread - #9/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: im bout to nut
+[23:36:24] [User Authenticator #12/INFO]: UUID of player Latorias is 76d69bd5-b5b4-4c15-9c5e-e94de5b7726d
+[23:36:25] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player Latorias
+[23:36:25] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player Latorias
+[23:36:25] [Server thread/INFO]: Latorias joined the game
+[23:36:25] [Server thread/INFO]: Latorias[/76.153.251.63:24326] logged in with entity id 4779 at ([world]0.5692634228049366, 65.0, -2.6623468966626205)
+[23:36:40] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:36:41] [Server thread/INFO]: Wind Genz |  RedSnicker is now capping koth!
+[23:36:41] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:36:43] [Server thread/INFO]: WindGenz Latorias has killed _Anybody___ using netherite sword
+[23:36:47] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:36:51] [Server thread/INFO]: Wind Genz |  Latorias is now capping koth!
+[23:36:51] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:36:55] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:36:57] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:37:00] [Server thread/INFO]: Latorias issued server command: /pv 2
+[23:37:05] [Server thread/INFO]: Wind Genz |  Latorias is now capping koth!
+[23:37:05] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:37:32] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:37:33] [Server thread/INFO]: Wind Genz |  Latorias is now capping koth!
+[23:37:33] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:37:48] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow
+[23:37:50] [Server thread/INFO]: _Anybody___ issued server command: /cum
+[23:37:57] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow
+[23:38:08] [Async Chat Thread - #11/INFO]: ʜᴇʟᴘᴇʀ | Latorias: bro tab says theres 4 play ers
+[23:38:13] [Async Chat Thread - #11/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: ikr
+[23:38:15] [Async Chat Thread - #11/INFO]: ʜᴇʟᴘᴇʀ | Latorias: and there is only 3 showing
+[23:38:16] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: ah fuck it
+[23:38:22] [Async Chat Thread - #11/INFO]: ʜᴇʟᴘᴇʀ | Latorias: red gg your cooked
+[23:38:26] [Server thread/INFO]: _Anybody___ issued server command: /cum twice
+[23:38:30] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow with speed 10
+[23:38:35] [Async Chat Thread - #11/INFO]: ʜᴇʟᴘᴇʀ | Latorias: i dont take kb
+[23:38:35] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow with speed 10
+[23:38:39] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow with speed 10000000
+[23:38:40] [Server thread/INFO]: WindGenz RedSnicker has killed Latorias using 0 air
+[23:38:40] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:38:41] [User Authenticator #13/INFO]: UUID of player sheepi0 is 1124b11e-afc0-4399-847f-936c65d8f16a
+[23:38:42] [Async Chat Thread - #11/INFO]: ʜᴇʟᴘᴇʀ | Latorias: tf
+[23:38:42] [Server thread/INFO]: _Anybody___ issued server command: /cum three times
+[23:38:44] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: tf
+[23:38:45] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player sheepi0
+[23:38:45] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player sheepi0
+[23:38:45] [Server thread/INFO]: sheepi0 joined the game
+[23:38:45] [Server thread/INFO]: sheepi0[/85.75.213.91:13770] logged in with entity id 4877 at ([world]5.7580561865149145, 63.0, -8.476482037967328)
+[23:38:47] [Server thread/INFO]: RedSnicker issued server command: /tphere lato
+[23:38:47] [Server thread/INFO]: Wind Genz |  Latorias is now capping koth!
+[23:38:47] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:38:49] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:38:55] [Async Chat Thread - #11/INFO]: ᴘʟᴀʏᴇʀ | _Anybody___: erm what happened
+[23:38:55] [Server thread/INFO]: Wind Genz |  Latorias is now capping koth!
+[23:38:55] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:38:56] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: i can one tap anyone using momentum?
+[23:38:57] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:39:04] [Server thread/INFO]: _Anybody___ issued server command: /cum 4 times
+[23:39:05] [Async Chat Thread - #11/INFO]: ʜᴇʟᴘᴇʀ | Latorias: my gear broke
+[23:39:05] [Server thread/INFO]: Wind Genz |  Latorias is now capping koth!
+[23:39:05] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:39:06] [Async Chat Thread - #11/INFO]: ʜᴇʟᴘᴇʀ | Latorias: my gear broke
+[23:39:07] [Async Chat Thread - #11/INFO]: ʜᴇʟᴘᴇʀ | Latorias: my gear broke
+[23:39:07] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:39:10] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: oh shi
+[23:39:11] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: here
+[23:39:11] [Server thread/INFO]: Wind Genz |  RedSnicker is now capping koth!
+[23:39:11] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:39:15] [Server thread/INFO]: _Anybody___ issued server command: /cum 5 times
+[23:39:19] [Server thread/INFO]: RedSnicker issued server command: /co rollback Latorias
+[23:39:27] [Server thread/INFO]: RedSnicker issued server command: /co rollback Latorias time: 1m
+[23:39:28] [Server thread/INFO]: _Anybody___ issued server command: /cum 6 times
+[23:39:30] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: done?
+[23:39:36] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:39:37] [Server thread/INFO]: Wind Genz |  Latorias is now capping koth!
+[23:39:37] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:39:37] [Server thread/INFO]: _Anybody___ issued server command: /cum 7 times
+[23:39:38] [Server thread/INFO]: RedSnicker issued server command: /co rollback Latorias time: 2m
+[23:39:41] [Async Chat Thread - #11/INFO]: ʜᴇʟᴘᴇʀ | Latorias: what u meandone???
+[23:39:42] [Async Chat Thread - #11/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: oh so thats why i got a lil low fps-
+[23:39:42] [Server thread/INFO]: RedSnicker issued server command: /invsee lato
+[23:39:46] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: wait a sec
+[23:39:50] [Server thread/INFO]: _Anybody___ issued server command: /cum 8 times
+[23:39:57] [Async Chat Thread - #12/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: oh shit...
+[23:39:59] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: okay
+[23:40:00] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: uhm
+[23:40:01] [Async Chat Thread - #11/INFO]: ʜᴇʟᴘᴇʀ | Latorias: can u make it so koth keys do shit
+[23:40:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[23:40:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[23:40:03] [Server thread/INFO]: _Anybody___ issued server command: /cum 9 times
+[23:40:04] [Async Chat Thread - #11/INFO]: ʜᴇʟᴘᴇʀ | Latorias: tokens
+[23:40:16] [Server thread/INFO]: _Anybody___ issued server command: /cum 10 times!!!
+[23:40:18] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: what your armor again?
+[23:40:33] [Server thread/INFO]: _Anybody___ issued server command: /cum 11 times
+[23:40:42] [Server thread/INFO]: _Anybody___ issued server command: /cum 12 times
+[23:40:48] [Server thread/INFO]: sheepi0 issued server command: /pv 1
+[23:40:49] [Server thread/INFO]: RedSnicker issued server command: /enchant protect 3
+[23:40:51] [Server thread/INFO]: _Anybody___ issued server command: /cum 13 times
+[23:40:52] [Async Chat Thread - #12/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: Latorias
+[23:40:55] [Async Chat Thread - #12/INFO]: ʜᴇʟᴘᴇʀ | Latorias: yuh
+[23:40:55] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: what is your armor
+[23:41:03] [Async Chat Thread - #11/INFO]: ʜᴇʟᴘᴇʀ | Latorias: p4 mending unbreaking 3
+[23:41:04] [Server thread/INFO]: _Anybody___ issued server command: /cum 14 times
+[23:41:08] [Server thread/INFO]: RedSnicker issued server command: /enchant protect 4
+[23:41:10] [Server thread/INFO]: RedSnicker issued server command: /enchant protect 4
+[23:41:11] [Server thread/INFO]: RedSnicker issued server command: /enchant protect 4
+[23:41:13] [Server thread/INFO]: RedSnicker issued server command: /enchant protect 4
+[23:41:14] [Server thread/INFO]: _Anybody___ issued server command: /cum 15 times
+[23:41:18] [Server thread/INFO]: RedSnicker issued server command: /enchant unbreaking 3
+[23:41:20] [Server thread/INFO]: RedSnicker issued server command: /enchant unbreaking 3
+[23:41:21] [Server thread/INFO]: RedSnicker issued server command: /enchant unbreaking 3
+[23:41:22] [Server thread/INFO]: _Anybody___ issued server command: /cum 16 times
+[23:41:23] [Server thread/INFO]: RedSnicker issued server command: /enchant unbreaking 3
+[23:41:27] [Server thread/INFO]: RedSnicker issued server command: /durability
+[23:41:37] [Server thread/INFO]: Wind Genz | Latorias won the koth!
+[23:41:37] [Server thread/INFO]: [DecentHolograms] Line has been set!
+[23:41:44] [Server thread/INFO]: _Anybody___ issued server command: /cum 17 times
+[23:41:44] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: sheepi0
+[23:41:45] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:41:48] [Async Chat Thread - #11/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: yuh?
+[23:41:48] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: take off your armor..
+[23:41:52] [Async Chat Thread - #11/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: .
+[23:41:55] [Async Chat Thread - #11/INFO]: ʜᴇʟᴘᴇʀ | Latorias: u forgot mending..................
+[23:41:56] [Async Chat Thread - #11/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: 1 sec
+[23:41:58] [Server thread/INFO]: _Anybody___ issued server command: /cum 18 times
+[23:42:02] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: Latorias wait
+[23:42:05] [Server thread/INFO]: sheepi0 issued server command: /pv 1
+[23:42:09] [Async Chat Thread - #11/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: aight im ready
+[23:42:14] [Async Chat Thread - #11/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: okay
+[23:42:15] [Async Chat Thread - #12/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: wait
+[23:42:23] [Server thread/INFO]: _Anybody___ issued server command: /cum 19 times
+[23:42:38] [Server thread/INFO]: RedSnicker issued server command: /invsee Latorias
+[23:42:42] [Server thread/INFO]: _Anybody___ issued server command: /CUM 20 TIMES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[23:42:45] [Server thread/INFO]: RedSnicker issued server command: /enchant mending
+[23:42:47] [Server thread/INFO]: RedSnicker issued server command: /enchant mending
+[23:42:49] [Server thread/INFO]: RedSnicker issued server command: /enchant mending
+[23:42:51] [Server thread/INFO]: RedSnicker issued server command: /enchant mending
+[23:42:53] [Server thread/INFO]: RedSnicker issued server command: /invsee lato
+[23:43:04] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:43:09] [Server thread/INFO]: RedSnicker issued server command: /tp sheepi0
+[23:43:15] [Server thread/INFO]: _Anybody___ issued server command: /CUM TO DEATH
+[23:43:15] [Async Chat Thread - #14/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: go to the op mines sheepi0
+[23:43:18] [Server thread/INFO]: _Anybody___ lost connection: Disconnected
+[23:43:18] [Server thread/INFO]: _Anybody___ left the game
+[23:43:20] [Async Chat Thread - #14/INFO]: ʜᴇʟᴘᴇʀ | Latorias: yo can u make a villager???
+[23:43:20] [User Authenticator #14/INFO]: UUID of player muhammed2010353 is 4abfa27b-45f9-4a86-bbe4-4882e686d10b
+[23:43:22] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player muhammed2010353
+[23:43:22] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player muhammed2010353
+[23:43:22] [Server thread/INFO]: muhammed2010353 joined the game
+[23:43:22] [Server thread/INFO]: muhammed2010353[/77.190.168.141:32916] logged in with entity id 5766 at ([world]-12.5, 150.0, 229.5)
+[23:43:25] [Async Chat Thread - #14/INFO]: ʜᴇʟᴘᴇʀ | Latorias: for koth tokens
+[23:43:32] [Async Chat Thread - #14/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: oooo cloudss
+[23:43:40] [Async Chat Thread - #15/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: dont kill him lato
+[23:43:41] [Async Chat Thread - #15/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: Latorias pls dont hurt me :<
+[23:43:43] [Server thread/INFO]: RedSnicker issued server command: /tphere lato
+[23:43:49] [Async Chat Thread - #15/INFO]: ᴘʟᴀʏᴇʀ | _Embody___: move kid
+[23:43:51] [Async Chat Thread - #15/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: stand still
+[23:43:55] [Async Chat Thread - #15/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: aight
+[23:44:02] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow with speed 2
+[23:44:05] [Async Chat Thread - #15/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: how much damage
+[23:44:09] [Async Chat Thread - #15/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: like 1.5
+[23:44:16] [Server thread/INFO]: RedSnicker issued server command: /gamemode spectator
+[23:44:17] [Server thread/INFO]: RedSnicker issued server command: /gamemode survival
+[23:44:19] [Server thread/INFO]: RedSnicker issued server command: /v
+[23:44:21] [Async Chat Thread - #15/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: see me?
+[23:44:22] [Async Chat Thread - #15/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: but i got to full health insta ;-;
+[23:44:23] [Async Chat Thread - #15/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: yuh
+[23:44:24] [Server thread/INFO]: RedSnicker issued server command: /i bow 1
+[23:44:28] [Async Chat Thread - #15/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: this bow
+[23:44:29] [Async Chat Thread - #14/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: im tryna anoy you as much as possible while im here lmao
+[23:44:32] [Async Chat Thread - #14/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: can kill u instantly
+[23:44:33] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: mhm mhm
+[23:44:35] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: D:
+[23:44:37] [Server thread/INFO]: WindGenz Latorias has killed sheepi0 using netherite sword
+[23:44:42] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: whats wrong with Latorias
+[23:45:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[23:45:02] [Server thread/INFO]: 
+[23:45:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[23:45:02] [Server thread/INFO]: 
+[23:45:04] [Async Chat Thread - #16/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: u reading my title at all?
+[23:45:10] [Async Chat Thread - #14/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: ☠
+[23:45:11] [Server thread/INFO]: RedSnicker issued server command: /i arrow 64
+[23:45:12] [Server thread/INFO]: Latorias issued server command: /pv 1`
+[23:45:13] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:45:16] [Async Chat Thread - #14/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: Latorias dum fr fr
+[23:46:07] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:46:10] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:46:15] [Async Chat Thread - #14/INFO]: ᴘʟᴀʏᴇʀ | _Embody___: go find ur dad
+[23:46:17] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:46:22] [Async Chat Thread - #14/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: nah
+[23:46:30] [Async Chat Thread - #14/INFO]: ʜᴇʟᴘᴇʀ | Latorias: nah gimme
+[23:46:34] [Async Chat Thread - #14/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: Latorias ty
+[23:46:35] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:46:37] [Async Chat Thread - #14/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: ty for the diamonds
+[23:46:39] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | _Embody___: hes prob smoking crack under a bridge
+[23:46:40] [Server thread/INFO]: sheepi0 issued server command: /pv 1
+[23:46:45] [Async Chat Thread - #16/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: take of your armor Latorias
+[23:46:49] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: idfk lmao
+[23:47:03] [Server thread/INFO]: RedSnicker issued server command: /i shield 1
+[23:47:07] [User Authenticator #15/INFO]: UUID of player nukavoid is 7c8980da-fa80-4c42-b4b4-929951a299af
+[23:47:07] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player nukavoid
+[23:47:07] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player nukavoid
+[23:47:07] [Server thread/INFO]: nukavoid joined the game
+[23:47:07] [Server thread/INFO]: nukavoid[/51.73.94.246:54578] logged in with entity id 6584 at ([world]-12.5, 150.0, 229.5)
+[23:47:16] [Server thread/INFO]: sheepi0 issued server command: /pv 1
+[23:47:16] [Server thread/INFO]: RedSnicker issued server command: /gamemode spectator
+[23:47:18] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: ty for the diamonds appriciate it
+[23:47:19] [Async Chat Thread - #16/INFO]: ʜᴇʟᴘᴇʀ | Latorias: wild
+[23:47:20] [Server thread/INFO]: RedSnicker issued server command: /gamemode creative
+[23:47:26] [Async Chat Thread - #16/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: hold that
+[23:47:31] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow with speed 1000
+[23:47:35] [Async Chat Thread - #16/INFO]: ʜᴇʟᴘᴇʀ | Latorias: damn
+[23:47:47] [Server thread/INFO]: WindGenz Latorias has killed sheepi0 using netherite sword
+[23:47:52] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: i got nothin ☠
+[23:48:01] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 0.5
+[23:48:01] [Async Chat Thread - #16/INFO]: ʜᴇʟᴘᴇʀ | Latorias: its fine i got a row of diamonds in my ov
+[23:48:03] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 0.5
+[23:48:05] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 0.5
+[23:48:10] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 1
+[23:48:12] [Server thread/INFO]: WindGenz Latorias has killed sheepi0 using netherite sword
+[23:48:14] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 2500
+[23:48:21] [User Authenticator #16/INFO]: UUID of player JackDoesMinecraf is 4ae339fb-6fd4-4d98-be77-ca976ef6edb1
+[23:48:22] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player JackDoesMinecraf
+[23:48:22] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player JackDoesMinecraf
+[23:48:22] [Server thread/INFO]: JackDoesMinecraf joined the game
+[23:48:22] [Server thread/INFO]: JackDoesMinecraf[/196.62.210.120:28676] logged in with entity id 6601 at ([world]-12.5, 150.0, 229.5)
+[23:48:22] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: Latorias is no fun fr fr
+[23:48:22] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 2500
+[23:48:25] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 2500
+[23:48:29] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 50
+[23:48:35] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 100
+[23:48:37] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 100
+[23:48:39] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 100
+[23:48:39] [Server thread/INFO]: Latorias issued server command: /pv 1
+[23:48:42] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 100
+[23:48:46] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 1
+[23:48:50] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot enderpearl with speed 20
+[23:49:04] [Server thread/INFO]: RedSnicker issued server command: /gamemode survival
+[23:49:05] [Server thread/INFO]: JackDoesMinecraf lost connection: Disconnected
+[23:49:05] [Server thread/INFO]: JackDoesMinecraf left the game
+[23:49:22] [Server thread/INFO]: WindGenz _Embody___ has killed muhammed2010353 using diamond sword
+[23:49:30] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: i got nothing lmfao
+[23:49:44] [Async Chat Thread - #16/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: server got active all of a sudden
+[23:49:46] [Async Chat Thread - #16/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: weird
+[23:49:48] [Async Chat Thread - #16/INFO]: ʜᴇʟᴘᴇʀ | Latorias: no gear no blocks no dad no family
+[23:49:50] [Async Chat Thread - #16/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: very sussy
+[23:49:55] [Async Chat Thread - #16/INFO]: ʜᴇʟᴘᴇʀ | Latorias: red but no one got gear
+[23:49:57] [Server thread/INFO]: WindGenz _Embody___ has killed muhammed2010353 using diamond sword
+[23:50:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[23:50:23] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: nah but Latorias what do you gain from killin people with nothin fr fr
+[23:50:33] [Async Chat Thread - #16/INFO]: ʜᴇʟᴘᴇʀ | Latorias: stats
+[23:50:38] [Async Chat Thread - #16/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: fall damage is off in the moss pit lol
+[23:50:39] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: where can i see em lol
+[23:50:41] [Server thread/INFO]: RedSnicker issued server command: /gamemode creative
+[23:50:44] [Server thread/INFO]: sheepi0 issued server command: /stats
+[23:50:45] [Server thread/INFO]: RedSnicker issued server command: /gamemode survival
+[23:50:51] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: theres no /stats
+[23:50:51] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow with speed 10
+[23:50:51] [Server thread/INFO]: WindGenz RedSnicker has killed muhammed2010353 using 0 air
+[23:50:56] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: no leaderboard
+[23:51:05] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: WTF
+[23:51:05] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: you gain nothing ☠
+[23:51:19] [Server thread/INFO]: RedSnicker issued server command: /gamemode creative
+[23:51:21] [Server thread/INFO]: RedSnicker issued server command: /tp mu
+[23:51:22] [Server thread/INFO]: RedSnicker issued server command: /gamemode survival
+[23:51:23] [Async Chat Thread - #16/INFO]: ʜᴇʟᴘᴇʀ | Latorias: bro forgot i got hacks
+[23:51:33] [Server thread/INFO]: RedSnicker issued server command: /tp mu
+[23:51:37] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow with speed 10
+[23:51:40] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow with speed 10
+[23:51:40] [Server thread/INFO]: WindGenz RedSnicker has killed muhammed2010353 using 0 air
+[23:51:45] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: lol
+[23:51:47] [Server thread/INFO]: nukavoid lost connection: Disconnected
+[23:51:47] [Server thread/INFO]: nukavoid left the game
+[23:51:50] [Server thread/INFO]: sheepi0 issued server command: /pv 1
+[23:51:53] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow with speed 1
+[23:51:57] [Server thread/INFO]: RedSnicker issued server command: /tp mu
+[23:52:00] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow with speed 10
+[23:52:04] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow with speed 10
+[23:52:04] [Server thread/INFO]: WindGenz RedSnicker has killed muhammed2010353 using 0 air
+[23:52:05] [Server thread/INFO]: sheepi0 issued server command: /pv 1
+[23:52:08] [Async Chat Thread - #14/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: bruh
+[23:52:13] [Async Chat Thread - #14/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: muhammed2010353 you mean :<
+[23:52:15] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow with speed 10
+[23:52:20] [Server thread/INFO]: sheepi0 issued server command: /pv 1
+[23:52:21] [Server thread/INFO]: [Skript] RedSnicker issued effect command: shoot arrow with speed 1074
+[23:52:21] [Server thread/INFO]: WindGenz RedSnicker has killed muhammed2010353 using bow
+[23:52:34] [Async Chat Thread - #16/INFO]: ʜᴇʟᴘᴇʀ | Latorias: hit me off
+[23:52:43] [User Authenticator #17/INFO]: UUID of player vadehitsthegr1dy is c8e49c6e-0281-4b1c-bf30-25e5bd5d093d
+[23:52:44] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player vadehitsthegr1dy
+[23:52:44] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player vadehitsthegr1dy
+[23:52:44] [Server thread/INFO]: vadehitsthegr1dy joined the game
+[23:52:44] [Server thread/INFO]: vadehitsthegr1dy[/164.252.171.130:14544] logged in with entity id 6795 at ([world]-14.552409047738886, 64.0, -8.83473705829362)
+[23:52:54] [Async Chat Thread - #14/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: wtf is this
+[23:52:55] [Async Chat Thread - #14/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: dont kill him
+[23:52:56] [Server thread/INFO]: RedSnicker issued server command: /gamemode creative
+[23:53:31] [Server thread/INFO]: vadehitsthegr1dy lost connection: Disconnected
+[23:53:31] [Server thread/INFO]: vadehitsthegr1dy left the game
+[23:53:36] [Server thread/INFO]: RedSnicker issued server command: /tphere lato
+[23:53:39] [Async Chat Thread - #14/INFO]: ʜᴇʟᴘᴇʀ | Latorias: omg
+[23:53:52] [Server thread/INFO]: RedSnicker issued server command: /tphere lato
+[23:54:01] [Server thread/INFO]: RedSnicker issued server command: //wand
+[23:54:06] [Server thread/INFO]: Latorias issued server command: /spawn
+[23:54:07] [Server thread/INFO]: Latorias lost connection: Disconnected
+[23:54:07] [Server thread/INFO]: Latorias left the game
+[23:54:08] [Server thread/INFO]: RedSnicker issued server command: /tphere lato
+[23:54:09] [Server thread/INFO]: RedSnicker issued server command: /tphere lato
+[23:54:10] [Server thread/INFO]: RedSnicker issued server command: /tphere lato
+[23:54:10] [Server thread/INFO]: RedSnicker issued server command: /tphere lato
+[23:54:10] [Server thread/INFO]: RedSnicker issued server command: /tphere lato
+[23:54:11] [Server thread/INFO]: RedSnicker issued server command: /tphere lato
+[23:54:11] [Server thread/INFO]: RedSnicker issued server command: /tphere lato
+[23:54:14] [User Authenticator #18/INFO]: UUID of player Latorias is 76d69bd5-b5b4-4c15-9c5e-e94de5b7726d
+[23:54:15] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player Latorias
+[23:54:15] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player Latorias
+[23:54:15] [Server thread/INFO]: Latorias joined the game
+[23:54:15] [Server thread/INFO]: Latorias[/76.153.251.63:31688] logged in with entity id 6958 at ([world]-9.093999907764815, -105.99103686452506, 97.90047846045128)
+[23:54:15] [Server thread/INFO]: RedSnicker issued server command: /tphere lato
+[23:54:22] [Server thread/INFO]: RedSnicker issued server command: //stack 50
+[23:54:22] [Async Chat Thread - #14/INFO]: ʜᴇʟᴘᴇʀ | Latorias: why cant i place blocks
+[23:54:30] [Server thread/INFO]: RedSnicker issued server command: //stack 100
+[23:54:46] [Async Chat Thread - #14/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: tuck
+[23:54:51] [Async Chat Thread - #14/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: fuck
+[23:55:02] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[23:55:02] [Server thread/INFO]: 
+[23:55:02] [Server thread/INFO]: [WindGenz] Don't Forget to do /discord, /buy, /rules !!
+[23:55:02] [Server thread/INFO]: 
+[23:55:09] [Server thread/INFO]: Latorias issued server command: /spawn
+[23:55:09] [Server thread/INFO]: Latorias lost connection: Disconnected
+[23:55:09] [Server thread/INFO]: Latorias left the game
+[23:55:10] [Server thread/INFO]: RedSnicker issued server command: //stack 100
+[23:55:12] [User Authenticator #18/INFO]: UUID of player Latorias is 76d69bd5-b5b4-4c15-9c5e-e94de5b7726d
+[23:55:12] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player Latorias
+[23:55:12] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player Latorias
+[23:55:12] [Server thread/INFO]: Latorias joined the game
+[23:55:12] [Server thread/INFO]: Latorias[/76.153.251.63:47588] logged in with entity id 7036 at ([world]-7.8662189041381625, 1.0382751803584462, 399.8207104378102)
+[23:55:17] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: OH HELL NAHH
+[23:55:18] [Server thread/INFO]: muhammed2010353 issued server command: /spawn
+[23:55:30] [Server thread/INFO]: muhammed2010353 issued server command: /spawnm
+[23:55:32] [Server thread/INFO]: muhammed2010353 issued server command: /spawn
+[23:55:46] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: siickk
+[23:55:53] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | _Embody___: bro...
+[23:56:02] [Async Chat Thread - #16/INFO]: ᴘʟᴀʏᴇʀ | _Embody___: leave me alone
+[23:56:14] [Server thread/INFO]: RedSnicker issued server command: //stack 100
+[23:56:14] [Server thread/INFO]: sheepi0 issued server command: /pv 1
+[23:57:16] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: red does this tunnel ever end? :<
+[23:57:20] [Async Chat Thread - #17/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: yes
+[23:57:23] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: aight
+[23:57:29] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: sheepi0 kys
+[23:57:30] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: i got a dream rn
+[23:57:39] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | _Embody___: mlk?
+[23:57:43] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: muhammed2010353 you so sweet
+[23:57:45] [Server thread/INFO]: sheepi0 issued server command: /pv 1
+[23:57:45] [Server thread/INFO]: RedSnicker issued server command: /gamemode survival
+[23:57:46] [Server thread/INFO]: RedSnicker issued server command: /gamemode creative
+[23:57:48] [Server thread/INFO]: RedSnicker issued server command: /gamemode survival
+[23:57:49] [Server thread/INFO]: RedSnicker issued server command: /gamemode spectator
+[23:57:50] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: ikr
+[23:57:55] [Server thread/INFO]: RedSnicker issued server command: /gamemode creative
+[23:57:56] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: yuh you will never find love
+[23:58:01] [User Authenticator #19/INFO]: UUID of player MyDarkSideS is e5980323-b65b-4187-abaa-d14e1db2f082
+[23:58:01] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: ☠
+[23:58:01] [Server thread/INFO]: [TAB] [TAB] tagsuffix ' ' has been successfully assigned to player MyDarkSideS
+[23:58:01] [Server thread/INFO]: [TAB] [TAB] tabsuffix ' ' has been successfully assigned to player MyDarkSideS
+[23:58:01] [Server thread/INFO]: MyDarkSideS joined the game
+[23:58:01] [Server thread/INFO]: MyDarkSideS[/39.225.221.186:51792] logged in with entity id 7304 at ([world]-12.5, 177.0, 229.5)
+[23:58:04] [Server thread/INFO]: RedSnicker issued server command: /gamemode survival
+[23:58:08] [Server thread/INFO]: MyDarkSideS lost connection: Disconnected
+[23:58:08] [Server thread/INFO]: MyDarkSideS left the game
+[23:58:11] [Server thread/INFO]: RedSnicker issued server command: /heal
+[23:58:11] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: why r u talking abt yourself
+[23:58:18] [Server thread/INFO]: RedSnicker issued server command: /gamemode creative
+[23:58:24] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: i didnt say that for my self buddy
+[23:58:46] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: huh what happend i allready fell asleep reading 1 word you wrote
+[23:59:07] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: ah sorry i fell asleep that took soo long for you to write it
+[23:59:16] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: ☠
+[23:59:27] [Server thread/INFO]: RedSnicker issued server command: /stack 20
+[23:59:35] [Server thread/INFO]: RedSnicker issued server command: //stack 10
+[23:59:43] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: thats crazy
+[23:59:47] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | sheepi0: fr
+[23:59:53] [Async Chat Thread - #17/INFO]: ᴘʟᴀʏᴇʀ | muhammed2010353: the ☠ emoji aint backing you up bro
+[23:59:55] [Async Chat Thread - #17/INFO]: ʜᴇᴀᴅ ᴅᴇᴠ | RedSnicker: hardest shit i ever made

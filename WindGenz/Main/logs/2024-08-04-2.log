@@ -1,0 +1,27 @@
+[16:44:41] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/ForcePack-1.3.5.jar'...
+[16:44:41] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/Shopkeepers-2.22.3.jar'...
+[16:44:42] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ForcePack-1.3.5.jar' in 1630ms.
+[16:44:42] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/CoreProtect-22.4.jar'...
+[16:44:42] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/CoreProtect-22.4.jar' in 244ms.
+[16:44:43] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/Shopkeepers-2.22.3.jar' in 2573ms.
+[16:44:47] [ServerMain/WARN]: resource-pack-id missing, using default of 3cffbe59-c68e-3598-86c8-c3d50d90e3f3
+[16:44:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:44:49] [ServerMain/INFO]: Loaded 1304 recipes
+[16:44:49] [ServerMain/INFO]: Loaded 1413 advancements
+[16:44:49] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[16:44:49] [Server thread/INFO]: Loading properties
+[16:44:50] [Server thread/INFO]: This server is running Purpur version 1.20.6-2233-ver/1.20.6@0d6766e (2024-06-18T04:01:10Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[16:44:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:44:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:44:51] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[16:44:51] [Server thread/INFO]: Default game type: SURVIVAL
+[16:44:51] [Server thread/INFO]: Generating keypair
+[16:44:51] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:24454
+[16:44:52] [Server thread/INFO]: Using epoll channel type
+[16:44:52] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:44:52] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[16:44:53] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loading 2 libraries... please wait
+[16:44:53] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loaded library /home/container/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[16:44:53] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loaded library /home/container/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[16:44:53] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loaded library /home/container/libraries/it/unimi/dsi/fastutil-core/8.5.13/fastutil-core-8.5.13.jar
+[16:44:54] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!

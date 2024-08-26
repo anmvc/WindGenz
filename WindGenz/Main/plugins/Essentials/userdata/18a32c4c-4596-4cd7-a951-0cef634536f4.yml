@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 196.109.214.65
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722981538081
+  login: 1722981491533
+money: '0'
+last-account-name: SoapierAnt36377
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 1.265675124491688
+  y: 65.0
+  z: -9.831574958225135
+  yaw: -170.46685791015625
+  pitch: 28.129013061523438
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 61.5
+  y: 64.0
+  z: -57.5
+  yaw: -23.811996459960938
+  pitch: 1.9211567640304565

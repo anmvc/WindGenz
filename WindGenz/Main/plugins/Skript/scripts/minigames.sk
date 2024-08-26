@@ -1,0 +1,217 @@
+options:
+	time: 0.3
+	velocity: 5
+
+# Functions
+function SaveInv(p: player, n: text):
+	loop integers from 0 to 40:
+		set {_i} to slot (loop-number) of {_p}'s inventory
+		#{_i} is not air
+		if {_i} is not set:
+			set {_i} to air
+		set {%{_p}'s uuid%::%{_n}%::%loop-number%} to {_i}
+
+function RestoreInv(p: player, n: text):
+    loop {%{_p}'s uuid%::%{_n}%::*}:
+        set slot loop-index parsed as number of {_p}'s inventory to loop-value
+        send slot loop-index parsed as number of {_p}'s inventory to {_p}
+
+function OldRestore(p: player, key: string):
+   set {_i::*} to compound list tag "SavedInv" of {SavedInv::%uuid of {_p}%::%{_key}%}
+   loop {_i::*}:
+      set {_s} to int tag "Slot" of loop-value
+      set {_i} to nbt item from loop-value
+      set slot {_s} of {_p} to {_i}
+   delete {SavedInv::%uuid of {_p}%::%{_key}%}
+
+#Resorce pack high and low quality sending
+function ResorcePackSend(p: player) :: boolean:
+	set {_quality} to {quality::%{_p}'s uuid%}
+	if {_quality} is "high":
+		send the resource pack from "https://download.mc-packs.net/pack/003bded8e5c4f34753bb071e4f4e5f2e80b18f45.zip" with hash "003bded8e5c4f34753bb071e4f4e5f2e80b18f45" to {_p}
+		return true
+	else if {_quality} is "low":
+		send the resource pack from "https://download.mc-packs.net/pack/9a03e365e5918c4ebf972e0a604249cb2ce89897.zip" with hash "9a03e365e5918c4ebf972e0a604249cb2ce89897" to {_p}
+		return true
+	else if {_quality} is "none":
+		remove all resource packs from {_p}
+		send "&c&lWARNING: &fYou have chosen the no resorce pack option, Please Note that your experience on our server may decline because of this." to {_p}
+		return true
+	else:
+		return false
+
+function OptionGui(p: player):
+	create a gui with virtual chest inventory with 3 rows named "&2&lOptions for Quality":
+		make gui slot 10 with green concrete named "&2&lLow Quality":
+			set {quality::%player's uuid%} to "low"
+			ResorcePackSend({_p})
+			close player's inventory
+		make gui slot 16 with red concrete named "&c&lHigh Quality":
+			set {quality::%player's uuid%} to "high"
+			ResorcePackSend({_p})
+			close player's inventory
+		make gui slot 22 with white concrete named "&8&lNo Resouce pack":
+			set {quality::%player's uuid%} to "none"
+			ResorcePackSend({_p})
+			close player's inventory
+	open the last gui for {_p}
+
+
+# Region enter and /exit
+on enter of region "snipershowdown":
+    teleport player to location(0, 64, 0, world "testmap")
+    set {gamemodeCurrent::%player's uuid%} to "testmap"
+    RestoreInv(player, {gamemodeCurrent::%player's uuid%})
+
+on enter of region "windgenz":
+    teleport player to location(0.5, 65, 0.5, world "world")
+    set {gamemodeCurrent::%player's uuid%} to "windgenz"
+    RestoreInv(player, {gamemodeCurrent::%player's uuid%})
+
+command /exit:
+    trigger:
+        teleport player to location(-5.5, 72, -130.5, world "world", 90, 0)
+        SaveInv(player, {gamemodeCurrent::%player's uuid%})
+        clear inventory of player
+        delete {gamemodeCurrent::%player's uuid%}
+
+# QUIT FUNCTION Mostly just saves inventory of player for the gamemode they were in. IF they were in a gamemode
+on quit:
+    if {gamemodeCurrent::%player's uuid%} is set:
+        SaveInv(player, {gamemodeCurrent::%player's uuid%})
+        clear inventory of player
+
+
+
+# Death Function [IF DIED, CHECK GAMEMODE, TELEPORT PLAYER TO GAMEMODE SPAWN]
+on death of player:
+    force victim to respawn
+on respawn:
+    if {gamemodeCurrent::%player's uuid%} is "windgenz":
+        set respawn location to location(0.5, 65, 0.5, world "world")
+    else if {gamemodeCurrent::%player's uuid%} is "snipershowdown":
+        set respawn location to location(0.5, 65, 0.5, world "snipershowdown")
+    else:
+        set respawn location to location(-6, 72, -131, world "world", 90, 0)
+
+
+# RESOURCEPACK FUNCTION
+# JOIN FUNCTION mostly to Convert old nbt data to variable data and send resource pack
+on join:
+	if ResorcePackSend(player) is false:
+		teleport player to location(-5.5, 72, -163.5, world "world", 90, 0)
+		send "&c&lWARNING: &fYou have not selected a pack yet! Please do by using /options or By clicking on the button infront of you." to player
+
+	if {gamemodeCurrent::%player's uuid%} is set:
+		wait 2 ticks
+		if {gamemodeCurrent::%player's uuid%} is "windgenz":
+			teleport player to location(0.5, 65, 0.5, world "world")
+			RestoreInv(player, {gamemodeCurrent::%player's uuid%})
+		else if {gamemodeCurrent::%player's uuid%} is "snipershowdown":
+			teleport player to location(0.5, 65, 0.5, world "snipershowdown")
+			RestoreInv(player, {gamemodeCurrent::%player's uuid%})
+	else:
+		set {gamemodeCurrent::%player's uuid%} to true
+		SaveInv(player, "windgenz")
+		clear inventory of player
+	if {SavedInv::%uuid of player%::*} is set:
+		if {gamemodeCurrent::%player's uuid%} is "windgenz":
+			OldRestore(player, "windgenz")
+			wait 1 tick
+			SaveInv(player, "windgenz")
+		else if {gamemodeCurrent::%player's uuid%} is "snipershowdown":
+			OldRestore(player, "snipershowdown")
+			wait 1 tick
+			SaveInv(player, "snipershowdown")
+            
+on inventory click:
+	wait 1 tick
+	if {gamemodeCurrent::%player's uuid%} is "windgenz":
+		SaveInv(player, "windgenz")
+	else if {gamemodeCurrent::%player's uuid%} is "snipershowdown":
+		SaveInv(player, "snipershowdown")
+			
+on resource pack request response:
+    if the resource pack was declined or failed to download:
+        send "&c&lWARNING: &fThe pack has Either failed to download or has been declined, Please Note that your experience may decline because of this." to player
+# Commands
+command /options:
+	trigger:
+		OptionGui(player)
+		
+# COMMAND ITEM
+command /getgun:
+	permission: server.get.gun
+	trigger:
+		give a crossbow of quick charge 5 and piercing 4 named "&aSNIPER" to player
+		give a arrow to player
+		send "&aYou recieved SNIPER!" to player
+        
+command /getpusher:
+	permission: server.get.gun
+	trigger:
+		give a snowball of unbreaking 5 named "&aSnowy Hook" to player
+		send "&aYou Recieved PUSHER!" to player
+        
+command /infinitepusher:
+	permission: server.get.gun
+	trigger:
+		give a snowball of unbreaking 5 named "&aInfinite Snowy Hook" to player
+
+
+# ITEM FUNCTIONS 
+on shoot:
+	repair tool of shooter
+	shooter is holding a crossbow named "&aSNIPER"
+	remove crossbow from the shooter
+	make shooter shoot an arrow with speed {@velocity}
+	give a crossbow of quick charge 5 and piercing 4 named "&aSNIPER" to shooter
+	give a arrow to shooter
+	set item cooldown of crossbow for shooter to {@time} seconds
+	cancel event
+	stop
+   
+      
+# HIT FUNCTION
+on projectile collide:
+	projectile is an arrow
+	inventory of shooter contains a crossbow named "&aSNIPER"
+	world of shooter is "snipershowdown"
+	send title "" with subtitle "&4&lKilled %event-entity%" to shooter for 0.5 seconds with fadein 0 second and fade out 0 second
+	delete event-projectile
+	add 1 to {KillStreak::%shooter's uuid%}
+	if {KillStreak::%shooter's uuid%} is 5:
+		broadcast "&b%shooter% is on a &6%{KillStreak::%shooter's uuid%}% &bkillstreak!"
+	set the event-entity's game mode to spectator
+	cancel event
+	send title "" with subtitle "&4&lKilled By %shooter%" to event-entity for 0.5 seconds with fadein 0 second and fade out 0 second
+	if {KillStreak::%event-entity's uuid%} > 5:
+		broadcast "&b%shooter% Killed %event-entity% Therefore breaking his Killstreak!"
+	set {KillStreak::%event-entity's uuid%} to 0
+	wait 3 seconds
+	set the event-entity's game mode to survival
+   
+# HIT DELETOR
+on projectile hit:
+	event-projectile is arrow
+	delete event-projectile
+    
+   
+#------------------------------ FEATURES --------------------------------
+   
+# |--| Launch Item [WIP]
+on right click:
+	if player is holding a snowball named "&aSnowy Hook":
+		push player forward with speed 1
+		remove snowball from player
+		play sound "minecraft:ui.toast.in" with pitch 0
+		wait 1 second
+		play sound "minecraft:ui.toast.out" with pitch 2
+	if player is holding a snowball named "&aInfinite Snowy Hook":
+		remove snowball from player
+		wait 5 ticks
+		give a snowball of unbreaking 5 named "&aInfinite Snowy Hook" to player
+		push player forward with speed 1
+		play sound "minecraft:ui.toast.in" with pitch 0
+		wait 1 second
+		play sound "minecraft:ui.toast.out" with pitch 2

@@ -1,0 +1,10 @@
+options:
+	time: 10
+on shoot:
+	projectile is a ender pearl
+	wait 1 tick
+	make the shooter ride the projectile
+	if shooter has permission "pearl.cooldown.bypass":
+		set item cooldown of ender pearl for shooter to {@time} seconds
+	if name of shooter is "anmvc":
+    	

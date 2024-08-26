@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 196.204.247.193
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720769698936
+  login: 1720769627124
+money: '0'
+last-account-name: luke123malta
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -13.53420577033847
+  y: 65.0000001
+  z: -23.82655772110353
+  yaw: -61.799137115478516
+  pitch: 25.949813842773438

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 9.214.248.242
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720460817686
+  login: 1720460795683
+money: '0'
+last-account-name: ChaosBuilder2
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 4.7437760609829045
+  y: 65.24918707874468
+  z: 5.624437612910675
+  yaw: 93.60009765625
+  pitch: 19.800046920776367

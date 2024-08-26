@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 4.174.240.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723025743164
+  login: 1723024690331
+money: '0'
+last-account-name: swohumistheboss
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -12.117287617796778
+  y: 64.7531999805212
+  z: -11.580913911577445
+  yaw: 120.2712631225586
+  pitch: 17.596881866455078

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 8.132.175.88
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722781780276
+  login: 1722781773279
+money: '0'
+last-account-name: Bleki1984
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 2.0438706093443315
+  y: 66.1212968405392
+  z: -7.313789524736593
+  yaw: -84.77828979492188
+  pitch: 16.74192237854004

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 184.50.135.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721690538167
+  login: 1721688759901
+money: '0'
+last-account-name: V1vid_YT
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.43324434484696556
+  y: 65.0625
+  z: -18.421303469159085
+  yaw: -9.807123184204102
+  pitch: 16.32440948486328
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 30.274085758862228
+  y: 65.5
+  z: -9.003603621885691
+  yaw: -67.15570831298828
+  pitch: -3.7678751945495605

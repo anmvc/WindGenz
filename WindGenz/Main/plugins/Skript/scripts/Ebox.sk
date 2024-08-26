@@ -1,0 +1,8 @@
+options:
+  time: 5
+on shoot:
+	if projectile is an arrow:
+		if name of shooter's tool is "&d&lEnderBow":
+			cancel event
+			make the shooter shoot an ender pearl at speed 2
+			set item cooldown of bow with name "&d&lEnderBow" for shooter to {@time} seconds

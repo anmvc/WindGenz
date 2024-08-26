@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 112.168.79.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722044679254
+  login: 1722043869627
+money: '0'
+last-account-name: Warwar14
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 1.044312352579792
+  y: 66.02442408821369
+  z: 12.636715422347486
+  yaw: -12.750213623046875
+  pitch: 11.42604923248291
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 5.6180017924117935
+  y: 64.0
+  z: -28.497907632095192
+  yaw: -91.72308349609375
+  pitch: 4.529711723327637

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 36.135.12.206
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721680223707
+  login: 1721680055051
+money: '0'
+last-account-name: PyroDrinkCoffee
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 2.5429785990430034
+  y: 65.0
+  z: -2.9415880681994215
+  yaw: 122.60028076171875
+  pitch: 17.25002098083496
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -200.4645692036263
+  y: -39.633740437151346
+  z: -7.338048165280208
+  yaw: 116.67770385742188
+  pitch: -82.3939208984375

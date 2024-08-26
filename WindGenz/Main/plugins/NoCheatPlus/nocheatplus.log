@@ -1,0 +1,632 @@
+24-08-11 18:10:38 [INFO] Logger started.
+24-08-11 18:10:38 [INFO] Logging system initialized.
+24-08-11 18:10:38 [INFO] Detected Minecraft version: 1.21.1
+24-08-11 18:11:17 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-11 18:11:17 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-11 18:11:17 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-11 18:11:18 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-11 18:11:18 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-11 18:11:18 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | Fight
+24-08-11 18:11:18 [INFO] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+24-08-11 18:11:18 [INFO] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+24-08-11 18:11:33 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-11 18:11:33 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-08-11 18:11:33 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-08-11 18:11:33 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-08-11 18:11:33 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-08-11 18:11:33 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-08-11 18:11:33 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-11 18:11:33 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-11 18:11:33 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-11 18:11:33 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-11 18:11:33 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-08-11 18:11:33 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-11 18:11:33 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-11 18:11:36 [INFO] Post-enable running...
+24-08-11 18:11:36 [INFO] Post-enable finished.
+24-08-11 18:11:37 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2285-abf2f21 ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-11 18:11:41 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-11 18:11:41 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-11 18:11:41 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 0 | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 0 | packet.nullplayer 0 | packet.inconsistent.isasync 0 | packet.flying 0 | packet.flying.asynchronous 0 | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+24-08-11 18:11:41 [INFO] [GenericInstanceRegistry] Registry cleared.
+24-08-11 18:12:21 [INFO] Logger started.
+24-08-11 18:12:21 [INFO] Logging system initialized.
+24-08-11 18:12:21 [INFO] Detected Minecraft version: 1.21.1
+24-08-11 18:12:59 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-11 18:12:59 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-11 18:12:59 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-11 18:13:00 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-11 18:13:00 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-11 18:13:00 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+24-08-11 18:13:00 [INFO] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+24-08-11 18:13:00 [INFO] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+24-08-11 18:13:14 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-11 18:13:14 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-08-11 18:13:14 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-08-11 18:13:14 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-08-11 18:13:14 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-08-11 18:13:14 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-08-11 18:13:14 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-11 18:13:14 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-11 18:13:14 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-11 18:13:14 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-11 18:13:14 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-08-11 18:13:14 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-11 18:13:14 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-11 18:13:17 [INFO] Post-enable running...
+24-08-11 18:13:17 [INFO] Post-enable finished.
+24-08-11 18:13:19 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2285-abf2f21 ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7NoSlow§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-11 18:14:36 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-11 18:14:36 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-11 18:14:36 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 0 | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 0 | packet.nullplayer 0 | packet.inconsistent.isasync 0 | packet.flying 3 (0/3) | packet.flying.asynchronous 3 (0/3) | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+24-08-11 18:14:36 [INFO] [GenericInstanceRegistry] Registry cleared.
+24-08-11 18:15:17 [INFO] Logger started.
+24-08-11 18:15:17 [INFO] Logging system initialized.
+24-08-11 18:15:17 [INFO] Detected Minecraft version: 1.21.1
+24-08-11 18:15:55 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-11 18:15:55 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-11 18:15:55 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-11 18:15:56 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-11 18:15:56 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-11 18:15:56 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+24-08-11 18:15:56 [INFO] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+24-08-11 18:15:56 [INFO] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+24-08-11 18:16:10 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-11 18:16:10 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-08-11 18:16:10 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-08-11 18:16:10 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-08-11 18:16:10 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-08-11 18:16:10 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-08-11 18:16:10 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-11 18:16:10 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-11 18:16:10 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-11 18:16:10 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-11 18:16:10 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-08-11 18:16:10 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-11 18:16:10 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-11 18:16:13 [INFO] Post-enable running...
+24-08-11 18:16:13 [INFO] Post-enable finished.
+24-08-11 18:16:14 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2285-abf2f21 ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7NoSlow§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-12 00:44:53 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-12 00:44:53 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-12 00:44:53 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 0 | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 129988 (129988/0) | packet.nullplayer 0 | packet.inconsistent.isasync 0 | packet.flying 202639 (0/202639) | packet.flying.asynchronous 202639 (0/202639) | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+24-08-12 00:44:53 [INFO] [GenericInstanceRegistry] Registry cleared.
+24-08-12 00:46:08 [INFO] Logger started.
+24-08-12 00:46:08 [INFO] Logging system initialized.
+24-08-12 00:46:08 [INFO] Detected Minecraft version: 1.21.1
+24-08-12 00:46:45 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-12 00:46:45 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-12 00:46:45 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-12 00:46:45 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-12 00:46:45 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-12 00:46:45 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+24-08-12 00:46:45 [INFO] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+24-08-12 00:46:45 [INFO] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+24-08-12 00:46:59 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-12 00:46:59 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-08-12 00:46:59 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-08-12 00:46:59 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-08-12 00:46:59 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-08-12 00:46:59 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-08-12 00:46:59 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-12 00:46:59 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-12 00:46:59 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-12 00:46:59 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-12 00:46:59 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-08-12 00:46:59 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-12 00:46:59 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-12 00:47:01 [INFO] Post-enable running...
+24-08-12 00:47:01 [INFO] Post-enable finished.
+24-08-12 00:47:03 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2286-366af80 ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7NoSlow§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-12 18:02:35 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-12 18:02:35 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-12 18:02:35 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 0 | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 156635 (156635/0) | packet.nullplayer 0 | packet.inconsistent.isasync 0 | packet.flying 258862 (0/258862) | packet.flying.asynchronous 258862 (0/258862) | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+24-08-12 18:02:35 [INFO] [GenericInstanceRegistry] Registry cleared.
+24-08-12 18:03:12 [INFO] Logger started.
+24-08-12 18:03:12 [INFO] Logging system initialized.
+24-08-12 18:03:12 [INFO] Detected Minecraft version: 1.21.1
+24-08-12 18:03:46 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-12 18:03:46 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-12 18:03:46 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-12 18:03:47 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-12 18:03:47 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-12 18:03:47 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+24-08-12 18:03:47 [INFO] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+24-08-12 18:03:47 [INFO] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+24-08-12 18:04:01 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-12 18:04:01 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-08-12 18:04:01 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-08-12 18:04:01 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-08-12 18:04:01 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-08-12 18:04:01 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-08-12 18:04:01 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-12 18:04:01 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-12 18:04:01 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-12 18:04:01 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-12 18:04:01 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-08-12 18:04:01 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-12 18:04:01 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-12 18:04:03 [INFO] Post-enable running...
+24-08-12 18:04:03 [INFO] Post-enable finished.
+24-08-12 18:04:05 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2286-366af80 ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7NoSlow§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-12 18:21:39 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-12 18:21:39 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-12 18:21:39 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 0 | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 597 (597/0) | packet.nullplayer 0 | packet.inconsistent.isasync 0 | packet.flying 1530 (0/1530) | packet.flying.asynchronous 1530 (0/1530) | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+24-08-12 18:21:39 [INFO] [GenericInstanceRegistry] Registry cleared.
+24-08-12 18:22:18 [INFO] Logger started.
+24-08-12 18:22:18 [INFO] Logging system initialized.
+24-08-12 18:22:18 [INFO] Detected Minecraft version: 1.21.1
+24-08-12 18:22:53 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-12 18:22:53 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-12 18:22:53 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-12 18:22:54 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-12 18:22:54 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-12 18:22:54 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+24-08-12 18:22:54 [INFO] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+24-08-12 18:22:54 [INFO] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+24-08-12 18:23:07 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-12 18:23:07 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-08-12 18:23:07 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-08-12 18:23:07 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-08-12 18:23:07 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-08-12 18:23:07 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-08-12 18:23:07 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-12 18:23:07 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-12 18:23:07 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-12 18:23:07 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-12 18:23:07 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-08-12 18:23:07 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-12 18:23:07 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-12 18:23:10 [INFO] Post-enable running...
+24-08-12 18:23:10 [INFO] Post-enable finished.
+24-08-12 18:23:11 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2286-366af80 ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7NoSlow§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-12 22:04:08 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-12 22:04:08 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-12 22:04:08 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 0 | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 17400 (17400/0) | packet.nullplayer 0 | packet.inconsistent.isasync 0 | packet.flying 30521 (0/30521) | packet.flying.asynchronous 30521 (0/30521) | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+24-08-12 22:04:08 [INFO] [GenericInstanceRegistry] Registry cleared.
+24-08-12 22:04:50 [INFO] Logger started.
+24-08-12 22:04:50 [INFO] Logging system initialized.
+24-08-12 22:04:50 [INFO] Detected Minecraft version: 1.21.1
+24-08-12 22:05:28 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-12 22:05:29 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-12 22:05:29 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-12 22:05:29 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-12 22:05:29 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-12 22:05:29 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+24-08-12 22:05:29 [INFO] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+24-08-12 22:05:29 [INFO] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+24-08-12 22:05:45 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-12 22:05:45 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-08-12 22:05:45 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-08-12 22:05:45 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-08-12 22:05:45 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-08-12 22:05:45 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-08-12 22:05:45 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-12 22:05:45 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-12 22:05:45 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-12 22:05:45 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-12 22:05:45 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-08-12 22:05:45 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-12 22:05:45 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-12 22:05:48 [INFO] Post-enable running...
+24-08-12 22:05:48 [INFO] Post-enable finished.
+24-08-12 22:05:49 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2286-366af80 ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7NoSlow§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-12 22:07:05 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-12 22:07:05 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-12 22:07:05 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 0 | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 0 | packet.nullplayer 0 | packet.inconsistent.isasync 0 | packet.flying 117 (0/117) | packet.flying.asynchronous 117 (0/117) | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+24-08-12 22:07:05 [INFO] [GenericInstanceRegistry] Registry cleared.
+24-08-12 22:07:46 [INFO] Logger started.
+24-08-12 22:07:46 [INFO] Logging system initialized.
+24-08-12 22:07:46 [INFO] Detected Minecraft version: 1.21.1
+24-08-12 22:08:22 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-12 22:08:22 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-12 22:08:22 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-12 22:08:22 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-12 22:08:22 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-12 22:08:22 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+24-08-12 22:08:22 [INFO] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+24-08-12 22:08:22 [INFO] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+24-08-12 22:08:37 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-12 22:08:37 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-08-12 22:08:37 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-08-12 22:08:37 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-08-12 22:08:37 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-08-12 22:08:37 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-08-12 22:08:37 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-12 22:08:37 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-12 22:08:37 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-12 22:08:37 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-12 22:08:37 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-08-12 22:08:37 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-12 22:08:37 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-12 22:08:40 [INFO] Post-enable running...
+24-08-12 22:08:40 [INFO] Post-enable finished.
+24-08-12 22:08:41 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2286-366af80 ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7NoSlow§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-16 11:45:28 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-16 11:45:28 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-16 11:45:28 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 172 (172/0) | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 151833 (151833/0) | packet.nullplayer 0 | packet.inconsistent.isasync 0 | packet.flying 274614 (0/274614) | packet.flying.asynchronous 274614 (0/274614) | packet.outgoing_position.untracked 2 (2/0) | packet.sound.cancel 0 |
+24-08-16 11:45:28 [INFO] [GenericInstanceRegistry] Registry cleared.
+24-08-16 11:46:35 [INFO] Logger started.
+24-08-16 11:46:35 [INFO] Logging system initialized.
+24-08-16 11:46:35 [INFO] Detected Minecraft version: 1.21.1
+24-08-16 11:47:13 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-16 11:47:13 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-16 11:47:13 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-16 11:47:13 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-16 11:47:13 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-16 11:47:13 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+24-08-16 11:47:13 [INFO] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+24-08-16 11:47:13 [INFO] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+24-08-16 11:47:29 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-16 11:47:29 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-08-16 11:47:29 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-08-16 11:47:29 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-08-16 11:47:29 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-08-16 11:47:29 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-08-16 11:47:29 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-16 11:47:29 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-16 11:47:29 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-16 11:47:29 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-16 11:47:29 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-08-16 11:47:29 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-16 11:47:29 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-16 11:47:31 [INFO] Post-enable running...
+24-08-16 11:47:31 [INFO] Post-enable finished.
+24-08-16 11:47:33 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2289-201e928 ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7NoSlow§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-16 11:47:33 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-16 11:47:33 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-16 11:47:33 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 0 | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 0 | packet.nullplayer 0 | packet.inconsistent.isasync 0 | packet.flying 0 | packet.flying.asynchronous 0 | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+24-08-16 11:47:33 [INFO] [GenericInstanceRegistry] Registry cleared.
+24-08-16 11:48:10 [INFO] Logger started.
+24-08-16 11:48:10 [INFO] Logging system initialized.
+24-08-16 11:48:10 [INFO] Detected Minecraft version: 1.21.1
+24-08-16 11:48:45 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-16 11:48:45 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-16 11:48:45 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-16 11:48:46 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-16 11:48:46 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-16 11:48:46 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+24-08-16 11:48:46 [INFO] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+24-08-16 11:48:46 [INFO] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+24-08-16 11:49:02 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-16 11:49:02 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-08-16 11:49:02 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-08-16 11:49:02 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-08-16 11:49:02 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-08-16 11:49:02 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-08-16 11:49:02 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-16 11:49:02 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-16 11:49:02 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-16 11:49:02 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-16 11:49:02 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-08-16 11:49:02 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-16 11:49:02 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-16 11:49:05 [INFO] Post-enable running...
+24-08-16 11:49:05 [INFO] Post-enable finished.
+24-08-16 11:49:06 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2289-201e928 ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7NoSlow§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-16 11:56:22 [INFO] Reloading configuration...
+24-08-16 11:56:22 [INFO] Logger started.
+24-08-16 11:56:22 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-16 11:56:22 [INFO] Configuration reloaded.
+24-08-16 11:56:22 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-16 11:56:22 [INFO] [GenericInstanceRegistry] Registered (override) for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-16 11:56:22 [INFO] [GenericInstanceRegistry] Registered (override) for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-16 11:56:22 [INFO] [GenericInstanceRegistry] Registered (override) for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-16 11:56:22 [INFO] [GenericInstanceRegistry] Registered (override) for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-16 11:56:22 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-16 11:56:22 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-16 11:56:22 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-16 11:56:22 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-16 11:56:22 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-16 11:56:22 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-16 11:56:22 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-16 11:56:22 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-16 11:56:22 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+24-08-16 11:56:22 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2289-201e928 ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7NoSlow§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-17 14:13:10 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-17 14:13:10 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-17 14:13:10 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 393 (393/0) | block.interact.look.flying.first 1 (1/0) | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 68499 (68499/0) | packet.nullplayer 0 | packet.inconsistent.isasync 0 | packet.flying 111850 (0/111850) | packet.flying.asynchronous 111850 (0/111850) | packet.outgoing_position.untracked 1 (1/0) | packet.sound.cancel 0 |
+24-08-17 14:13:10 [INFO] [GenericInstanceRegistry] Registry cleared.
+24-08-17 14:13:58 [INFO] Logger started.
+24-08-17 14:13:58 [INFO] Logging system initialized.
+24-08-17 14:13:58 [INFO] Detected Minecraft version: 1.21.1
+24-08-17 14:14:34 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-17 14:14:34 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-17 14:14:34 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-17 14:14:34 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-17 14:14:34 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-17 14:14:34 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+24-08-17 14:14:35 [INFO] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+24-08-17 14:14:35 [INFO] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+24-08-17 14:14:47 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-17 14:14:47 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-08-17 14:14:47 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-08-17 14:14:47 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-08-17 14:14:47 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-08-17 14:14:47 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-08-17 14:14:47 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-17 14:14:47 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-17 14:14:47 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-17 14:14:47 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-17 14:14:47 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-08-17 14:14:47 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-17 14:14:47 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-17 14:14:50 [INFO] Post-enable running...
+24-08-17 14:14:50 [INFO] Post-enable finished.
+24-08-17 14:14:52 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2291-bba87bf ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7NoSlow§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-17 14:15:32 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-17 14:15:32 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-17 14:15:32 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 0 | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 0 | packet.nullplayer 0 | packet.inconsistent.isasync 0 | packet.flying 81 (0/81) | packet.flying.asynchronous 81 (0/81) | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+24-08-17 14:15:32 [INFO] [GenericInstanceRegistry] Registry cleared.
+24-08-17 14:16:06 [INFO] Logger started.
+24-08-17 14:16:06 [INFO] Logging system initialized.
+24-08-17 14:16:06 [INFO] Detected Minecraft version: 1.21.1
+24-08-17 14:16:40 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-17 14:16:40 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-17 14:16:40 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-17 14:16:40 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-17 14:16:40 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-17 14:16:40 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+24-08-17 14:16:40 [INFO] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+24-08-17 14:16:40 [INFO] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+24-08-17 14:16:53 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-17 14:16:53 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-08-17 14:16:53 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-08-17 14:16:53 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-08-17 14:16:53 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-08-17 14:16:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-08-17 14:16:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-17 14:16:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-17 14:16:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-17 14:16:53 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-17 14:16:53 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-08-17 14:16:53 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-17 14:16:53 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-17 14:16:56 [INFO] Post-enable running...
+24-08-17 14:16:56 [INFO] Post-enable finished.
+24-08-17 14:16:58 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2291-bba87bf ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7NoSlow§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-17 14:19:11 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-17 14:19:11 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-17 14:19:11 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 0 | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 0 | packet.nullplayer 0 | packet.inconsistent.isasync 0 | packet.flying 171 (0/171) | packet.flying.asynchronous 171 (0/171) | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+24-08-17 14:19:11 [INFO] [GenericInstanceRegistry] Registry cleared.
+24-08-17 14:19:44 [INFO] Logger started.
+24-08-17 14:19:44 [INFO] Logging system initialized.
+24-08-17 14:19:44 [INFO] Detected Minecraft version: 1.21.1
+24-08-17 14:20:18 [INFO] McAccess set to: 1.13-1.21|? / Bukkit-API
+24-08-17 14:20:18 [INFO] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+24-08-17 14:20:18 [INFO] Update block-info: Block shape patch for multi client protocol support.
+24-08-17 14:20:18 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+24-08-17 14:20:18 [INFO] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+24-08-17 14:20:18 [INFO] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+24-08-17 14:20:18 [INFO] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+24-08-17 14:20:18 [INFO] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+24-08-17 14:20:30 [INFO] [GenericInstanceRegistry] Registered (override) for itself: fr.neatmonster.nocheatplus.hooks.ExemptionSettings
+24-08-17 14:20:30 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+24-08-17 14:20:30 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+24-08-17 14:20:30 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+24-08-17 14:20:30 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+24-08-17 14:20:30 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+24-08-17 14:20:30 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.bukkit.MCAccessBukkitModern
+24-08-17 14:20:30 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.bukkit.BlockCacheBukkitModern
+24-08-17 14:20:30 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.NSBukkitAttributeAccess
+24-08-17 14:20:30 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+24-08-17 14:20:30 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+24-08-17 14:20:30 [INFO] Added hook: AllViolations(NCP) [1.0].
+24-08-17 14:20:30 [INFO] Added hook: ViolationFrequency(NCP) [1.0].
+24-08-17 14:20:34 [INFO] Post-enable running...
+24-08-17 14:20:34 [INFO] Post-enable finished.
+24-08-17 14:20:35 [INFO] §c§l»Version information«§7
+§6§lServer:§7
+§71.21.1-2291-bba87bf ~MC: 1.21.1~
+§7§eDetected: §71.21.1
+§6§lNoCheatPlus:§7
+§7§ePlugin: §73.17.1-SNAPSHOT-Updated-b192
+§7§eMCAccess: §71.13-1.21|? / Bukkit-API
+§6§lFeatures:
+§7§eblocks§7: BlocksMC1_4§f, §7BlocksMC1_5§f, §7BlocksMC1_6_1§f, §7BlocksMC1_7_2§f, §7BlocksMC1_8§f, §7BlocksMC1_9§f, §7BlocksMC1_10§f, §7BlocksMC1_11§f, §7BlocksMC1_12§f, §7BlocksMC1_13§f, §7BlocksMC1_14§f, §7BlocksMC1_15§f, §7BlocksMC1_16§f, §7BlocksMC1_17§f, §7BlocksMC1_19§f, §7BlocksMC1_20§f, §7MCAccessBukkitModern
+§7§echecks§7: FastConsume§f, §7Gutenberg§f, §7HotFixFallingBlockPortalEnter§f, §7AttackFrequency§f, §7FlyingFrequency§f, §7KeepAliveFrequency
+§7§edefaults§7: pvpKnockBackVelocity
+§7§epacket-listeners§7: UseEntityAdapter§f, §7MovingFlying§f, §7OutgoingPosition§f, §7KeepAliveAdapter§f, §7SoundDistance§f, §7WrongTurnAdapter§f, §7NoSlow§f, §7Fight
+§6§lHooks:
+§7AllViolations~NCP~ 1.0§f, §7ViolationFrequency~NCP~ 1.0
+§c§l»Related Plugins«§7
+§7ProtocolLib v5.3.0-SNAPSHOT-726§f, §7ViaVersion v5.0.3
+24-08-17 17:59:14 [INFO] Removed hook: ViolationFrequency(NCP) [1.0].
+24-08-17 17:59:14 [INFO] Removed hook: AllViolations(NCP) [1.0].
+24-08-17 17:59:14 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 0 | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 14101 (14101/0) | packet.nullplayer 0 | packet.inconsistent.isasync 0 | packet.flying 28497 (0/28497) | packet.flying.asynchronous 28497 (0/28497) | packet.outgoing_position.untracked 0 | packet.sound.cancel 0 |
+24-08-17 17:59:14 [INFO] [GenericInstanceRegistry] Registry cleared.

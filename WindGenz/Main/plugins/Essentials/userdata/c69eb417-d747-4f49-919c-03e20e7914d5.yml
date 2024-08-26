@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 137.241.85.74
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723394154510
+  login: 1723393925541
+money: '0'
+last-account-name: AwareIsSigma
+lastlocation:
+  world: f04a31d2-c5ac-49e9-a3c9-989f7c6fce09
+  world-name: Plots
+  x: -102.16032655935486
+  y: 64.75220334025373
+  z: -109.41398051276785
+  yaw: 17.104156494140625
+  pitch: 22.799938201904297
+logoutlocation:
+  world: f04a31d2-c5ac-49e9-a3c9-989f7c6fce09
+  world-name: Plots
+  x: -54.58772800902448
+  y: 63.0
+  z: -140.7495375892055
+  yaw: 111.4501953125
+  pitch: 33.74998092651367

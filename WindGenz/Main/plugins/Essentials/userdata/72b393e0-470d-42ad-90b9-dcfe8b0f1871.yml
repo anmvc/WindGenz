@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 137.95.30.57
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720465786236
+  login: 1720465709683
+money: '0'
+last-account-name: kiinapikke
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -4.57470029210826
+  y: 64.0
+  z: 4.661191399784739
+  yaw: -137.54983520507812
+  pitch: 9.599822998046875

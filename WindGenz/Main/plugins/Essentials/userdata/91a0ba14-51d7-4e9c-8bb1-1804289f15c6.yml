@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 174.10.125.89
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720876347077
+  login: 1720876283674
+money: '0'
+last-account-name: Zyth0r
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 37.991082845440964
+  y: 64.0
+  z: -9.522559562165691
+  yaw: 34.3500862121582
+  pitch: 1.3500200510025024

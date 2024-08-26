@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.62.45.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720705939627
+  login: 1720704638224
+money: '0'
+last-account-name: Tidal_W4ve
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -54.521881801848764
+  y: 68.0
+  z: 0.37840957026045935
+  yaw: -126.46853637695312
+  pitch: 18.750141143798828

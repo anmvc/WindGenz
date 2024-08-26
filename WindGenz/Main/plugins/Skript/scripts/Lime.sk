@@ -1,0 +1,4 @@
+on place:
+  player is not op
+  event-block is a lime candle
+  cancel event

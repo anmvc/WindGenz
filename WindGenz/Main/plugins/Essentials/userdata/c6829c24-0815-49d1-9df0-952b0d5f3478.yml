@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 76.156.65.81
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722028228459
+  login: 1722028158813
+money: '0'
+last-account-name: Calmvoyage
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -15.385977843976129
+  y: 65.0
+  z: -15.855415612099195
+  yaw: 9.121394157409668
+  pitch: 33.991886138916016

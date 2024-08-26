@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 101.90.7.215
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722703200796
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722890371285
+  login: 1722890215697
+money: '0'
+last-account-name: Shadowbanekiller
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.15291929836259685
+  y: 65.0
+  z: -1.0576277290151868
+  yaw: -8.9183349609375
+  pitch: 54.37160873413086
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -18.252394672592636
+  y: 84.23250277743648
+  z: 20.439984174435583
+  yaw: 178.90155029296875
+  pitch: 27.252107620239258

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 162.211.40.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721464446584
+  login: 1721464419532
+money: '0'
+last-account-name: GappleSplitter
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -9.146788641495785
+  y: 64.0
+  z: -27.423029368363792
+  yaw: 52.49993896484375
+  pitch: 9.300004005432129

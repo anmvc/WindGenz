@@ -1,0 +1,8 @@
+on enter of region "afk":
+	add player to {afk::*}
+on leave of region "afk":
+	remove player from {afk::*}
+every 5 minutes:
+	loop all players:
+		if {afk::*} contains loop-player:
+			give loop-player gold nugget with nbt from "{display:{Name:'{""text"":"""",""extra"":[{""text"":""Afk Token"",""color"":""red"",""bold"":true,""italic"":false,""underlined"":false,""strikethrough"":false,""obfuscated"":false}]}'}}"

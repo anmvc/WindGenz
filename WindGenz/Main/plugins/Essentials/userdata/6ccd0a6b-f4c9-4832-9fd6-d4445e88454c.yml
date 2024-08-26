@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 235.248.242.73
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720742451677
+  login: 1720742364974
+money: '0'
+last-account-name: maicaco
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 6.2356774417454695
+  y: 65.0
+  z: 26.327116114498164
+  yaw: -89.70050048828125
+  pitch: -0.30000412464141846

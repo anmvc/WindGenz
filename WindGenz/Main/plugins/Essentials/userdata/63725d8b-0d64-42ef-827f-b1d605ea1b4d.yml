@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 22.85.94.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721330326842
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722028562909
+  login: 1722028474266
+money: '0'
+last-account-name: PenguinsYT
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 10.639252068645046
+  y: 56.98857745073342
+  z: 14.054872893543592
+  yaw: 144.56434631347656
+  pitch: 30.906648635864258
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 47.249152028606964
+  y: 64.0
+  z: 9.962182910111968
+  yaw: 33.80401611328125
+  pitch: -10.936432838439941

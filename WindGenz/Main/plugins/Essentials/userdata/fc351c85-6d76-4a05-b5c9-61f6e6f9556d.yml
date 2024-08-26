@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 253.137.37.218
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722048300486
+  login: 1722036013069
+money: '0'
+last-account-name: Xxx_Kazu_xxX
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -9.675982799594541
+  y: 65.41999998688698
+  z: 0.07370737634742311
+  yaw: 117.04574584960938
+  pitch: 16.904003143310547
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -31.36802648549305
+  y: 64.07969854367613
+  z: 10.286209498091997
+  yaw: 150.45469665527344
+  pitch: 11.614204406738281

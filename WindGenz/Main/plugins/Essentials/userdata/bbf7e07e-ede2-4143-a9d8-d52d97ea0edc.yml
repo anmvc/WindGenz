@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 207.138.151.30
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721087856078
+  login: 1721087827724
+money: '0'
+last-account-name: MisterSun123
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 20.567628131944346
+  y: 64.0
+  z: -13.420432970532456
+  yaw: -56.550018310546875
+  pitch: -12.000005722045898
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 13.5
+  y: 63.0
+  z: -3.5
+  yaw: 174.80557250976562
+  pitch: 5.790003776550293

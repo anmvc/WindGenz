@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 126.90.44.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722891946886
+  login: 1722891901801
+money: '0'
+last-account-name: JacksonXDDD
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.7036166512139287
+  y: 65.0
+  z: -1.5946382593847246
+  yaw: -143.34584045410156
+  pitch: 41.60261917114258
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -1.3717826957233943
+  y: 67.00133597911214
+  z: -15.179629557151793
+  yaw: -42.131866455078125
+  pitch: 29.5209903717041

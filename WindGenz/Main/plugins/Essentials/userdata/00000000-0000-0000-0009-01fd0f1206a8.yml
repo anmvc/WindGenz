@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 218.153.114.130
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720536507585
+  login: 1720533874434
+money: '0'
+last-account-name: .SA1FAAN_PRO
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 2.3477628
+  y: 66.0
+  z: 23.146442
+  yaw: -103.33659362792969
+  pitch: 7.7529449462890625
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -41.019386
+  y: 64.0
+  z: -15.565735
+  yaw: -1.6513519287109375
+  pitch: 23.447723388671875

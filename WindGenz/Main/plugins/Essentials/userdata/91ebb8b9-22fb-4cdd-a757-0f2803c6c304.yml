@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 65.188.121.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720742116577
+  login: 1720742021274
+money: '0'
+last-account-name: lmBacon
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -5.463700420745448
+  y: 67.20000004768372
+  z: -1.1099276151273054
+  yaw: 161.09747314453125
+  pitch: 22.49994659423828

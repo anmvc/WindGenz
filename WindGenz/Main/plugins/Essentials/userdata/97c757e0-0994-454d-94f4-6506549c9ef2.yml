@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 161.233.86.240
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723615022025
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723615126361
+  login: 1723615018420
+money: '0'
+last-account-name: maptinmp1
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -5.5
+  y: 72.0
+  z: -163.5
+  yaw: 90.0
+  pitch: 0.0
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 6.765082789401897
+  y: 65.0
+  z: 2.447764909597626
+  yaw: -62.561309814453125
+  pitch: 12.973026275634766

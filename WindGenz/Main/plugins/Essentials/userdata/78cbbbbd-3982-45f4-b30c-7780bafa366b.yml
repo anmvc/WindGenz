@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.96.219.159
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722201058450
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723394837458
+  login: 1723394824969
+money: '0'
+last-account-name: nice5
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -14.468018985669419
+  y: 72.0
+  z: -163.73738334777389
+  yaw: 85.04997253417969
+  pitch: 9.90000057220459
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -12.134670341459012
+  y: 64.0
+  z: -38.1763530779004
+  yaw: -18.32861328125
+  pitch: 3.2419652938842773

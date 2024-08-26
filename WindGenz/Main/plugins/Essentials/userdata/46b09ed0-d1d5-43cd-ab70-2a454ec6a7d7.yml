@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 148.102.148.207
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722038834804
+  login: 1722038652155
+money: '0'
+last-account-name: Ninjatheo2412200
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -0.42783883068187184
+  y: 65.0
+  z: -0.8080658209170212
+  yaw: -125.77792358398438
+  pitch: 21.559030532836914

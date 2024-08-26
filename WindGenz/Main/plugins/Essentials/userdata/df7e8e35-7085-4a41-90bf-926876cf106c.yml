@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 191.163.0.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721135910677
+  login: 1721131341476
+money: '0'
+last-account-name: ReidGamer1
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 58.61225480184339
+  y: 64.79673560066871
+  z: -75.41949263591012
+  yaw: 52.0499267578125
+  pitch: 27.75003433227539

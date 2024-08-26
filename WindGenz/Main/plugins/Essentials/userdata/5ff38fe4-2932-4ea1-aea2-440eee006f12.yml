@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 141.109.173.62
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721456564234
+  login: 1721455529832
+money: '0'
+last-account-name: Brutal122
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 29.08054013402099
+  y: 64.0
+  z: -0.9502928127553392
+  yaw: 97.35540771484375
+  pitch: 21.299983978271484

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 156.146.155.175
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1723136919749
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723391512969
+  login: 1723391230366
+money: '0'
+last-account-name: GD2S
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -77.78185813843557
+  y: 79.61813566831665
+  z: 29.383769294105697
+  yaw: -107.7813720703125
+  pitch: 8.416436195373535
+logoutlocation:
+  world: 521e10ce-f49c-4196-b673-21dd7d48bfaf
+  world-name: sniper_showdown
+  x: 24.427355182320742
+  y: -42.25119627852062
+  z: 6.852915309523404
+  yaw: -161.81805419921875
+  pitch: 32.61412811279297

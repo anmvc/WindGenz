@@ -1,0 +1,12 @@
+xp: 0.0
+health: 0.0
+hunger: 15
+saturation: 0.0
+location:
+  world: world
+  x: -55.1
+  y: 65.0
+  z: 6.5
+logType: DEATH
+version: v1_20_R4
+deathReason: ENTITY_ATTACK (.Chuyito209209)

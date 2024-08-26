@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.172.218.179
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721686910052
+  login: 1721686897901
+money: '0'
+last-account-name: BitcoinBanker
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -23.742471068836554
+  y: 74.07878433405253
+  z: 2.185207058986774
+  yaw: 88.39993286132812
+  pitch: 10.800017356872559

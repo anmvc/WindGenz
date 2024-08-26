@@ -1,0 +1,21 @@
+import:
+  me.neznamy.tab.api.TabAPI
+  me.neznamy.tab.api.TabPlayer
+
+on load:
+  set {API::TAB} to TabAPI.getInstance()
+  set {API::TAB::Manager} to {API::TAB}.getTabListFormatManager()
+  
+command /namefake [<text=%sender's name%>]:
+	permission: name.fake
+	trigger:
+		broadcast "&e%uncolored display name of sender% left the game"
+		hide sender from all players
+		wait 2 seconds
+		set player's tag to arg 1
+		set {_TabPlayer} to {API::TAB}.getPlayer(player.getUniqueId())
+		{API::TAB::Manager}.setName({_TabPlayer}, arg-1)
+		{API::TAB::Manager}.setPrefix({_TabPlayer}, "&#404040P&#424242l&#454545a&#474747y&#4A4A4Ae&#4C4C4Cr &f")
+		{_TabPlayer}.setTemporaryGroup("default")
+		reveal sender from all players
+		broadcast "&e%uncolored display name of sender% joined the game"

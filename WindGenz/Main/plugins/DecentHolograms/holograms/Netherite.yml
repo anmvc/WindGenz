@@ -1,0 +1,14 @@
+location: world:68.433:68.632:71.971
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&8&lNETHERITE MINE'
+    height: 0.3
+  - content: '&7Resets in: &8%catamines_remainingseconds_Netherite%'
+    height: 0.3
+  actions: {}

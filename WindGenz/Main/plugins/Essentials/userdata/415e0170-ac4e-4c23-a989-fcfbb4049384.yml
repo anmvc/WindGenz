@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 13.90.16.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720931644827
+  login: 1720931396275
+money: '0'
+last-account-name: Lemonjucie
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 63.35010759169296
+  y: 64.0
+  z: -65.30000001192093
+  yaw: 38.99749755859375
+  pitch: 11.550091743469238

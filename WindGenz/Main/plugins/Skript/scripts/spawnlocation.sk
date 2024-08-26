@@ -1,0 +1,27 @@
+#on respawn:
+    #set respawn location to {spawn}
+on join:
+    wait 1 tick
+    teleport player to {spawn}
+
+command /setspawn [<text="%location of player%">]:
+    permission: op
+    trigger:
+        set {spawn} to arg-1
+        send "&a⌛ &fSuccessfully set spawn to your location."
+       	
+
+command /spawn [<player>]:
+    trigger:
+        if player is op:
+            teleport player to {spawn}
+        else:
+            set {_loc} to player's location
+            send action bar "&b&lWindGenz &8» &fTeleporting in &c5&f."
+            loop reversed 5 times:
+                if distance between player and {_loc} is more than 0.5:
+                    send action bar "&b&lWindGenz &8» &cCanceled."
+                    stop
+                send action bar "&b&lWindGenz &8» &fTeleporting in &c%loop-value%&f."
+                wait a second
+            teleport player to {spawn}

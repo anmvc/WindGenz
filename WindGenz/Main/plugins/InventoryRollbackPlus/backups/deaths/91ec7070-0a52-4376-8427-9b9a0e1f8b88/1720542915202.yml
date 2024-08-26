@@ -1,0 +1,12 @@
+xp: 0.0
+health: 0.0
+hunger: 20
+saturation: 3.0
+location:
+  world: world
+  x: 62.1
+  y: 80.7
+  z: -5.0
+logType: DEATH
+version: v1_20_R4
+deathReason: ENTITY_ATTACK (Shadowbanekiller)

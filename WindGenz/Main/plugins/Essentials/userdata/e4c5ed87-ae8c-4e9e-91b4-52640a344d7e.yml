@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 55.114.173.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720827296179
+  login: 1720827287825
+money: '0'
+last-account-name: Crazy_Chipmunk
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 4.051185048723123
+  y: 66.0625
+  z: -5.221234955619319
+  yaw: -176.09947204589844
+  pitch: 10.050007820129395

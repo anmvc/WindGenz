@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 14.160.13.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722996506914
+  login: 1722996487968
+money: '0'
+last-account-name: CorruptMinecraft
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.0051276801058534995
+  y: 65.0
+  z: -2.3421835264354294
+  yaw: 103.62680053710938
+  pitch: 17.863155364990234
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -95.64943858336699
+  y: 64.94235272160601
+  z: -100.30000001192093
+  yaw: -109.911376953125
+  pitch: 28.11429786682129

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 99.98.174.239
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722045492154
+  login: 1722038465162
+money: '0'
+last-account-name: sibibi1425
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 4.731081064572864
+  y: 65.0
+  z: 0.6453474860201819
+  yaw: -114.98220825195312
+  pitch: 7.294032096862793
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 44.498074927746885
+  y: 64.0
+  z: -9.559275853195304
+  yaw: -138.9456787109375
+  pitch: 7.071877479553223

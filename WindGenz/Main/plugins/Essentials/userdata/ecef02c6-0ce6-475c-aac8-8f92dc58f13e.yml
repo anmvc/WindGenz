@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 76.59.174.157
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721578054522
+  login: 1721578035623
+money: '0'
+last-account-name: FastPlyas112
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.1812972601588925
+  y: 65.0625
+  z: 4.974934388861941
+  yaw: 47.99991226196289
+  pitch: 20.549999237060547

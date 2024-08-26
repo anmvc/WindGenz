@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 159.173.235.89
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720891834077
+  login: 1720891731124
+money: '0'
+last-account-name: Kicker_Clips
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 15.386577903847378
+  y: 64.0
+  z: -2.9939572461139794
+  yaw: -4.67803955078125
+  pitch: 66.7252426147461

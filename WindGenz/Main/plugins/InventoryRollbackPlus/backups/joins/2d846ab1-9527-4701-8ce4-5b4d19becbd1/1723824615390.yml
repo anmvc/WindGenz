@@ -1,0 +1,20 @@
+enderchest: |
+  rO0ABXcEAAAAG3NyABpvcmcuYnVra2l0LnV0aWwuaW8uV3JhcHBlcvJQR+zxEm8FAgABTAADbWFw
+  dAAPTGphdmEvdXRpbC9NYXA7eHBzcgA1Y29tLmdvb2dsZS5jb21tb24uY29sbGVjdC5JbW11dGFi
+  bGVNYXAkU2VyaWFsaXplZEZvcm0AAAAAAAAAAAIAAkwABGtleXN0ABJMamF2YS9sYW5nL09iamVj
+  dDtMAAZ2YWx1ZXNxAH4ABHhwdXIAE1tMamF2YS5sYW5nLk9iamVjdDuQzlifEHMpbAIAAHhwAAAA
+  A3QAAj09dAABdnQABHR5cGV1cQB+AAYAAAADdAAeb3JnLmJ1a2tpdC5pbnZlbnRvcnkuSXRlbVN0
+  YWNrc3IAEWphdmEubGFuZy5JbnRlZ2VyEuKgpPeBhzgCAAFJAAV2YWx1ZXhyABBqYXZhLmxhbmcu
+  TnVtYmVyhqyVHQuU4IsCAAB4cAAAD3N0ACRTSUxFTkNFX0FSTU9SX1RSSU1fU01JVEhJTkdfVEVN
+  UExBVEVwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcA==
+xp: 0.0
+health: 20.0
+hunger: 20
+saturation: 4.0
+location:
+  world: snipershowdown
+  x: 66.8
+  y: -42.7
+  z: -148.2
+logType: JOIN
+version: v1_21_R1

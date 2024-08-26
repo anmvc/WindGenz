@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 254.157.26.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720996953327
+  login: 1720995256324
+money: '0'
+last-account-name: EmeraldCreeper89
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 43.69999998807907
+  y: 54.0
+  z: 28.30000001192093
+  yaw: 27.150665283203125
+  pitch: 13.19996452331543

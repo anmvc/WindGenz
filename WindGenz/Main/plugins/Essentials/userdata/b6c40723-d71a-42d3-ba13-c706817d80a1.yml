@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 57.69.180.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723837821219
+  login: 1723837533069
+money: '0'
+last-account-name: Hurwisqt
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -1.4592375806012237
+  y: 72.0
+  z: -165.38806306161695
+  yaw: 99.888671875
+  pitch: -29.099971771240234
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 5.862890223744194
+  y: 65.0
+  z: -1.9563181928157465
+  yaw: 119.981201171875
+  pitch: 26.760225296020508

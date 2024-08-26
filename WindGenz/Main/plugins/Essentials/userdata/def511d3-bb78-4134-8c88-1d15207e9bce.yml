@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 135.22.81.180
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720572646491
+  login: 1720572641286
+money: '0'
+last-account-name: ninja_turtl
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 2.413841304396149
+  y: 65.0625001
+  z: -1.2937005041240914
+  yaw: 67.94998168945312
+  pitch: 5.849986553192139

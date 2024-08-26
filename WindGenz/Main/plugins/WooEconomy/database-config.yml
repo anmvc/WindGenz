@@ -1,0 +1,19 @@
+# Configuration settings for database connection
+#
+# host: The hostname or IP address of the database server.
+# port: The port number on which the database server is listening.
+# databaseName: The name of the database to connect to.
+# tableCreation: The mode for table creation (e.g., 'update' or 'create').
+# username: The username used to authenticate with the database server.
+# password: The password used to authenticate with the database server.
+# showSQL: Whether to show SQL statements (e.g., 'true' or 'false').
+# entityAnnotatedClassParentPath: The parent path for entity annotated classes.
+
+host: 'mars.bloom.host'
+port: 3306
+databaseName: 's63472_EcoDB'
+tableCreation: 'update'
+username: 'u63472_dBsLlauJrF'
+password: 'We0hxlBub77CGF0NV3fejBS7'
+showSQL: 'false'
+entityAnnotatedClassParentPath: 'database.entities'

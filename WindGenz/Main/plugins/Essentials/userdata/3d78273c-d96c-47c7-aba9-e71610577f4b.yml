@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 151.100.230.201
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720974135178
+  login: 1720974123524
+money: '0'
+last-account-name: Creator_Of_LFK
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 21.082004856585627
+  y: 64.0
+  z: -5.343339896004948
+  yaw: 66.0005111694336
+  pitch: 1.0498486757278442

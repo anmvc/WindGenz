@@ -1,0 +1,25 @@
+on right click:
+	set {_item} to player's held item
+	if {_item} is a netherite axe: 
+		custom model data of {_item} is 120
+		spawn fireball at player with nbt of "{ExplosionPower:127}"
+		add last spawned entity to {-GodGunFireball::*}
+on explosion:
+	if {-GodGunFireball::*} contains event-entity:
+		remove event-entity from {-GodGunFireball::*}
+		clear exploded blocks
+        
+on inventory slot change:
+	set {_s} to index of event-slot
+	set {_oldi} to item in slot {_s} of player's inventory
+	wait 1 tick 
+	set {_i} to item in slot {_s} of player's inventory
+	{_i} is a netherite axe
+	custom model data of {_i} is 120
+	if name of player is not "anmvc":
+		set slot {_s} of player's inventory to {_oldi}
+        
+on death:
+	if {-GodGunFireball::*} contains attacker:
+		keep the inventory and experiences
+		

@@ -1,0 +1,12 @@
+xp: 0.0
+health: 0.0
+hunger: 20
+saturation: 4.0
+location:
+  world: world
+  x: -55.9
+  y: 68.0
+  z: 0.4
+logType: DEATH
+version: v1_20_R4
+deathReason: ENTITY_ATTACK (SpectraYT)

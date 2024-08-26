@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.54.142.57
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720635470124
+  login: 1720634837619
+money: '0'
+last-account-name: FELIXGT1
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 30.68924453070654
+  y: 64.7531999805212
+  z: -32.19904580706096
+  yaw: 158.83973693847656
+  pitch: 35.886531829833984

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.46.164.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720701365476
+  login: 1720700768774
+money: '0'
+last-account-name: ipoopedmyselffr
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 28.497470053732982
+  y: 64.0
+  z: 24.374836397502868
+  yaw: 134.56040954589844
+  pitch: 40.9630241394043

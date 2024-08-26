@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 225.82.44.239
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722789820077
+  login: 1722789407378
+money: '0'
+last-account-name: TurtIe__
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 22.39848270152395
+  y: 66.0
+  z: -15.737925617009857
+  yaw: 8.07855224609375
+  pitch: 3.8667163848876953
+past-usernames:
+- ILoveFeet24
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 1.4639386101293896
+  y: 55.0
+  z: 47.43748974609527
+  yaw: 75.55797576904297
+  pitch: 18.48778533935547

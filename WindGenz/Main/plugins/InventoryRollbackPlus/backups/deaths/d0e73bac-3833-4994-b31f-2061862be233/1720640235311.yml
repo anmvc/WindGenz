@@ -1,0 +1,12 @@
+xp: 0.0
+health: 0.0
+hunger: 17
+saturation: 0.0
+location:
+  world: world
+  x: -53.6
+  y: 68.0
+  z: 1.9
+logType: DEATH
+version: v1_20_R4
+deathReason: ENTITY_ATTACK (penn1234)

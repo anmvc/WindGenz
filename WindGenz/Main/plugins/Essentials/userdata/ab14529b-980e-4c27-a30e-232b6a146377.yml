@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 63.27.195.145
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720724596528
+  login: 1720724578824
+money: '0'
+last-account-name: R_ty_dragon1_YT
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.6153687148446724
+  y: 65.0625
+  z: -9.403289325512874
+  yaw: 167.21261596679688
+  pitch: -43.24715805053711

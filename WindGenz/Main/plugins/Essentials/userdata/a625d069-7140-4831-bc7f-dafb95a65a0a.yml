@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 75.213.121.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723071728414
+  login: 1723071490473
+money: '0'
+last-account-name: YT_Little_Spooky
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 8.835653302012675
+  y: 63.0
+  z: -10.578470636142214
+  yaw: 94.57234954833984
+  pitch: 33.163330078125
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -92.37172565207192
+  y: -93.59574242707336
+  z: -104.10749857821905
+  yaw: 78.52059936523438
+  pitch: -17.50326156616211

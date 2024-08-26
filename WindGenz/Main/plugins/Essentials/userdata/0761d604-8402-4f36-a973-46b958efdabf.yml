@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 195.195.74.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722769009725
+  login: 1722768972439
+money: '0'
+last-account-name: ComicGlitter465
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 7.256693302646453
+  y: 65.0
+  z: 3.2320134212239933
+  yaw: 94.2088623046875
+  pitch: 28.247556686401367

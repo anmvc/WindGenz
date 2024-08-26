@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 230.98.6.137
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723071426965
+  login: 1723070299428
+money: '0'
+last-account-name: Chartiplier
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 1.3197190436534951
+  y: 65.0
+  z: 18.748685782674645
+  yaw: 20.969829559326172
+  pitch: 0.9918320775032043
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 933.9881010927539
+  y: 60.53686319721325
+  z: 62.879224551194
+  yaw: -145.17543029785156
+  pitch: -69.60012817382812

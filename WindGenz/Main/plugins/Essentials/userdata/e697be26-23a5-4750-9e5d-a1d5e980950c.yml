@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.251.229.52
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721596879502
+  login: 1721596863649
+money: '0'
+last-account-name: TatsudoshiX2024X
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -17.94437855824903
+  y: 64.5
+  z: -17.152877786603256
+  yaw: 115.31388854980469
+  pitch: 9.437813758850098

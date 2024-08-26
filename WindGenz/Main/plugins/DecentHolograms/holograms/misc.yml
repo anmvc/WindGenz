@@ -1,0 +1,12 @@
+location: world:-8.481:67.500:-15.634
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&#63C849&lM&#46C544&li&#28C33F&ls&#0BC03A&lc'
+    height: 0.3
+  actions: {}

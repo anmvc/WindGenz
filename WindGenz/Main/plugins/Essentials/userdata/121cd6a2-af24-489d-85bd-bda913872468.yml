@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 214.79.85.151
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721438169526
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721618239404
+  login: 1721601812801
+money: '0'
+last-account-name: Gamerpengy
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 10.311556793235193
+  y: 55.0
+  z: 9.581432803797815
+  yaw: -15.550024032592773
+  pitch: 76.64997100830078
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 13.16465776250797
+  y: 65.0
+  z: -22.921013425496888
+  yaw: -90.75030517578125
+  pitch: 12.599982261657715

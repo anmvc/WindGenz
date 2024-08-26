@@ -1,0 +1,19 @@
+command /options2:
+	trigger:
+		GuiOpen(player)
+
+function GuiOpen(p: player):
+	create a gui with virtual chest inventory with 3 rows named "&2&lOptions for Quality":
+		make gui slot 10 with green concrete named "&2&lLow Quality":
+			send the resource pack from "https://download.mc-packs.net/pack/9a03e365e5918c4ebf972e0a604249cb2ce89897.zip" with hash "9a03e365e5918c4ebf972e0a604249cb2ce89897" to player
+			set {quality::%player's uuid%} to "low"
+			close player's inventory
+		make gui slot 16 with red concrete named "&c&lHigh Quality":
+			send the resource pack from "https://download.mc-packs.net/pack/003bded8e5c4f34753bb071e4f4e5f2e80b18f45.zip" with hash "003bded8e5c4f34753bb071e4f4e5f2e80b18f45" to player
+			set {quality::%player's uuid%} to "high"
+			close player's inventory
+		make gui slot 22 with white concrete named "&8&lNo Resouce pack":
+			set {quality::%player's uuid%} to "none"
+			send "&c&lWARNING: &fYou have chosen no resorce pack, Please Note that your experience on our server may decline because of this." to player
+			close player's inventory
+	open the last gui for {_p}

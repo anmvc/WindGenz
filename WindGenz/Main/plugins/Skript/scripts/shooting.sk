@@ -1,0 +1,3 @@
+on enter of region "shooting":
+	give player bow
+	give player 64 arrow

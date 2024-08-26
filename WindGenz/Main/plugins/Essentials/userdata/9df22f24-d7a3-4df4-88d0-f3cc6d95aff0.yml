@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 132.136.248.234
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721680272160
+  login: 1721680266901
+money: '0'
+last-account-name: Benjaminbdog11
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 2.116911829983641
+  y: 65.0625
+  z: -0.8539673703328291
+  yaw: -125.20000457763672
+  pitch: -0.14999987185001373

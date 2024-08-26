@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 187.6.87.102
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720859615977
+  login: 1720859612074
+money: '0'
+last-account-name: cooldonkeys31
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 6.906491939066753
+  y: 64.0
+  z: -5.837618523473238
+  yaw: -134.99996948242188
+  pitch: 2.6617798805236816

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 66.94.215.64
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721667980654
+  login: 1721667895754
+money: '0'
+last-account-name: BabyGirlBen
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 22.679577169478826
+  y: 66.0
+  z: -12.965975031779404
+  yaw: -114.54949951171875
+  pitch: 81.15000915527344

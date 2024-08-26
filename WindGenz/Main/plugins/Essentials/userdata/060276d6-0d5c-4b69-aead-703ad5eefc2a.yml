@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 202.24.226.51
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720697463077
+  login: 1720697454874
+money: '0'
+last-account-name: Tvoja_Tata13
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.7111310914329315
+  y: 65.0
+  z: 0.21570309958469444
+  yaw: 41.36606216430664
+  pitch: 10.768230438232422

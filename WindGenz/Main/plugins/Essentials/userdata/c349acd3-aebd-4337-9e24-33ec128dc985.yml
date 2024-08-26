@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 206.17.111.10
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721640308597
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722743312178
+  login: 1722742534781
+money: '0'
+last-account-name: DefaultPi
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -0.6244734280368714
+  y: 65.0
+  z: 1.0707995348622767
+  yaw: -104.7769775390625
+  pitch: 42.53022384643555
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -22.39715673564747
+  y: 65.75220334025373
+  z: 26.89869382694579
+  yaw: 90.51910400390625
+  pitch: 27.112947463989258

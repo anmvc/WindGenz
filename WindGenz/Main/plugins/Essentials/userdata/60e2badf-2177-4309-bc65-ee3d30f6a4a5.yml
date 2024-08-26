@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0.209.131.35
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721110545978
+  login: 1721110404674
+money: '0'
+last-account-name: ArtyMC
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 3.0361301795915314
+  y: 66.00133597911214
+  z: 0.18150671781591954
+  yaw: -99.29286193847656
+  pitch: 0.2075953185558319

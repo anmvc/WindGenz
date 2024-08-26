@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.125.17.14
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720631926872
+  login: 1720631913969
+money: '0'
+last-account-name: Its_Lakis
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 7.7610098197445705
+  y: 65.0625001
+  z: 1.283928395278453
+  yaw: -92.69999694824219
+  pitch: 20.400001525878906

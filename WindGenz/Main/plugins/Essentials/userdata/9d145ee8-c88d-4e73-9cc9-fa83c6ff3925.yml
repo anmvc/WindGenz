@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 208.183.178.198
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721692288605
+  login: 1721692183801
+money: '0'
+last-account-name: BabyyGlue
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -92.93777916961037
+  y: -109.14297271569137
+  z: 17.69999998807907
+  yaw: 79.98565673828125
+  pitch: -17.88428497314453
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 10.414596176387652
+  y: 55.0
+  z: 17.69999998807907
+  yaw: 87.08810424804688
+  pitch: 13.980659484863281
+past-usernames:
+- Snugington

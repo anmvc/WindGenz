@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.128.183.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1721599684656
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722788493536
+  login: 1722786078827
+money: '0'
+last-account-name: JavaEric
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.5642715581269875
+  y: 64.875
+  z: 0.5065018302499171
+  yaw: 179.97149658203125
+  pitch: -0.6580834984779358
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 6.465285382467067
+  y: 64.0
+  z: -28.445661578214295
+  yaw: -85.37945556640625
+  pitch: 19.376235961914062

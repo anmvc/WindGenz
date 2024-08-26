@@ -1,0 +1,20 @@
+import:
+  org.bukkit.Bukkit
+on load:
+	set {BukkitPluginManager} to Bukkit.getPluginManager()
+	if {BukkitPluginManager}.isPluginEnabled("CombatLogX") is true:
+		set {CLogXLoaded} to true
+	else:
+		set {CLogXLoaded} to false
+	set {CombatLogXGetPlugin} to {BukkitPluginManager}.getPlugin("CombatLogX")
+	set {CombatLogXCombatManager} to {CombatLogXGetPlugin}.getCombatManager()
+on enter of region "spawn":
+	if {CLogXLoaded} is true:
+		if {CombatLogXCombatManager}.isInCombat(player) is true:
+			cancel event
+			send "&f&l[&r&6&lCombatLogX&r&f&l]&r&a You can not enter spawn while in combat." to player
+			wait 2 seconds
+			
+
+			
+			

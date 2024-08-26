@@ -1,0 +1,1904 @@
+[14:19:18] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.3+9-LTS; Eclipse Adoptium Temurin-21.0.3+9) on Linux 4.19.0-23-amd64 (amd64)
+[14:19:18] [ServerMain/INFO]: [bootstrap] Loading Purpur 1.21.1-2291-ver/1.21.1@bba87bf (2024-08-16T23:58:57Z) for Minecraft 1.21.1
+[14:19:18] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[14:19:19] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/AutoPickup (2).jar'...
+[14:19:19] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/AutoPickup (2).jar' in 232ms.
+[14:19:19] [ServerMain/INFO]: [PluginInitializerManager] Initialized 67 plugins
+[14:19:19] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (67):
+ - AdvancedBan (2.3.0), AntiPopup (9.2), AutoPickup (1.4.5-SNAPSHOT), AxSmithing (1.9), AxVaults (2.0.1), AxiomPaper (1.5.12), BansWebhook (2.2), BetterTeams (4.10.0), BlueSlimeCore (2.9.6.431), BungeeGuard (1.3-SNAPSHOT), CataMines (2.5.11), Chunky (1.4.10), Citizens (2.0.35-SNAPSHOT (build 3494)), ClearLag (3.2.2), CombatLogX (11.5.0.0.1242), CoreProtect (22.4), DecentHolograms (2.8.11), DiSky (4.17.2), DiscordSRV (1.28.0), Essentials (2.21.0-dev+110-f1a5caf), ExcellentCrates (5.2.3.1), FastAsyncWorldEdit (2.11.2-SNAPSHOT-877;a779be4), FreedomChat (1.7.0), InventoryRollbackPlus (1.6.18), ItemEdit (3.5.2), ItemTag (3.4.3), LPC (3.6.0), LuckPerms (5.4.128), MiniMOTD (2.1.2), Multiverse-Core (4.3.13-SNAPSHOT), NoCheatPlus (3.17.1-SNAPSHOT-Updated-b192), PermSk (2.0.0), PlaceholderAPI (2.11.6), PlotSquared (7.3.9-SNAPSHOT), PlugManX (2.4.1), PoaSkRewritev2 (4.7.5), ProtocolLib (5.3.0-SNAPSHOT-726), Shopkeepers (2.23.0), ShulkerPacks (1.6.4), SimplePortals (1.7.6), SkBee (3.6.0), SkQuery (4.1.10), SkUniversal (2.13), Skript (2.9.1), Skuishy (2.7), SuperVanish (6.2.20), TAB (4.1.6), Tebex (2.0.6), UnlimitedNameTags (1.3), Vault (1.7.3-b131), ViaAprilFools (3.0.1), ViaBackwards (5.0.3), ViaRewind (4.0.3-SNAPSHOT), ViaRewind-Legacy-Support (1.5.2-SNAPSHOT), ViaVersion (5.0.3), VillagerMarket (1.12.0), VoidGen (2.2.1), WooEconomy (1.0), WorldEditSelectionVisualizer (2.1.7), WorldGuard (7.0.11-SNAPSHOT+2289-7272507), ajLeaderboards (2.9.0), floodgate (2.2.3-SNAPSHOT (b109-49bd564)), nightcore (2.6.2), packetevents (2.4.0), skript-gui (1.3), skript-reflect (2.5.1), voicechat (2.5.20)
+[14:19:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:19:24] [ServerMain/INFO]: Loaded 1290 recipes
+[14:19:24] [ServerMain/INFO]: Loaded 1399 advancements
+[14:19:24] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[14:19:24] [Server thread/INFO]: Loading properties
+[14:19:24] [Server thread/INFO]: This server is running Purpur version 1.21.1-2291-ver/1.21.1@bba87bf (2024-08-16T23:58:57Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[14:19:25] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[14:19:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:19:25] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:19:26] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[14:19:26] [Server thread/INFO]: [spark] Starting background profiler...
+[14:19:27] [Server thread/INFO]: [Pufferfish] Max SIMD vector size on this system is 256 bits (int)
+[14:19:27] [Server thread/INFO]: [Pufferfish] Max SIMD vector size on this system is 256 bits (float)
+[14:19:27] [Server thread/INFO]: [Pufferfish] SIMD operations detected as functional. Will replace some operations with faster versions.
+[14:19:27] [Server thread/INFO]: Default game type: SURVIVAL
+[14:19:27] [Server thread/INFO]: Generating keypair
+[14:19:27] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:24454
+[14:19:27] [Server thread/INFO]: Using epoll channel type
+[14:19:27] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:19:27] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[14:19:29] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loading 2 libraries... please wait
+[14:19:29] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loaded library /home/container/libraries/com/zaxxer/HikariCP/5.0.1/HikariCP-5.0.1.jar
+[14:19:29] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loaded library /home/container/libraries/org/slf4j/slf4j-api/2.0.0-alpha1/slf4j-api-2.0.0-alpha1.jar
+[14:19:29] [Server thread/INFO]: [SpigotLibraryLoader] [nightcore] Loaded library /home/container/libraries/it/unimi/dsi/fastutil-core/8.5.13/fastutil-core-8.5.13.jar
+[14:19:29] [Server thread/INFO]: [SpigotLibraryLoader] [UnlimitedNameTags] Loading 2 libraries... please wait
+[14:19:29] [Server thread/INFO]: [SpigotLibraryLoader] [UnlimitedNameTags] Loaded library /home/container/libraries/de/exlll/configlib-yaml/4.5.0/configlib-yaml-4.5.0.jar
+[14:19:29] [Server thread/INFO]: [SpigotLibraryLoader] [UnlimitedNameTags] Loaded library /home/container/libraries/de/exlll/configlib-core/4.5.0/configlib-core-4.5.0.jar
+[14:19:29] [Server thread/INFO]: [SpigotLibraryLoader] [UnlimitedNameTags] Loaded library /home/container/libraries/org/snakeyaml/snakeyaml-engine/2.7/snakeyaml-engine-2.7.jar
+[14:19:29] [Server thread/INFO]: [SpigotLibraryLoader] [UnlimitedNameTags] Loaded library /home/container/libraries/de/exlll/configlib-paper/4.5.0/configlib-paper-4.5.0.jar
+[14:19:30] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
+[14:19:30] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
+[14:19:31] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[14:19:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[14:19:32] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[14:19:32] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[14:19:33] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[14:19:34] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.128
+[14:19:34] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[14:19:34] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[14:19:34] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+110-f1a5caf
+[14:19:34] [Server thread/INFO]: [FastAsyncWorldEdit] Loading server plugin FastAsyncWorldEdit v2.11.2-SNAPSHOT-877;a779be4
+[14:19:36] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@435e3c7b]
+[14:19:36] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
+[14:19:36] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0-SNAPSHOT-726
+[14:19:36] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.1) has not yet been tested! Proceed with caution.
+[14:19:36] [Server thread/INFO]: [VoidGen] Loading server plugin VoidGen v2.2.1
+[14:19:36] [Server thread/INFO]: [PlotSquared] Loading server plugin PlotSquared v7.3.9-SNAPSHOT
+[14:19:36] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.11-SNAPSHOT+2289-7272507
+[14:19:36] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.3-SNAPSHOT
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading server plugin WooEconomy v1.0
+[14:19:36] [Server thread/WARN]: [WooEconomy] Could not save database-config.yml to plugins/WooEconomy/database-config.yml because database-config.yml already exists.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Config file created: database-config.yml
+[14:19:36] [Server thread/WARN]: [WooEconomy] Could not save currency-config.yml to plugins/WooEconomy/commands/currency-config.yml because currency-config.yml already exists.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Config file created: commands/currency-config.yml
+[14:19:36] [Server thread/WARN]: [WooEconomy] Could not save pay-config.yml to plugins/WooEconomy/commands/pay-config.yml because pay-config.yml already exists.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Config file created: commands/pay-config.yml
+[14:19:36] [Server thread/WARN]: [WooEconomy] Could not save withdraw-config.yml to plugins/WooEconomy/commands/withdraw-config.yml because withdraw-config.yml already exists.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Config file created: commands/withdraw-config.yml
+[14:19:36] [Server thread/WARN]: [WooEconomy] Could not save deposit-config.yml to plugins/WooEconomy/commands/deposit-config.yml because deposit-config.yml already exists.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Config file created: commands/deposit-config.yml
+[14:19:36] [Server thread/WARN]: [WooEconomy] Could not save setcurrency-config.yml to plugins/WooEconomy/commands/setcurrency-config.yml because setcurrency-config.yml already exists.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Config file created: commands/setcurrency-config.yml
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading dependency 'org.hibernate.orm:hibernate-core:6.1.5.Final'...
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loaded dependency 'hibernate-core-6.1.5.Final' successfully.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading dependency 'jakarta.persistence:jakarta.persistence-api:3.0.0'...
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loaded dependency 'jakarta.persistence-api-3.0.0' successfully.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading dependency 'jakarta.transaction:jakarta.transaction-api:2.0.0'...
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loaded dependency 'jakarta.transaction-api-2.0.0' successfully.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading dependency 'jakarta.activation:jakarta.activation-api:2.1.0'...
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loaded dependency 'jakarta.activation-api-2.1.0' successfully.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading dependency 'jakarta.xml.bind:jakarta.xml.bind-api:3.0.1'...
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loaded dependency 'jakarta.xml.bind-api-3.0.1' successfully.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading dependency 'com.fasterxml:classmate:1.5.1'...
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loaded dependency 'classmate-1.5.1' successfully.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading dependency 'net.bytebuddy:byte-buddy:1.12.19'...
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loaded dependency 'byte-buddy-1.12.19' successfully.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading dependency 'org.antlr:antlr4-runtime:4.10.1'...
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loaded dependency 'antlr4-runtime-4.10.1' successfully.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading dependency 'org.glassfish.jaxb:jaxb-runtime:4.0.1'...
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loaded dependency 'jaxb-runtime-4.0.1' successfully.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading dependency 'org.hibernate.common:hibernate-commons-annotations:6.0.2.Final'...
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loaded dependency 'hibernate-commons-annotations-6.0.2.Final' successfully.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading dependency 'org.jboss:jandex:2.4.3.Final'...
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loaded dependency 'jandex-2.4.3.Final' successfully.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading dependency 'org.jboss.logging:jboss-logging:3.5.0.Final'...
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loaded dependency 'jboss-logging-3.5.0.Final' successfully.
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loading dependency 'mysql:mysql-connector-java:8.0.30'...
+[14:19:36] [Server thread/INFO]: [WooEconomy] Loaded dependency 'mysql-connector-java-8.0.30' successfully.
+[14:19:36] [Server thread/WARN]: [WooEconomy] Could not save database-config.yml to plugins/WooEconomy/database-config.yml because database-config.yml already exists.
+[14:19:36] [Server thread/INFO]: [de.alphaomegait.woocore.WooCore] Config file created: database-config.yml
+[14:19:36] [Server thread/INFO]: [de.alphaomegait.woocore.WooCore] Successfully loaded 4 classes (105ms)
+[14:19:36] [Server thread/INFO]: [org.hibernate.Version] HHH000412: Hibernate ORM core version 6.1.5.Final
+[14:19:37] [Server thread/WARN]: [org.hibernate.orm.connections.pooling] HHH10001002: Using built-in connection pool (not intended for production use)
+[14:19:37] [Server thread/INFO]: [org.hibernate.orm.connections.pooling] HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+[14:19:37] [Server thread/INFO]: [org.hibernate.orm.connections.pooling] HHH10001012: Connecting with JDBC URL [jdbc:mysql://mars.bloom.host:3306/s63472_EcoDB?autoReconnect=true&useUnicode=true]
+[14:19:37] [Server thread/INFO]: [org.hibernate.orm.connections.pooling] HHH10001001: Connection properties: {password=****, autocommit=true, user=u63472_dBsLlauJrF}
+[14:19:37] [Server thread/INFO]: [org.hibernate.orm.connections.pooling] HHH10001003: Autocommit mode: true
+[14:19:37] [Server thread/INFO]: [org.hibernate.orm.connections.pooling] HHH10001115: Connection pool size: 20 (min=1)
+[14:19:37] [Server thread/INFO]: [SQL dialect] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[14:19:39] [Server thread/INFO]: [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[14:19:39] [Server thread/INFO]: [de.alphaomegait.woocore.WooCore] Successfully loaded 5 classes (2560ms)
+[14:19:39] [Server thread/WARN]: [WooEconomy] Could not save i18n_example.yml to plugins/WooEconomy/translations/i18n_example.yml because i18n_example.yml already exists.
+[14:19:39] [Server thread/INFO]: [de.alphaomegait.ao18n.AO18n] Config file created: translations/i18n_example.yml
+[14:19:39] [Server thread/WARN]: [WooEconomy] Could not save i18n.yml to plugins/WooEconomy/translations/i18n.yml because i18n.yml already exists.
+[14:19:39] [Server thread/INFO]: [de.alphaomegait.ao18n.AO18n] Config file created: translations/i18n.yml
+[14:19:39] [Server thread/INFO]: [de.alphaomegait.ao18n.AO18n] Extended 11 new keys on the configuration translations/i18n.yml
+[14:19:39] [Server thread/INFO]: [de.alphaomegait.ao18n.AO18n] Successfully loaded 3 classes (96ms)
+[14:19:39] [Server thread/INFO]: [de.alphaomegait.ao18n.AO18n] Successfully loaded 4 classes (103ms)
+[14:19:39] [Server thread/INFO]: [de.alphaomegait.ao18n.AO18n] I18nFactory initialized.
+[14:19:39] [Server thread/WARN]: [WooEconomy] Could not save i18n_example.yml to plugins/WooEconomy/translations/i18n_example.yml because i18n_example.yml already exists.
+[14:19:39] [Server thread/INFO]: [de.alphaomegait.ao18n.AO18n] Config file created: translations/i18n_example.yml
+[14:19:39] [Server thread/WARN]: [WooEconomy] Could not save i18n.yml to plugins/WooEconomy/translations/i18n.yml because i18n.yml already exists.
+[14:19:39] [Server thread/INFO]: [de.alphaomegait.ao18n.AO18n] Config file created: translations/i18n.yml
+[14:19:39] [Server thread/INFO]: [de.alphaomegait.ao18n.AO18n] Extended 11 new keys on the configuration translations/i18n.yml
+[14:19:39] [Server thread/INFO]: [de.alphaomegait.ao18n.AO18n] Successfully loaded 3 classes (55ms)
+[14:19:39] [Server thread/INFO]: [de.alphaomegait.ao18n.AO18n] Successfully loaded 4 classes (57ms)
+[14:19:39] [Server thread/INFO]: [de.alphaomegait.ao18n.AO18n] I18nFactory initialized.
+[14:19:39] [Server thread/INFO]: [SuperVanish] Loading server plugin SuperVanish v6.2.20
+[14:19:39] [Server thread/INFO]: [Multiverse-Core] Loading server plugin Multiverse-Core v4.3.13-SNAPSHOT
+[14:19:39] [Server thread/INFO]: [Citizens] Loading server plugin Citizens v2.0.35-SNAPSHOT (build 3494)
+[14:19:39] [Server thread/INFO]: [Skript] Loading server plugin Skript v2.9.1
+[14:19:39] [Server thread/INFO]: [DecentHolograms] Loading server plugin DecentHolograms v2.8.11
+[14:19:39] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[14:19:40] [Server thread/INFO]: [floodgate] Took 1,280ms to boot Floodgate
+[14:19:40] [Server thread/INFO]: [packetevents] Loading server plugin packetevents v2.4.0
+[14:19:40] [Server thread/WARN]: [packetevents] [packetevents] We currently do not support the minecraft version 1.21.1, so things might break. PacketEvents will behave as if the minecraft version were 1.21.0!
+[14:19:43] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.5.2
+[14:19:43] [Server thread/INFO]: [Blue Slime Core] Loading server plugin BlueSlimeCore v2.9.6.431
+[14:19:43] [Server thread/INFO]: [AdvancedBan] Loading server plugin AdvancedBan v2.3.0
+[14:19:43] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.23.0
+[14:19:43] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (730 ms).
+[14:19:43] [Server thread/INFO]: [Shopkeepers] Loading config.
+[14:19:43] [Server thread/WARN]: [Shopkeepers] Config: Ignoring mob type 'MUSHROOM_COW' in setting 'enabled-living-shops'. This mob was renamed in MC 1.20.5: Consider replacing it with 'MOOSHROOM'.
+[14:19:43] [Server thread/WARN]: [Shopkeepers] Config: Ignoring mob type 'SNOWMAN' in setting 'enabled-living-shops'. This mob was renamed in MC 1.20.5: Consider replacing it with 'SNOW_GOLEM'.
+[14:19:43] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[14:19:43] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[14:19:43] [Server thread/WARN]: [Shopkeepers] Config: Ignoring mob type 'MUSHROOM_COW' in setting 'enabled-living-shops'. This mob was renamed in MC 1.20.5: Consider replacing it with 'MOOSHROOM'.
+[14:19:43] [Server thread/WARN]: [Shopkeepers] Config: Ignoring mob type 'SNOWMAN' in setting 'enabled-living-shops'. This mob was renamed in MC 1.20.5: Consider replacing it with 'SNOW_GOLEM'.
+[14:19:43] [Server thread/WARN]: [Shopkeepers] Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[14:19:43] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[14:19:44] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[14:19:44] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[14:19:44] [Server thread/INFO]: [nightcore] Loading server plugin nightcore v2.6.2
+[14:19:44] [Server thread/INFO]: [SkBee] Loading server plugin SkBee v3.6.0
+[14:19:44] [Server thread/INFO]: [CoreProtect] Loading server plugin CoreProtect v22.4
+[14:19:44] [Server thread/INFO]: [PoaSkRewritev2] Loading server plugin PoaSkRewritev2 v4.7.5
+[14:19:44] [Server thread/INFO]: [InventoryRollbackPlus] Loading server plugin InventoryRollbackPlus v1.6.18
+[14:19:44] [Server thread/INFO]: [AutoPickup] Loading server plugin AutoPickup v1.4.5-SNAPSHOT
+[14:19:44] [Server thread/INFO]: [MiniMOTD] Loading server plugin MiniMOTD v2.1.2
+[14:19:44] [Server thread/INFO]: [CataMines] Loading server plugin CataMines v2.5.11
+[14:19:44] [Server thread/INFO]: [BetterTeams] Loading server plugin BetterTeams v4.10.0
+[14:19:44] [Server thread/INFO]: [BetterTeams] Checking if the file config.yml is up to date
+[14:19:44] [Server thread/INFO]: [BetterTeams] File is up to date
+[14:19:44] [Server thread/INFO]: [NoCheatPlus] Loading server plugin NoCheatPlus v3.17.1-SNAPSHOT-Updated-b192
+[14:19:44] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[14:19:44] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[14:19:44] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.21.1
+[14:19:44] [Server thread/INFO]: [TAB] Loading server plugin TAB v4.1.6
+[14:19:44] [Server thread/INFO]: [AxSmithing] Loading server plugin AxSmithing v1.9
+[14:19:44] [Server thread/INFO]: [skript-gui] Loading server plugin skript-gui v1.3
+[14:19:44] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.10
+[14:19:44] [Server thread/INFO]: [Tebex] Loading server plugin Tebex v2.0.6
+[14:19:44] [Server thread/INFO]: [UnlimitedNameTags] Loading server plugin UnlimitedNameTags v1.3
+[14:19:44] [Server thread/INFO]: [ViaAprilFools] Loading server plugin ViaAprilFools v3.0.1
+[14:19:44] [Server thread/INFO]: [DiSky] Loading server plugin DiSky v4.17.2
+[14:19:44] [Server thread/INFO]: [AxVaults] Loading server plugin AxVaults v2.0.1
+[14:19:44] [Server thread/INFO]: [AxVaults] Loading library commons-math3
+[14:19:44] [Server thread/INFO]: [AxVaults] Loading library caffeine
+[14:19:44] [Server thread/INFO]: [AxVaults] Loading library sqlite-jdbc
+[14:19:44] [Server thread/INFO]: [AxVaults] Loading library h2
+[14:19:44] [Server thread/INFO]: [PlugManX] Loading server plugin PlugManX v2.4.1
+[14:19:44] [Server thread/INFO]: [LPC] Loading server plugin LPC v3.6.0
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Loading server plugin ajLeaderboards v2.9.0
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for gson
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for gson
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for jar-relocator
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for jar-relocator
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for asm
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for asm
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for asm-commons
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for asm-commons
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for gson
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for gson
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for HikariCP
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for HikariCP
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for slf4j-api
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for slf4j-api
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for h2
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for h2
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for okhttp
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for okhttp
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for okio
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for okio
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for okio-jvm
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for okio-jvm
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib-jdk8
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib-jdk8
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib-common
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib-common
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for annotations
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for annotations
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Verifying checksum for kotlin-stdlib-jdk7
+[14:19:44] [Server thread/INFO]: [ajLeaderboards] Checksum matched for kotlin-stdlib-jdk7
+[14:19:44] [Server thread/INFO]: [ItemTag] Loading server plugin ItemTag v3.4.3
+[14:19:44] [Server thread/INFO]: [CombatLogX] Loading server plugin CombatLogX v11.5.0.0.1242
+[14:19:44] [Server thread/INFO]: [CombatLogX] Configuration version is recent, no major changes necessary.
+[14:19:44] [Server thread/INFO]: [CombatLogX] Loading expansions...
+[14:19:44] [Server thread/INFO]: [CombatLogX] There were no expansions to load.
+[14:19:44] [Server thread/INFO]: [VillagerMarket] Loading server plugin VillagerMarket v1.12.0
+[14:19:44] [Server thread/INFO]: [AntiPopup] Loading server plugin AntiPopup v9.2
+[14:19:44] [Server thread/WARN]: [AntiPopup] [packetevents] We currently do not support the minecraft version 1.21.1, so things might break. PacketEvents will behave as if the minecraft version were 1.21.0!
+[14:19:46] [Server thread/INFO]: [AntiPopup] Loaded PacketEvents.
+[14:19:46] [Server thread/INFO]: [FreedomChat] Loading server plugin FreedomChat v1.7.0
+[14:19:46] [Server thread/INFO]: [WESV] Loading server plugin WorldEditSelectionVisualizer v2.1.7
+[14:19:46] [Server thread/INFO]: [ViaRewind-Legacy-Support] Loading server plugin ViaRewind-Legacy-Support v1.5.2-SNAPSHOT
+[14:19:46] [Server thread/INFO]: [ShulkerPacks] Loading server plugin ShulkerPacks v1.6.4
+[14:19:46] [Server thread/INFO]: [SimplePortals] Loading server plugin SimplePortals v1.7.6
+[14:19:46] [Server thread/INFO]: [SkUniversal] Loading server plugin SkUniversal v2.13
+[14:19:46] [Server thread/INFO]: [ExcellentCrates] Loading server plugin ExcellentCrates v5.2.3.1
+[14:19:46] [Server thread/INFO]: [DiscordSRV] Loading server plugin DiscordSRV v1.28.0
+[14:19:46] [Server thread/INFO]: [Skuishy] Loading server plugin Skuishy v2.7
+[14:19:46] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.20
+[14:19:46] [Server thread/INFO]: [SkQuery] Loading server plugin SkQuery v4.1.10
+[14:19:46] [Server thread/INFO]: [BansWebhook] Loading server plugin BansWebhook v2.2
+[14:19:46] [Server thread/INFO]: [AxiomPaper] Loading server plugin AxiomPaper v1.5.12
+[14:19:46] [Server thread/INFO]: [skript-reflect] Loading server plugin skript-reflect v2.5.1
+[14:19:46] [Server thread/INFO]: [PermSk] Loading server plugin PermSk v2.0.0
+[14:19:46] [Server thread/INFO]: [BungeeGuard] Loading server plugin BungeeGuard v1.3-SNAPSHOT
+[14:19:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:19:46] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.128
+[14:19:46] [Server thread/INFO]:         __    
+[14:19:46] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.128
+[14:19:46] [Server thread/INFO]:   |___ |      Running on Bukkit - Purpur
+[14:19:46] [Server thread/INFO]: 
+[14:19:46] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[14:19:47] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[14:19:47] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[14:19:47] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[14:19:48] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1844ms)
+[14:19:48] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[14:19:48] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[14:19:48] [Server thread/INFO]: [Vault] [Permission] GroupManager found: Waiting
+[14:19:48] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[14:19:48] [Server thread/INFO]: [Vault] [Chat] GroupManager found: Waiting
+[14:19:48] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[14:19:48] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[14:19:48] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.11.2-SNAPSHOT-877;a779be4
+[14:19:48] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[14:19:48] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[14:19:49] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[14:19:49] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[14:19:49] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_R1.PaperweightFaweAdapter as the Bukkit adapter
+[14:19:50] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0-SNAPSHOT-726
+[14:19:50] [Server thread/INFO]: [VoidGen] Enabling VoidGen v2.2.1
+[14:19:50] [Server thread/INFO]: [VoidGen] Using VoidChunkGen: VERSION_UNKNOWN
+[14:19:50] [Server thread/INFO]: [PlotSquared] Enabling PlotSquared v7.3.9-SNAPSHOT
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Loaded caption map for namespace 'plotsquared': com.plotsquared.core.configuration.caption.LocalizedCaptionMap
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: plot-expiry | Value: false
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: worlds | Value: false
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: kill-named-road-mobs | Value: false
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: per-user-locale | Value: false
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: worldedit-restrictions | Value: true
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: external-placeholders | Value: true
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: kill-owned-road-mobs | Value: false
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: disable-beacon-effect-overflow | Value: true
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: database | Value: true
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: component-presets | Value: true
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: chunk-processor | Value: false
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: extended-username-completion | Value: true
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: events | Value: true
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: commands | Value: true
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: kill-road-mobs | Value: false
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: kill-road-items | Value: false
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: database-purger | Value: false
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: economy | Value: false
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: persistent-road-regen | Value: true
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: kill-road-vehicles | Value: false
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: default-locale | Value: en
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: use-mvdwapi | Value: true
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: persistent-meta | Value: true
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: tab-completed-aliases | Value: [plot, plots, p, plotsquared, plot2, p2, ps, 2, plotme, plotz, ap]
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: ban-deleter | Value: false
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: update-notifications | Value: true
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: rating-cache | Value: true
+[14:19:50] [Server thread/INFO]: [PlotSquared/PlotSquared] Key: comment-notifier | Value: true
+[14:19:50] [Thread-11/WARN]: [com.fastasyncworldedit.core.util.UpdateNotification] An update for FastAsyncWorldEdit is available. You are 2 build(s) out of date.
+You are running build 877, the latest version is build 879.
+Update at https://www.spigotmc.org/resources/13932/
+[14:19:51] [Server thread/INFO]: [PlotSquared/BukkitPlatform] Couldn't verify purchase :(
+[14:19:51] [Server thread/INFO]: [PlotSquared/PlotSquared] Connection to database established. Type: SQLite
+[14:19:51] [Server thread/INFO]: [PlotSquared/BukkitPlatform] PlotSquared hooked into WorldEdit
+[14:19:52] [Server thread/INFO]: [PlotSquared/BukkitPlatform] (UUID) Using LuckPerms as a complementary UUID service
+[14:19:52] [Server thread/INFO]: [PlotSquared/BukkitPlatform] (UUID) Using EssentialsX as a complementary UUID service
+[14:19:52] [Server thread/INFO]: [PlotSquared/BukkitPlatform] (UUID) 3 UUIDs will be cached
+[14:19:52] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: plotsquared [3]
+[14:19:52] [Server thread/INFO]: [PlotSquared/BukkitPlatform] PlotSquared hooked into PlaceholderAPI
+[14:19:52] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.3-SNAPSHOT
+[14:19:52] [Server thread/INFO]: [Blue Slime Core] Enabling BlueSlimeCore v2.9.6.431
+[14:19:52] [Server thread/INFO]: [Blue Slime Core] Successfully loaded 2 language(s).
+[14:19:52] [Server thread/INFO]: [Blue Slime Core] Detected server as regular SpigotMC/PaperMC (not Folia)
+[14:19:52] [Server thread/INFO]: [nightcore] Enabling nightcore v2.6.2
+[14:19:52] [Server thread/INFO]: [nightcore] Found permissions provider: LuckPerms
+[14:19:52] [Server thread/INFO]: [nightcore] Found economy provider: EssentialsX Economy
+[14:19:52] [Server thread/INFO]: [nightcore] Found chat provider: LuckPerms
+[14:19:52] [Server thread/INFO]: [nightcore] Server Version: 1.21 ✔
+[14:19:52] [Server thread/INFO]: [nightcore] Entity Id Counter: OK ✔
+[14:19:52] [Server thread/INFO]: [nightcore] Item NBT Compress: OK ✔
+[14:19:52] [Server thread/INFO]: [nightcore] Plugin loaded in 175 ms!
+[14:19:52] [Server thread/INFO]: [ViaAprilFools] Enabling ViaAprilFools v3.0.1
+[14:19:52] [Server thread/INFO]: [PlugManX] Enabling PlugManX v2.4.1
+[14:19:53] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[14:19:53] [Server thread/WARN]: [PlugManX] It seems like you're running on paper.
+[14:19:53] [Server thread/WARN]: [PlugManX] PlugManX cannot interact with paper-plugins, yet.
+[14:19:53] [Server thread/WARN]: [PlugManX] Also, if you encounter any issues, please join my discord: https://discord.gg/GxEFhVY6ff
+[14:19:53] [Server thread/WARN]: [PlugManX] Or create an issue on GitHub: https://github.com/TheBlackEntity/PlugMan
+[14:19:53] [Server thread/WARN]: [PlugManX] ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[14:19:53] [Server thread/INFO]: [BungeeGuard] Enabling BungeeGuard v1.3-SNAPSHOT
+[14:19:53] [Server thread/INFO]: [BungeeGuard] Using Paper's PlayerHandshakeEvent to listen for connections.
+[14:19:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:19:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:19:53] [Server thread/WARN]: Whilst this makes it possible to use BungeeCord, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[14:19:53] [Server thread/WARN]: Please see http://www.spigotmc.org/wiki/firewall-guide/ for further information.
+[14:19:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:19:53] [Server thread/INFO]: Preparing level "world"
+[14:19:54] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:19:54] [Server thread/INFO]: Time elapsed: 8 ms
+[14:19:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:19:54] [Server thread/INFO]: Time elapsed: 333 ms
+[14:19:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:19:54] [Server thread/INFO]: Time elapsed: 399 ms
+[14:19:54] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
+[14:19:54] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21 (767)
+[14:19:55] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[14:19:55] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[14:19:55] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+110-f1a5caf
+[14:19:56] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[14:19:56] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[14:19:56] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[14:19:56] [Server thread/INFO]: [Essentials] Using locale en_US
+[14:19:56] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:19:56] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:19:56] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[14:19:56] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[14:19:56] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
+[14:19:57] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.11-SNAPSHOT+2289-7272507
+[14:19:57] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[14:19:57] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[14:19:57] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[14:19:57] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[14:19:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[14:19:57] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[14:19:57] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[14:19:57] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[14:19:57] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[14:19:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[14:19:57] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[14:19:57] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[14:19:57] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[14:19:57] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[14:19:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[14:19:57] [Server thread/INFO]: [WorldGuard] Loading region data...
+[14:19:57] [Server thread/WARN]: [WorldGuard] "WorldGuard v7.0.11-SNAPSHOT+2289-7272507" has registered a listener for org.bukkit.event.entity.EntityKnockbackByEntityEvent on method "public void com.sk89q.worldguard.bukkit.listener.EventAbstractionListener.onEntityKnockbackByEntity(org.bukkit.event.entity.EntityKnockbackByEntityEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [].
+[14:19:57] [Server thread/INFO]: [WooEconomy] Enabling WooEconomy v1.0
+[14:19:57] [Server thread/INFO]: [WooEconomy] Successfully loaded 10 classes (81ms)
+[14:19:57] [Server thread/INFO]: [SuperVanish] Enabling SuperVanish v6.2.20
+[14:19:57] [Server thread/INFO]: [SuperVanish] Hooked into PaperSpigot for server list ping support
+[14:19:58] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: supervanish [6.2.20]
+[14:19:58] [Server thread/INFO]: [SuperVanish] Hooked into PlaceholderAPI
+[14:19:58] [Server thread/INFO]: [SuperVanish] Hooked into Essentials
+[14:19:58] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.3.13-SNAPSHOT
+[14:19:58] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.3.13-SNAPSHOT" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[14:19:58] [Server thread/INFO]: [Multiverse-Core] §aWe are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[14:19:58] [Server thread/WARN]: [Multiverse-Core] Exception while loading value for environment
+[14:19:58] [Server thread/WARN]: [Multiverse-Core] Exception while loading value for environment
+[14:19:58] [Server thread/WARN]: [Multiverse-Core] Exception while loading value for environment
+[14:19:58] [Server thread/WARN]: [Multiverse-Core] Exception while loading value for environment
+[14:19:58] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: real_nether
+[14:19:58] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[14:19:58] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: TestRoom
+[14:19:58] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[14:19:58] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: mapbat
+[14:19:58] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[14:19:58] [Server thread/INFO]: Preparing start region for dimension minecraft:sniper_showdown
+[14:19:58] [Server thread/INFO]: Time elapsed: 345 ms
+[14:19:58] [Server thread/INFO]: [WorldGuard] (sniper_showdown) TNT ignition is PERMITTED.
+[14:19:58] [Server thread/INFO]: [WorldGuard] (sniper_showdown) Lighters are PERMITTED.
+[14:19:58] [Server thread/INFO]: [WorldGuard] (sniper_showdown) Lava fire is PERMITTED.
+[14:19:58] [Server thread/INFO]: [WorldGuard] (sniper_showdown) Fire spread is UNRESTRICTED.
+[14:19:58] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'sniper_showdown'
+[14:19:58] [Server thread/INFO]: [PlotSquared/PlotSquared] Detected world load for 'Plots'
+[14:19:58] [Server thread/INFO]: [PlotSquared/PlotSquared] - generator: PlotSquared>PlotSquared
+[14:19:58] [Server thread/INFO]: [PlotSquared/PlotSquared] - plot world: com.plotsquared.core.generator.HybridPlotWorld
+[14:19:58] [Server thread/INFO]: [PlotSquared/PlotSquared] - plot area manager: com.plotsquared.core.generator.HybridPlotManager
+[14:19:58] [Server thread/INFO]: [P2] Loading flags for area: Plots
+[14:19:58] [Server thread/INFO]: [P2] Area flags: []
+[14:19:58] [Server thread/INFO]: [P2] Road flags: []
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] - road schematic: false
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] - Dumping settings for ClassicPlotWorld with name Plots
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- road_schematic_enabled = false
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- plot_schematic = false
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- path_width_lower = 3
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- path_width_upper = 104
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- schem_y = 62
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- road_height = 62
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- plot_height = 62
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- wall_height = 62
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- main_block = minecraft:stone
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- top_block = minecraft:grass_block
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- wall_block = minecraft:stone_slab
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- claimed_wall_block = minecraft:sandstone_slab
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- wall_filling = minecraft:stone
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- road_block = minecraft:quartz_block
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- plot_bedrock = true
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- place_top_block = true
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- component_below_bedrock = false
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- plot_width = 100
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- road_width = 7
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- road_offset_x = 0
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- road_offset_z = 0
+[14:19:58] [Server thread/INFO]: [PlotSquared/HybridPlotWorld] -- size = 107
+[14:19:58] [Server thread/INFO]: Preparing start region for dimension minecraft:plots
+[14:19:59] [Server thread/INFO]: Time elapsed: 160 ms
+[14:19:59] [Server thread/INFO]: [WorldGuard] (Plots) TNT ignition is PERMITTED.
+[14:19:59] [Server thread/INFO]: [WorldGuard] (Plots) Lighters are PERMITTED.
+[14:19:59] [Server thread/INFO]: [WorldGuard] (Plots) Lava fire is PERMITTED.
+[14:19:59] [Server thread/INFO]: [WorldGuard] (Plots) Fire spread is UNRESTRICTED.
+[14:19:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Plots'
+[14:19:59] [Server thread/WARN]: java.lang.NullPointerException: Cannot invoke "org.bukkit.World$Environment.ordinal()" because the return value of "org.bukkit.WorldCreator.environment()" is null
+[14:19:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.createWorld(CraftServer.java:1320)
+[14:19:59] [Server thread/WARN]: 	at org.bukkit.Bukkit.createWorld(Bukkit.java:838)
+[14:19:59] [Server thread/WARN]: 	at org.bukkit.WorldCreator.createWorld(WorldCreator.java:502)
+[14:19:59] [Server thread/WARN]: 	at multiverse-core-4.3.13-pre.1.jar//com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:486)
+[14:19:59] [Server thread/WARN]: 	at multiverse-core-4.3.13-pre.1.jar//com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:467)
+[14:19:59] [Server thread/WARN]: 	at multiverse-core-4.3.13-pre.1.jar//com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:442)
+[14:19:59] [Server thread/WARN]: 	at multiverse-core-4.3.13-pre.1.jar//com.onarandombox.MultiverseCore.utils.WorldManager.loadWorlds(WorldManager.java:770)
+[14:19:59] [Server thread/WARN]: 	at multiverse-core-4.3.13-pre.1.jar//com.onarandombox.MultiverseCore.MultiverseCore.onEnable(MultiverseCore.java:313)
+[14:19:59] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[14:19:59] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[14:19:59] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[14:19:59] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[14:19:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:654)
+[14:19:59] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:603)
+[14:19:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:758)
+[14:19:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:520)
+[14:19:59] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:366)
+[14:19:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231)
+[14:19:59] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:334)
+[14:19:59] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:19:59] [Server thread/ERROR]: [Multiverse-Core] The world 'testmap' could NOT be loaded because it contains errors and is probably corrupt!
+[14:19:59] [Server thread/ERROR]: [Multiverse-Core] Try using Minecraft Region Fixer to repair your world! 'testmap'
+[14:19:59] [Server thread/ERROR]: [Multiverse-Core] https://github.com/Fenixin/Minecraft-Region-Fixer
+[14:19:59] [Server thread/INFO]: Preparing start region for dimension minecraft:snipershowdown
+[14:19:59] [Server thread/INFO]: Time elapsed: 313 ms
+[14:19:59] [Server thread/INFO]: [WorldGuard] (snipershowdown) TNT ignition is PERMITTED.
+[14:19:59] [Server thread/INFO]: [WorldGuard] (snipershowdown) Lighters are PERMITTED.
+[14:19:59] [Server thread/INFO]: [WorldGuard] (snipershowdown) Lava fire is PERMITTED.
+[14:19:59] [Server thread/INFO]: [WorldGuard] (snipershowdown) Fire spread is UNRESTRICTED.
+[14:19:59] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'snipershowdown'
+[14:19:59] [Server thread/INFO]: [Multiverse-Core] 6 - World(s) loaded.
+[14:19:59] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[14:19:59] [Server thread/INFO]: [Multiverse-Core] Version 4.3.13-SNAPSHOT (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[14:19:59] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.35-SNAPSHOT (build 3494)
+[14:19:59] [Server thread/INFO]: [Citizens] Loading external libraries
+[14:20:00] [Server thread/INFO]: [Citizens] Using mojmapped server, avoiding server package checks
+[14:20:00] [Server thread/INFO]: [Citizens] Loaded 0 templates.
+[14:20:00] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: citizensplaceholder [1.0.0]
+[14:20:00] [Server thread/INFO]: [Citizens] Loaded economy handling via Vault.
+[14:20:00] [Server thread/INFO]: [SuperVanish] Hooked into Citizens
+[14:20:00] [Server thread/INFO]: [Skript] Enabling Skript v2.9.1
+[14:20:01] [Server thread/INFO]: [Skript]     Timings cannot be enabled! Paper no longer supports Timings as of 1.19.4.
+[14:20:02] [Thread-13/INFO]: [Skript] You're currently running the latest stable version of Skript.
+[14:20:02] [pool-35-thread-1/INFO]: [PlotSquared/BukkitPlatform] (UUID) PlotSquared will fetch UUIDs in groups of 200
+[14:20:02] [pool-35-thread-1/INFO]: [PlotSquared/BukkitPlatform] (UUID) PlotSquared has cached 100.0% of UUIDs
+[14:20:02] [pool-35-thread-1/INFO]: [PlotSquared/BukkitPlatform] (UUID) PlotSquared has cached all UUIDs
+[14:20:11] [Server thread/INFO]: [Skript] Loaded 233074 aliases in 9560ms
+[14:20:12] [Server thread/INFO]: [Skript]  ~ created by & © Peter Güttinger aka Njol ~
+[14:20:12] [Server thread/INFO]: [DecentHolograms] Enabling DecentHolograms v2.8.11
+[14:20:12] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.1! Trying to find NMS support
+[14:20:12] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[14:20:12] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'DecentHolograms' to create a bStats instance!
+[14:20:12] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[14:20:12] [Server thread/INFO]: [packetevents] Enabling packetevents v2.4.0
+[14:20:12] [packetevents-update-check-thread/INFO]: [packetevents] Checking for updates, please wait...
+[14:20:12] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.5.2
+[14:20:12] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[14:20:12] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[14:20:13] [Server thread/INFO]: [ItemEdit] Hooking into Vault
+[14:20:13] [packetevents-update-check-thread/INFO]: [packetevents] You are running the latest release of PacketEvents. Your build: (2.4.0)
+[14:20:13] [Server thread/INFO]: [ItemEdit] Hooking into PlaceHolderAPI
+[14:20:13] [Server thread/INFO]: [ItemEdit] placeholders:
+[14:20:13] [Server thread/INFO]: [ItemEdit]   %itemedit_amount_<{itemid}>_[{slot}]_[{player}]%
+[14:20:13] [Server thread/INFO]: [ItemEdit]     shows how many itemid player has on slot
+[14:20:13] [Server thread/INFO]: [ItemEdit]     <{itemid}> for item id on serveritem
+[14:20:13] [Server thread/INFO]: [ItemEdit]     [{slot}] for the slot where the item should be counted, by default inventory
+[14:20:13] [Server thread/INFO]: [ItemEdit]       Values: inventory (include offhand), equip (include offhand), inventoryandequip (include offhand), hand, offhand, head, chest, legs, feet
+[14:20:13] [Server thread/INFO]: [ItemEdit]     [{player}] for the player, by default self
+[14:20:13] [Server thread/INFO]: [ItemEdit]     example: %itemedit_amount_{my_item_id}_{hand}%
+[14:20:13] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemedit [1.0]
+[14:20:13] [Server thread/INFO]: [ItemEdit] Hooking into ShopGuiPlus
+[14:20:13] [Server thread/WARN]: java.lang.NoClassDefFoundError: net/brcdev/shopgui/provider/item/ItemProvider
+[14:20:13] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.defineClass1(Native Method)
+[14:20:13] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.defineClass(ClassLoader.java:1027)
+[14:20:13] [Server thread/WARN]: 	at java.base/java.security.SecureClassLoader.defineClass(SecureClassLoader.java:150)
+[14:20:13] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:246)
+[14:20:13] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+[14:20:13] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:171)
+[14:20:13] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:166)
+[14:20:13] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[14:20:13] [Server thread/WARN]: 	at ItemEdit-3.5.2.jar//emanondev.itemedit.ItemEdit.enable(ItemEdit.java:128)
+[14:20:13] [Server thread/WARN]: 	at ItemEdit-3.5.2.jar//emanondev.itemedit.APlugin.onEnable(APlugin.java:215)
+[14:20:13] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:288)
+[14:20:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:202)
+[14:20:13] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:109)
+[14:20:13] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:520)
+[14:20:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugin(CraftServer.java:654)
+[14:20:13] [Server thread/WARN]: 	at org.bukkit.craftbukkit.CraftServer.enablePlugins(CraftServer.java:603)
+[14:20:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:758)
+[14:20:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:520)
+[14:20:13] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:366)
+[14:20:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1231)
+[14:20:13] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:334)
+[14:20:13] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:20:13] [Server thread/WARN]: Caused by: java.lang.ClassNotFoundException: net.brcdev.shopgui.provider.item.ItemProvider
+[14:20:13] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:199)
+[14:20:13] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:166)
+[14:20:13] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[14:20:13] [Server thread/WARN]: 	... 22 more
+[14:20:13] [Server thread/INFO]: [ItemEdit] # Enabled (took 192 ms)
+[14:20:13] [Server thread/INFO]: [AdvancedBan] Enabling AdvancedBan v2.3.0
+[14:20:13] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[14:20:15] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[14:20:15] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[14:20:15] [Server thread/INFO]: 
+[14:20:15] [Server thread/INFO]:  
+[14:20:15] [Server thread/INFO]: []=====[Enabling AdvancedBan]=====[]
+[14:20:15] [Server thread/INFO]: | Information:
+[14:20:15] [Server thread/INFO]: |   Name: AdvancedBan
+[14:20:15] [Server thread/INFO]: |   Developer: Leoko
+[14:20:15] [Server thread/INFO]: |   Version: 2.3.0
+[14:20:15] [Server thread/INFO]: |   Storage: HSQLDB (local)
+[14:20:15] [Server thread/INFO]: | Support:
+[14:20:15] [Server thread/INFO]: |   Github: https://github.com/DevLeoko/AdvancedBan/issues
+[14:20:15] [Server thread/INFO]: |   Discord: https://discord.gg/ycDG6rS
+[14:20:15] [Server thread/INFO]: | Twitter: @LeokoGar
+[14:20:15] [Server thread/INFO]: | Update:
+[14:20:15] [Server thread/INFO]: |   You have the newest version
+[14:20:15] [Server thread/INFO]: []================================[]
+[14:20:15] [Server thread/INFO]:  
+[14:20:15] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.23.0
+[14:20:15] [Server thread/INFO]: [Shopkeepers] Citizens found: Enabling NPC shopkeepers.
+[14:20:15] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:20:15] [Server thread/INFO]: [Shopkeepers] Loading the data of 19 shopkeepers ...
+[14:20:15] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[14:20:15] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[14:20:15] [Server thread/INFO]: [ClearLag] Loading modules...
+[14:20:15] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[14:20:15] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[14:20:15] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[14:20:15] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[14:20:15] [Thread-15/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[14:20:15] [Thread-15/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[14:20:15] [Thread-15/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[14:20:15] [Thread-15/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[14:20:15] [Thread-15/WARN]: 	at Clearlag.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[14:20:15] [Thread-15/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1583)
+[14:20:15] [Server thread/INFO]: [SkBee] Enabling SkBee v3.6.0
+[14:20:15] [Server thread/INFO]: [SkBee] Loading NBTApi...
+[14:20:15] [Server thread/INFO]: [SkBee] [NBTAPI] Found Minecraft: 1.21.1! Trying to find NMS support
+[14:20:15] [Server thread/INFO]: [SkBee] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[14:20:15] [Server thread/INFO]: [SkBee] Successfully loaded NBTApi!
+[14:20:16] [Server thread/INFO]: [SkBee] NBT Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Text Component Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Advancement Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] BossBar Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Bound Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Damage Source elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Display Entity elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Fishing elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Game Event Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Item Component Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Particle Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] RayTrace elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Recipe Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Scoreboard Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Scoreboard Objective Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Statistic Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Structure Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Minecraft Tag elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Team Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Tick Manager elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Villager Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Virtual Furnace Elements disabled via config
+[14:20:16] [Server thread/INFO]: [SkBee] World Border Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] World Creator Elements successfully loaded
+[14:20:16] [Server thread/INFO]: [SkBee] Chunk Generator Elements disabled via config
+[14:20:16] [Server thread/INFO]: [SkBee] Loaded (415) elements:
+[14:20:16] [Server thread/INFO]: [SkBee]  - 55 events
+[14:20:16] [Server thread/INFO]: [SkBee]  - 66 effects
+[14:20:16] [Server thread/INFO]: [SkBee]  - 252 expressions
+[14:20:16] [Server thread/INFO]: [SkBee]  - 27 conditions
+[14:20:16] [Server thread/INFO]: [SkBee]  - 15 sections
+[14:20:16] [Server thread/INFO]: [SkBee] Checking for update...
+[14:20:16] [Server thread/INFO]: [SkBee] Plugin is up to date!
+[14:20:16] [Server thread/INFO]: [SkBee] Successfully enabled v3.6.0 in 0.87 seconds
+[14:20:16] [Server thread/INFO]: [SkBee] Loading custom worlds...
+[14:20:16] [Server thread/INFO]: [SkBee] Successfully loaded 1 custom world
+[14:20:16] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v22.4
+[14:20:16] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled! 
+[14:20:16] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[14:20:16] [Server thread/INFO]: --------------------
+[14:20:16] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[14:20:16] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[14:20:16] [Server thread/INFO]: --------------------
+[14:20:16] [Server thread/INFO]: [PoaSkRewritev2] Enabling PoaSkRewritev2 v4.7.5
+[14:20:16] [Server thread/INFO]: [InventoryRollbackPlus] Enabling InventoryRollbackPlus v1.6.18
+[14:20:16] [Server thread/INFO]: [InventoryRollbackPlus] Attempting Paper support for version: 1.21.1-R0.1-SNAPSHOT
+[14:20:16] [Server thread/INFO]: [InventoryRollbackPlus] Found CraftBukkit Package Version: v1_21_R1
+[14:20:16] [Server thread/INFO]: [InventoryRollbackPlus] Inventory backup data is set to save to: YAML
+[14:20:16] [Server thread/INFO]: [InventoryRollbackPlus] bStats are enabled
+[14:20:16] [Server thread/INFO]: [AutoPickup] Enabling AutoPickup v1.4.5-SNAPSHOT
+[14:20:16] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: autopickup [1.0.0]
+[14:20:16] [Server thread/INFO]: [AutoPickup] Checking for new verison...
+[14:20:16] [Server thread/INFO]: [AutoPickup] Plugin is up-to-date.
+[14:20:16] [Server thread/INFO]: [MiniMOTD] Enabling MiniMOTD v2.1.2
+[14:20:17] [Server thread/INFO]: [CataMines] Enabling CataMines v2.5.11
+[14:20:17] [Server thread/INFO]: [CataMines] Loading config file
+[14:20:17] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: catamines [2.5.11]
+[14:20:17] [Server thread/INFO]: [BetterTeams] Enabling BetterTeams v4.10.0
+[14:20:17] [Server thread/INFO]: [BetterTeams] Checking if the file messages.yml is up to date
+[14:20:17] [Server thread/INFO]: [BetterTeams] File is up to date
+[14:20:17] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: betterTeams [4.10.0]
+[14:20:17] [Server thread/INFO]: Display team name config value: prefix
+[14:20:17] [Server thread/INFO]: Loading below name. Type: PREFIX
+[14:20:17] [Server thread/INFO]: teamManagement declared: com.booksaw.betterTeams.events.MCTeamManagement@13d630e4
+[14:20:18] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.17.1-SNAPSHOT-Updated-b192
+[14:20:18] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.13-1.21|? / Bukkit-API
+[14:20:18] [Server thread/INFO]: [NoCheatPlus] Applied block patches for multi client protocol support: water_lily, soil, vine, honey_block, shulker_box
+[14:20:18] [Server thread/INFO]: [NoCheatPlus] Update block-info: Block shape patch for multi client protocol support.
+[14:20:18] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[14:20:18] [Server thread/INFO]: [NoCheatPlus] Adding packet level hooks for ProtocolLib (MC 1.21.1)...
+[14:20:18] [Server thread/INFO]: [NoCheatPlus] Available (and activated) packet level hooks: UseEntityAdapter | MovingFlying | OutgoingPosition | KeepAliveAdapter | SoundDistance | WrongTurnAdapter | NoSlow | Fight
+[14:20:18] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+[14:20:18] [Server thread/INFO]: [NoCheatPlus] Version 3.17.1-SNAPSHOT-Updated-b192 is enabled.
+[14:20:18] [Server thread/INFO]: [TAB] Enabling TAB v4.1.6
+[14:20:18] [Server thread/INFO]: [TAB] Loaded NMS hook in 65ms
+[14:20:19] [Server thread/INFO]: [TAB] [WARN] Animation "serverlogo" has refresh interval of 110, which is not divisible by 50! Using 100.
+[14:20:19] [Server thread/INFO]: [TAB] [WARN] Animation "logoupdated" has refresh interval of 20, which is not divisible by 50! Using 50.
+[14:20:19] [Server thread/INFO]: [TAB] [WARN] anti-override for scoreboard-teams is disabled in config. This is usually a mistake. If you notice the feature randomly breaking, enable it back.
+[14:20:19] [Server thread/INFO]: [TAB] [WARN] ---------------------------------------------------------------------
+[14:20:19] [Server thread/INFO]: [TAB] [WARN] You have unlimited nametag mode feature enabled.
+[14:20:19] [Server thread/INFO]: [TAB] [WARN] This feature is scheduled for removal in a future TAB release.
+[14:20:19] [Server thread/INFO]: [TAB] [WARN] Please considering the alternative solutions available to achieve your desired result.
+[14:20:19] [Server thread/INFO]: [TAB] [WARN] No bug reports with this feature will be accepted anymore.
+[14:20:19] [Server thread/INFO]: [TAB] [WARN] No support with this feature will be provided anymore.
+[14:20:19] [Server thread/INFO]: [TAB] [WARN] See https://gist.github.com/NEZNAMY/f4cabf2fd9251a836b5eb877720dee5c/ for more info.
+[14:20:19] [Server thread/INFO]: [TAB] [WARN] ---------------------------------------------------------------------
+[14:20:19] [Server thread/INFO]: [TAB] [WARN] Found a total of 3 issues.
+[14:20:19] [Server thread/INFO]: [TAB] Enabled in 446ms
+[14:20:19] [Server thread/INFO]: [AxSmithing] Enabling AxSmithing v1.9
+[14:20:19] [Server thread/INFO]: [skript-gui] Enabling skript-gui v1.3
+[14:20:19] [Server thread/INFO]: [Skript]     Missing version in default.lang
+[14:20:19] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.10
+[14:20:19] [Server thread/INFO]: [Tebex] Enabling Tebex v2.0.6
+[14:20:20] [Server thread/INFO]: [UnlimitedNameTags] Enabling UnlimitedNameTags v1.3
+[14:20:21] [Folia Async Scheduler Thread Timer/WARN]: [UnlimitedNameTags] Async task for UnlimitedNameTags v1.3 generated an exception
+java.lang.NullPointerException: Cannot invoke "org.alexdev.unlimitednametags.config.Settings.getTaskInterval()" because the return value of "org.alexdev.unlimitednametags.config.ConfigManager.getSettings()" is null
+	at UnlimitedNametags.jar/org.alexdev.unlimitednametags.nametags.NameTagManager.startTask(NameTagManager.java:55) ~[UnlimitedNametags.jar:?]
+	at UnlimitedNametags.jar/org.alexdev.unlimitednametags.nametags.NameTagManager.lambda$loadAll$0(NameTagManager.java:45) ~[UnlimitedNametags.jar:?]
+	at UnlimitedNametags.jar/org.alexdev.unlimitednametags.libraries.universalScheduler.foliaScheduler.FoliaScheduler.lambda$runTaskLaterAsynchronously$13(FoliaScheduler.java:140) ~[UnlimitedNametags.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[purpur-1.21.1.jar:?]
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572) ~[?:?]
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317) ~[?:?]
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[14:20:21] [Server thread/INFO]: [UnlimitedNameTags] PacketEvents found, hooking into it
+[14:20:21] [Server thread/INFO]: [UnlimitedNameTags] Floodgate found, hooking into it
+[14:20:21] [Server thread/INFO]: [UnlimitedNameTags] API registered
+[14:20:21] [Server thread/INFO]: [UnlimitedNameTags] UnlimitedNameTags has been enabled!
+[14:20:21] [Server thread/INFO]: [DiSky] Enabling DiSky v4.17.2
+[14:20:21] [Server thread/INFO]: [DiSky] Loading emoji library ...
+[14:20:21] [Server thread/INFO]: [DiSky] Success!
+[14:20:21] [OkHttp https://plugin.tebex.io/.../INFO]: [Tebex] Connected to WindGenz - Minecraft: Java Edition server.
+[14:20:23] [Server thread/INFO]: [AxVaults] Enabling AxVaults v2.0.1
+[14:20:24] [Server thread/INFO]: [AxVaults] Loaded plugin!
+[14:20:24] [Server thread/INFO]: [LPC] Enabling LPC v3.6.0
+[14:20:24] [Server thread/INFO]: [ajLeaderboards] Enabling ajLeaderboards v2.9.0
+[14:20:25] [Server thread/INFO]: [ajLeaderboards] Using H2 flatfile for board cache. (h2)
+[14:20:25] [Server thread/INFO]: [ajLeaderboards] Loaded 1 boards
+[14:20:25] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: ajlb [2.9.0]
+[14:20:25] [Server thread/INFO]: [ajLeaderboards] PAPI placeholders successfully registered!
+[14:20:25] [Server thread/INFO]: [ajLeaderboards] ajLeaderboards v2.9.0 by ajgeiss0702 enabled!
+[14:20:25] [Server thread/INFO]: [ItemTag] Enabling ItemTag v3.4.3
+[14:20:25] [Server thread/INFO]: [ItemTag] Data using Spigot PersistentDataContainer
+[14:20:25] [Server thread/INFO]: [ItemTag] EquipmentChangeListener
+[14:20:25] [Server thread/INFO]: [ItemTag] Hooking into PlaceholderApi
+[14:20:25] [Server thread/INFO]: [ItemTag] Hooked into PlaceHolderAPI:
+[14:20:25] [Server thread/INFO]: [ItemTag] placeholders:
+[14:20:25] [Server thread/INFO]: [ItemTag]   %itemtag_cooldown_<timeunit>_[cooldownid]%
+[14:20:25] [Server thread/INFO]: [ItemTag]     shows how much cooldown has selected cooldownid for player
+[14:20:25] [Server thread/INFO]: [ItemTag]     <timeunit> may be h, s or ms
+[14:20:25] [Server thread/INFO]: [ItemTag]     [cooldownid] for cooldown type, by default default
+[14:20:25] [Server thread/INFO]: [ItemTag]     example: %itemtag_cooldown_s_anid%
+[14:20:25] [Server thread/INFO]: [ItemTag]   %itemtag_handcooldown_<timeunit>%
+[14:20:25] [Server thread/INFO]: [ItemTag]     shows how much cooldown has player on the item in his hand
+[14:20:25] [Server thread/INFO]: [ItemTag]     <timeunit> may be h, s or ms
+[14:20:25] [Server thread/INFO]: [ItemTag]     example: %itemtag_handcooldown_s%
+[14:20:25] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: itemtag [1.0]
+[14:20:25] [Server thread/INFO]: [ItemTag] # Enabled (took 81 ms)
+[14:20:25] [Server thread/INFO]: [CombatLogX] Enabling CombatLogX v11.5.0.0.1242
+[14:20:25] [Server thread/INFO]: [CombatLogX] Successfully loaded 29 language(s).
+[14:20:25] [Server thread/INFO]: [CombatLogX] Detected server as regular SpigotMC/PaperMC (not Folia)
+[14:20:25] [Server thread/INFO]: CombatLogX was loaded successfully.
+[14:20:25] [Server thread/INFO]: [CombatLogX] Enabling expansions...
+[14:20:25] [Server thread/INFO]: [CombatLogX] There were no expansions to enable.
+[14:20:25] [Server thread/INFO]: CombatLogX was enabled successfully.
+[14:20:25] [Server thread/INFO]: [VillagerMarket] Enabling VillagerMarket v1.12.0
+[14:20:25] [Server thread/INFO]: [VillagerMarket] Loaded 0 shops in 0 ms!
+[14:20:25] [Server thread/INFO]: [VillagerMarket] Auto config update is enabled
+[14:20:25] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: vm [1.12.0]
+[14:20:25] [Server thread/INFO]: [AntiPopup] Enabling AntiPopup v9.2
+[14:20:26] [Server thread/INFO]: [AntiPopup] Config enabled.
+[14:20:26] [Server thread/INFO]: [AntiPopup] Loaded a hook for ViaVersion.
+[14:20:26] [Server thread/INFO]: [AntiPopup] Initiated PacketEvents.
+[14:20:26] [Server thread/INFO]: [AntiPopup] Hooked on 1.21
+[14:20:26] [Server thread/INFO]: [AntiPopup] Commands registered.
+[14:20:26] [Server thread/INFO]: [AntiPopup] Logger filter enabled.
+[14:20:26] [Server thread/INFO]: [FreedomChat] Enabling FreedomChat v1.7.0
+[14:20:26] [Server thread/INFO]: [WESV] Enabling WorldEditSelectionVisualizer v2.1.7
+[14:20:26] [Server thread/INFO]: [WESV] Using WorldEdit 7 api
+[14:20:26] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: wesv [2.1.7]
+[14:20:26] [Server thread/INFO]: [WESV] PlaceholderAPI extension successfully registered.
+[14:20:26] [Server thread/INFO]: [ViaRewind-Legacy-Support] Enabling ViaRewind-Legacy-Support v1.5.2-SNAPSHOT
+[14:20:26] [Server thread/INFO]: [ShulkerPacks] Enabling ShulkerPacks v1.6.4
+[14:20:26] [Server thread/INFO]: [ShulkerPacks] §f§l[§9ShulkerPacks§f§l] §aShulkerPacks has been enabled!
+[14:20:26] [Server thread/INFO]: [SimplePortals] Enabling SimplePortals v1.7.6
+[14:20:26] [Server thread/INFO]: [SimplePortals] Everything inside the configuration seems to be up to date. (Took 1ms)
+[14:20:26] [Server thread/INFO]: [SimplePortals] Packets have been setup for v1_21_1R1!
+[14:20:26] [Server thread/INFO]: [SkUniversal] Enabling SkUniversal v2.13
+[14:20:26] [Server thread/INFO]: [SkUniversal] Hooked Plugins: [ClearLag, LuckPerms, AdvancedBan, Shopkeepers, PlotSquared]
+[14:20:26] [Server thread/INFO]: [ExcellentCrates] Enabling ExcellentCrates v5.2.3.1
+[14:20:26] [Server thread/INFO]: [ExcellentCrates] Powered by nightcore
+[14:20:26] [Server thread/INFO]: [ExcellentCrates] Read database configuration...
+[14:20:26] [Server thread/INFO]: [ExcellentCrates] Using Internal hologram handler.
+[14:20:26] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[14:20:26] [Server thread/INFO]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-1 - Added connection org.sqlite.jdbc4.JDBC4Connection@4c7194a9
+[14:20:26] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[14:20:26] [Server thread/INFO]: [ExcellentCrates] Registered currency: xp
+[14:20:26] [Server thread/INFO]: [ExcellentCrates] Registered currency: levels
+[14:20:26] [Server thread/INFO]: [ExcellentCrates] Registered currency: money
+[14:20:26] [Server thread/INFO]: [ExcellentCrates] Loaded 8 crate openings.
+[14:20:26] [Server thread/INFO]: [ExcellentCrates] Loaded 3 crate keys.
+[14:20:26] [Server thread/INFO]: [ExcellentCrates] Loaded 4 rarities!
+[14:20:26] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{amount:2.0d,name:"GENERIC_MAX_HEALTH",operation:"add_value",slot:"offhand",type:"minecraft:generic.max_health",uuid:[I;-1164229523,1653163045,-1844298159,1932875750]}]; No key id in MapLike[{amount:0.2d,name:"GENERIC_ATTACK_SPEED",operation:"add_multiplied_base",slot:"offhand",type:"minecraft:generic.attack_speed",uuid:[I;1928881151,1330072283,-1077844821,-1151593253]}]; No key id in MapLike[{amount:3.0d,name:"GENERIC_ATTACK_DAMAGE",operation:"add_value",slot:"offhand",type:"minecraft:generic.attack_damage",uuid:[I;-1873542087,1086670068,-1535296414,-1833748043]}] missed input: {"minecraft:attribute_modifiers":{modifiers:[{amount:3.0d,name:"GENERIC_ATTACK_DAMAGE",operation:"add_value",slot:"offhand",type:"minecraft:generic.attack_damage",uuid:[I;-1873542087,1086670068,-1535296414,-1833748043]},{amount:0.2d,name:"GENERIC_ATTACK_SPEED",operation:"add_multiplied_base",slot:"offhand",type:"minecraft:generic.attack_speed",uuid:[I;1928881151,1330072283,-1077844821,-1151593253]},{amount:2.0d,name:"GENERIC_MAX_HEALTH",operation:"add_value",slot:"offhand",type:"minecraft:generic.max_health",uuid:[I;-1164229523,1653163045,-1844298159,1932875750]}]}}'
+[14:20:26] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{amount:2.0d,name:"GENERIC_MAX_HEALTH",operation:"add_value",slot:"offhand",type:"minecraft:generic.max_health",uuid:[I;-1164229523,1653163045,-1844298159,1932875750]}]; No key id in MapLike[{amount:0.2d,name:"GENERIC_ATTACK_SPEED",operation:"add_multiplied_base",slot:"offhand",type:"minecraft:generic.attack_speed",uuid:[I;1928881151,1330072283,-1077844821,-1151593253]}]; No key id in MapLike[{amount:3.0d,name:"GENERIC_ATTACK_DAMAGE",operation:"add_value",slot:"offhand",type:"minecraft:generic.attack_damage",uuid:[I;-1873542087,1086670068,-1535296414,-1833748043]}] missed input: {"minecraft:attribute_modifiers":{modifiers:[{amount:3.0d,name:"GENERIC_ATTACK_DAMAGE",operation:"add_value",slot:"offhand",type:"minecraft:generic.attack_damage",uuid:[I;-1873542087,1086670068,-1535296414,-1833748043]},{amount:0.2d,name:"GENERIC_ATTACK_SPEED",operation:"add_multiplied_base",slot:"offhand",type:"minecraft:generic.attack_speed",uuid:[I;1928881151,1330072283,-1077844821,-1151593253]},{amount:2.0d,name:"GENERIC_MAX_HEALTH",operation:"add_value",slot:"offhand",type:"minecraft:generic.max_health",uuid:[I;-1164229523,1653163045,-1844298159,1932875750]}]}}'
+[14:20:26] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{amount:0.5d,name:"GENERIC_MOVEMENT_SPEED",operation:"add_multiplied_base",slot:"offhand",type:"minecraft:generic.movement_speed",uuid:[I;-794517835,2102151266,-1941061431,-1484670206]}]; No key id in MapLike[{amount:2.0d,name:"GENERIC_MAX_HEALTH",operation:"add_value",slot:"offhand",type:"minecraft:generic.max_health",uuid:[I;-714054367,-1030204,-1564649651,-575965779]}]; No key id in MapLike[{amount:0.05d,name:"GENERIC_ATTACK_SPEED",operation:"add_multiplied_base",slot:"offhand",type:"minecraft:generic.attack_speed",uuid:[I;35721462,1122714673,-1123494973,-1436445158]}] missed input: {"minecraft:attribute_modifiers":{modifiers:[{amount:0.05d,name:"GENERIC_ATTACK_SPEED",operation:"add_multiplied_base",slot:"offhand",type:"minecraft:generic.attack_speed",uuid:[I;35721462,1122714673,-1123494973,-1436445158]},{amount:2.0d,name:"GENERIC_MAX_HEALTH",operation:"add_value",slot:"offhand",type:"minecraft:generic.max_health",uuid:[I;-714054367,-1030204,-1564649651,-575965779]},{amount:0.5d,name:"GENERIC_MOVEMENT_SPEED",operation:"add_multiplied_base",slot:"offhand",type:"minecraft:generic.movement_speed",uuid:[I;-794517835,2102151266,-1941061431,-1484670206]}]}}'
+[14:20:26] [Server thread/ERROR]: Tried to load invalid item: 'No key id in MapLike[{amount:0.5d,name:"GENERIC_MOVEMENT_SPEED",operation:"add_multiplied_base",slot:"offhand",type:"minecraft:generic.movement_speed",uuid:[I;-794517835,2102151266,-1941061431,-1484670206]}]; No key id in MapLike[{amount:2.0d,name:"GENERIC_MAX_HEALTH",operation:"add_value",slot:"offhand",type:"minecraft:generic.max_health",uuid:[I;-714054367,-1030204,-1564649651,-575965779]}]; No key id in MapLike[{amount:0.05d,name:"GENERIC_ATTACK_SPEED",operation:"add_multiplied_base",slot:"offhand",type:"minecraft:generic.attack_speed",uuid:[I;35721462,1122714673,-1123494973,-1436445158]}] missed input: {"minecraft:attribute_modifiers":{modifiers:[{amount:0.05d,name:"GENERIC_ATTACK_SPEED",operation:"add_multiplied_base",slot:"offhand",type:"minecraft:generic.attack_speed",uuid:[I;35721462,1122714673,-1123494973,-1436445158]},{amount:2.0d,name:"GENERIC_MAX_HEALTH",operation:"add_value",slot:"offhand",type:"minecraft:generic.max_health",uuid:[I;-714054367,-1030204,-1564649651,-575965779]},{amount:0.5d,name:"GENERIC_MOVEMENT_SPEED",operation:"add_multiplied_base",slot:"offhand",type:"minecraft:generic.movement_speed",uuid:[I;-794517835,2102151266,-1941061431,-1484670206]}]}}'
+[14:20:26] [Server thread/INFO]: [ExcellentCrates] Loaded 4 crates.
+[14:20:27] [Server thread/INFO]: [ExcellentCrates] Loaded 1 crate menus.
+[14:20:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: excellentcrates [5.2.3.1]
+[14:20:27] [Server thread/INFO]: [ExcellentCrates] Plugin loaded in 643 ms!
+[14:20:27] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.28.0
+[14:20:27] [Server thread/INFO]: [Skuishy] Enabling Skuishy v2.7
+[14:20:27] [Server thread/INFO]: [Skuishy] DecentHolograms elements loaded.
+[14:20:27] [Server thread/INFO]: [Skuishy] Vivecraft elements not loaded.
+[14:20:27] [Server thread/INFO]: [Skuishy] Vulcan elements not loaded.
+[14:20:27] [Server thread/INFO]: [Skuishy] General elements loaded.
+[14:20:27] [pool-94-thread-1/INFO]: [ajLeaderboards] You are up to date! (2.9.0)
+[14:20:27] [Server thread/INFO]: [Skuishy] Note elements loaded.
+[14:20:27] [Server thread/INFO]: [Skuishy] Permission elements loaded.
+[14:20:27] [Server thread/INFO]: [Skuishy] Persistence elements loaded.
+[14:20:27] [Server thread/INFO]: [Skuishy] Plugin elements loaded.
+[14:20:27] [Server thread/INFO]: [Skuishy] Skin elements loaded.
+[14:20:27] [Server thread/INFO]: [Skuishy] Skuishy has been enabled!
+[14:20:27] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.20
+[14:20:27] [Server thread/INFO]: [voicechat] Initializing compatibility for Bukkit version 1.21.1-R0.1
+[14:20:27] [Server thread/INFO]: [voicechat] Compatibility version 18
+[14:20:27] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[14:20:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: voicechat [2.5.20]
+[14:20:27] [Server thread/INFO]: [voicechat] Successfully registered PlaceholderAPI expansion
+[14:20:27] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[14:20:27] [Server thread/INFO]: [SkQuery] Enabling SkQuery v4.1.10
+[14:20:27] [Server thread/INFO]: [skQuery] Locating classes from SkQuery...
+[14:20:27] [Server thread/INFO]: [skQuery] Beginning to process a total of 117 from SkQuery
+[14:20:27] [Server thread/INFO]: [skQuery] Out of 117 classes, 117 classes were loaded from SkQuery
+[14:20:27] [Server thread/INFO]: [BansWebhook] Enabling BansWebhook v2.2
+[14:20:28] [pool-96-thread-1/INFO]: [DiscordSRV] DiscordSRV is up-to-date. (42aad8401b73c52bb4edd11d9a73aa8a6e1619c1)
+[14:20:28] [Server thread/INFO]: Successfully Enabled BansWebhook 2.2 by PmzHero (Hooked with AdvancedBan)
+[14:20:28] [Server thread/INFO]: [AxiomPaper] Enabling AxiomPaper v1.5.12
+[14:20:29] [Server thread/INFO]: [AxiomPaper] CoreProtect integration enabled
+[14:20:29] [Server thread/INFO]: [skript-reflect] Enabling skript-reflect v2.5.1
+[14:20:29] [Server thread/INFO]: [PermSk] Enabling PermSk v2.0.0
+[14:20:29] [Server thread/INFO]: [PermSk] Loaded dependency: LuckPerms
+[14:20:29] [Server thread/INFO]: [PermSk] Plugin enabled!
+[14:20:29] [Server thread/INFO]: [PermSk] [bStats] Sucessfully loaded
+[14:20:29] [Server thread/INFO]: [PermSk] Checking for update...
+[14:20:29] [Server thread/INFO]: [PermSk] Plugin is up to date!
+[14:20:29] [DiscordSRV - Initialization/INFO]: [DiscordSRV] [JDA] Login Successful!
+[14:20:30] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Connected to WebSocket
+[14:20:30] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[14:20:30] [Server thread/INFO]: Done preparing level "world" (37.162s)
+[14:20:30] [Server thread/INFO]: Running delayed init tasks
+[14:20:30] [Craft Scheduler Thread - 9 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[14:20:30] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.WorldGuardFeature] Plugin 'WorldGuard' found. Using it now.
+[14:20:30] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[14:20:30] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.regions.plotsquared.PlotSquaredFeature] Optimizing PlotSquared
+[14:20:30] [Server thread/INFO]: [com.fastasyncworldedit.bukkit.FaweBukkit] Plugin 'PlotSquared' v7 found. Using it now.
+[14:20:30] [Craft Scheduler Thread - 6 - InventoryRollbackPlus/INFO]: [InventoryRollbackPlus] Checking for updates...
+[14:20:30] [Craft Scheduler Thread - 12 - DecentHolograms/INFO]: [DecentHolograms] Loading holograms... 
+[14:20:30] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[14:20:30] [Craft Scheduler Thread - 13 - NoCheatPlus/INFO]: [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+[14:20:30] [Craft Scheduler Thread - 13 - NoCheatPlus/INFO]: [NoCheatPlus] Added hook: ViolationFrequency(NCP) [1.0].
+[14:20:30] [Craft Scheduler Thread - 12 - DecentHolograms/INFO]: [DecentHolograms] Loaded 28 holograms!
+[14:20:30] [Craft Scheduler Thread - 9 - Essentials/INFO]: [Essentials] Fetching version information...
+[14:20:30] [JDA MainWS-ReadThread/INFO]: [DiscordSRV] [JDA] Finished Loading!
+[14:20:30] [Craft Scheduler Thread - 13 - Vault/INFO]: [Vault] Checking for Updates ... 
+[14:20:31] [Craft Scheduler Thread - 6 - InventoryRollbackPlus/INFO]: [InventoryRollbackPlus] You are running the latest version.
+[14:20:31] [Craft Scheduler Thread - 7 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[14:20:31] [Craft Scheduler Thread - 7 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'CombatLogX'.
+[14:20:31] [Craft Scheduler Thread - 13 - Vault/INFO]: [Vault] No new version available
+[14:20:31] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Console forwarding assigned to channel TC:🎮・minecraft-console(1266122477160104086)
+[14:20:31] [Server thread/INFO]: [Skript] Loading variables...
+[14:20:31] [Craft Scheduler Thread - 25 - Skuishy/INFO]: [Skuishy] Got latest version.
+[14:20:31] [Craft Scheduler Thread - 4 - BlueSlimeCore/INFO]: [Blue Slime Core]  
+[14:20:31] [Craft Scheduler Thread - 4 - BlueSlimeCore/INFO]: [Blue Slime Core] [Update Checker] There are no updates available for plugin 'BlueSlimeCore'.
+[14:20:31] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling Essentials hook
+[14:20:31] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling SuperVanish hook
+[14:20:31] [Server thread/INFO]: [Skript] Loaded 1169 variables in 0.3 seconds
+[14:20:31] [Server thread/INFO]: [Skript] Line 41: (minigames.sk)
+[14:20:31] [Server thread/INFO]:     indentation error: expected 2 tabs, but found '____->' [-> = tab, _ = space, ? = other whitespace]
+[14:20:31] [Server thread/INFO]:     Line: return false
+[14:20:31] [Server thread/INFO]:  
+[14:20:31] [Server thread/INFO]: [Skript] Line 40: (minigames.sk)
+[14:20:31] [Server thread/INFO]:     Empty configuration section! You might want to indent one or more of the subsequent lines to make them belong to this section or remove the colon at the end of the line if you don't want this line to start a section.
+[14:20:31] [Server thread/INFO]:     Line: else:
+[14:20:31] [Server thread/INFO]:  
+[14:20:31] [Server thread/INFO]: [Skript] Line 102: (minigames.sk)
+[14:20:31] [Server thread/INFO]:     indentation error: expected 1 tab, but found 2 tabs
+[14:20:31] [Server thread/INFO]:     Line: teleport player to location(-5.5, 72, -163.5, world "world", 90, 0)
+[14:20:31] [Server thread/INFO]:  
+[14:20:31] [Server thread/INFO]: [Skript] Line 103: (minigames.sk)
+[14:20:31] [Server thread/INFO]:     indentation error: expected 1 tab, but found 2 tabs
+[14:20:31] [Server thread/INFO]:     Line: send "&c&lWARNING: &fYou have not selected a pack yet! Please do by using /options or By clicking on the button infront of you." to player
+[14:20:31] [Server thread/INFO]:  
+[14:20:31] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[14:20:31] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling LuckPerms hook
+[14:20:31] [DiscordSRV - Initialization/INFO]: [DiscordSRV] Enabling PlaceholderAPI hook
+[14:20:31] [Server thread/INFO]: [Skript] Line 19: (tailv2.sk)
+[14:20:31] [Server thread/INFO]:     Can't understand this structure: on player look
+[14:20:31] [Server thread/INFO]:     Line: on player look:
+[14:20:31] [Server thread/INFO]:  
+[14:20:32] [Server thread/INFO]: [Skript] Line 12: (minigames.sk)
+[14:20:32] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::%loop-number%}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::%loop-number%}
+[14:20:32] [Server thread/INFO]:     Line: set {%{_p}'s uuid%::%{_n}%::%loop-number%} to {_i}
+[14:20:32] [Server thread/INFO]:  
+[14:20:32] [Server thread/INFO]: [Skript] Line 15: (minigames.sk)
+[14:20:32] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::*}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::*}
+[14:20:32] [Server thread/INFO]:     Line: loop {%{_p}'s uuid%::%{_n}%::*}:
+[14:20:32] [Server thread/INFO]:  
+[14:20:33] [Server thread/INFO]: [Skript] Line 10: (tailv2.sk)
+[14:20:33] [Server thread/INFO]:     a command sender cannot be saved, i.e. the contents of the variable {tailed::%UUID of the 1st argument%} will be lost when the server stops.
+[14:20:33] [Server thread/INFO]:     Line: set {tailed::%arg-1's uuid%} to sender
+[14:20:33] [Server thread/INFO]:  
+[14:20:33] [Server thread/INFO]: [Skript] Line 10: (Dashsword.sk)
+[14:20:33] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:20:33] [Server thread/INFO]:     Line: if {%player%::dash} is true:
+[14:20:33] [Server thread/INFO]:  
+[14:20:33] [Server thread/INFO]: [Skript] Line 12: (Dashsword.sk)
+[14:20:33] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:20:33] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[14:20:33] [Server thread/INFO]:  
+[14:20:33] [Server thread/INFO]: [Skript] Line 14: (Dashsword.sk)
+[14:20:33] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:20:33] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[14:20:33] [Server thread/INFO]:  
+[14:20:33] [Server thread/INFO]: [Skript] Line 15: (Dashsword.sk)
+[14:20:33] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:20:33] [Server thread/INFO]:     Line: if {%player%::dash} is not set:
+[14:20:33] [Server thread/INFO]:  
+[14:20:33] [Server thread/INFO]: [Skript] Line 17: (Dashsword.sk)
+[14:20:33] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:20:33] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[14:20:33] [Server thread/INFO]:  
+[14:20:33] [Server thread/INFO]: [Skript] Line 19: (Dashsword.sk)
+[14:20:33] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:20:33] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[14:20:33] [Server thread/INFO]:  
+[14:20:34] [Server thread/INFO]: [Skript] Line 101: (minigames.sk)
+[14:20:34] [Server thread/INFO]:     Can't understand this condition/effect: if
+[14:20:34] [Server thread/INFO]:     Line: if
+[14:20:34] [Server thread/INFO]:  
+[14:20:34] [Server thread/INFO]: [Skript] Line 6: (opgun.sk)
+[14:20:34] [Server thread/INFO]:     Can't understand this expression: {GodGunFireball::*} + 1}
+[14:20:34] [Server thread/INFO]:     Line: set {GodGunFireball::%{GodGunFireball::*} + 1}%} to uuid of last spawned entity
+[14:20:34] [Server thread/INFO]:  
+[14:20:34] [Server thread/INFO]: [Skript] Line 7: (opgun.sk)
+[14:20:34] [Server thread/INFO]:     an entity cannot be saved, i.e. the contents of the variable {GodGunFireball::*} will be lost when the server stops.
+[14:20:34] [Server thread/INFO]:     Line: add last spawned entity to {GodGunFireball::*}
+[14:20:34] [Server thread/INFO]:  
+[14:20:34] [Server thread/INFO]: [Skript] Loaded 23 scripts with a total of 69 structures in 2.73 seconds
+[14:20:34] [Server thread/INFO]: [Skript] Finished loading.
+[14:20:34] [Server thread/INFO]: [CoreProtect] FastAsyncWorldEdit logging successfully initialized.
+[14:20:34] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[14:20:34] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[14:20:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[14:20:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[14:20:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.2]
+[14:20:34] [Server thread/WARN]: [PlaceholderAPI] Cannot load expansion playerstats due to a missing plugin: PlayerStats
+[14:20:34] [Server thread/INFO]: 3 placeholder hook(s) registered!
+[14:20:34] [Server thread/INFO]: [VoidGen] Generator settings have not been set. Using default values:
+[14:20:34] [Server thread/INFO]: [VoidGen] {"caves":false,"decoration":false,"mobs":false,"structures":false,"noise":false,"surface":false,"bedrock":false}
+[14:20:35] [Server thread/INFO]: [Citizens] Loaded 10 NPCs.
+[14:20:35] [Server thread/INFO]: [CataMines] Loading mines from files...
+[14:20:35] [Server thread/INFO]: [CataMines] Starting mines and registering commands. Running version 2.5.11
+[14:20:35] [Server thread/INFO]: [CataMines] Registering listeners
+[14:20:35] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: discordsrv [1.28.0]
+[14:20:35] [Server thread/INFO]: Done (77.981s)! For help, type "help"
+[14:20:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5055ms or 101 ticks behind
+[14:20:35] [Server thread/INFO]: [voicechat] Loading plugins
+[14:20:35] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[14:20:35] [Server thread/INFO]: [voicechat] Initializing plugins
+[14:20:35] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[14:20:35] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[14:20:35] [VoiceChatServerThread/INFO]: [voicechat] Using server-ip as bind address: 0.0.0.0
+[14:20:35] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at 0.0.0.0:24454
+[14:20:35] [DiscordSRV - JDA Callback 0/INFO]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[14:20:37] [User Authenticator #0/INFO]: UUID of player anmvc is e23c38f3-ad85-49e6-a62d-3fae69f9db97
+[14:20:39] [Server thread/INFO]: anmvc joined the game
+[14:20:39] [Server thread/INFO]: anmvc[/172.56.103.136:63752] logged in with entity id 443 at ([world]-5.5, 72.0, -163.5)
+[14:20:39] [Server thread/INFO]: [voicechat] Received secret request of anmvc (18)
+[14:20:39] [Server thread/INFO]: [voicechat] Sent secret to anmvc
+[14:20:40] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e23c38f3-ad85-49e6-a62d-3fae69f9db97
+[14:20:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e23c38f3-ad85-49e6-a62d-3fae69f9db97
+[14:20:41] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player anmvc (e23c38f3-ad85-49e6-a62d-3fae69f9db97) successfully connected to voice chat
+[14:23:07] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_21_R1.PaperweightStarlightRelighterFactory as relighter factory.
+[14:23:10] [Server thread/INFO]: [Skript] Reloading the config, aliases and all scripts...
+[14:23:19] [Server thread/INFO]: Loaded 233074 aliases in 9168ms
+[14:23:19] [Server thread/INFO]: Line 102: (minigames.sk)
+[14:23:19] [Server thread/INFO]:     indentation error: expected 1 tab, but found 2 tabs
+[14:23:19] [Server thread/INFO]:     Line: teleport player to location(-5.5, 72, -163.5, world "world", 90, 0)
+[14:23:19] [Server thread/INFO]:  
+[14:23:19] [Server thread/INFO]: Line 103: (minigames.sk)
+[14:23:19] [Server thread/INFO]:     indentation error: expected 1 tab, but found 2 tabs
+[14:23:19] [Server thread/INFO]:     Line: send "&c&lWARNING: &fYou have not selected a pack yet! Please do by using /options or By clicking on the button infront of you." to player
+[14:23:19] [Server thread/INFO]:  
+[14:23:19] [Server thread/INFO]: Line 12: (minigames.sk)
+[14:23:19] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::%loop-number%}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::%loop-number%}
+[14:23:19] [Server thread/INFO]:     Line: set {%{_p}'s uuid%::%{_n}%::%loop-number%} to {_i}
+[14:23:19] [Server thread/INFO]:  
+[14:23:19] [Server thread/INFO]: Line 15: (minigames.sk)
+[14:23:19] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::*}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::*}
+[14:23:19] [Server thread/INFO]:     Line: loop {%{_p}'s uuid%::%{_n}%::*}:
+[14:23:19] [Server thread/INFO]:  
+[14:23:19] [Server thread/INFO]: Line 10: (tailv2.sk)
+[14:23:19] [Server thread/INFO]:     a command sender cannot be saved, i.e. the contents of the variable {tailed::%UUID of the 1st argument%} will be lost when the server stops.
+[14:23:19] [Server thread/INFO]:     Line: set {tailed::%arg-1's uuid%} to sender
+[14:23:19] [Server thread/INFO]:  
+[14:23:19] [Server thread/INFO]: Line 10: (Dashsword.sk)
+[14:23:19] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:23:19] [Server thread/INFO]:     Line: if {%player%::dash} is true:
+[14:23:19] [Server thread/INFO]:  
+[14:23:19] [Server thread/INFO]: Line 12: (Dashsword.sk)
+[14:23:19] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:23:19] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[14:23:19] [Server thread/INFO]:  
+[14:23:19] [Server thread/INFO]: Line 14: (Dashsword.sk)
+[14:23:19] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:23:19] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[14:23:19] [Server thread/INFO]:  
+[14:23:19] [Server thread/INFO]: Line 15: (Dashsword.sk)
+[14:23:19] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:23:19] [Server thread/INFO]:     Line: if {%player%::dash} is not set:
+[14:23:19] [Server thread/INFO]:  
+[14:23:19] [Server thread/INFO]: Line 17: (Dashsword.sk)
+[14:23:19] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:23:19] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[14:23:19] [Server thread/INFO]:  
+[14:23:19] [Server thread/INFO]: Line 19: (Dashsword.sk)
+[14:23:19] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:23:19] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[14:23:19] [Server thread/INFO]:  
+[14:23:20] [Server thread/INFO]: Line 101: (minigames.sk)
+[14:23:20] [Server thread/INFO]:     Can't understand this condition/effect: if
+[14:23:20] [Server thread/INFO]:     Line: if
+[14:23:20] [Server thread/INFO]:  
+[14:23:20] [Server thread/INFO]: Line 6: (opgun.sk)
+[14:23:20] [Server thread/INFO]:     Can't understand this expression: {GodGunFireball::*} + 1}
+[14:23:20] [Server thread/INFO]:     Line: set {GodGunFireball::%{GodGunFireball::*} + 1}%} to uuid of last spawned entity
+[14:23:20] [Server thread/INFO]:  
+[14:23:20] [Server thread/INFO]: Line 7: (opgun.sk)
+[14:23:20] [Server thread/INFO]:     an entity cannot be saved, i.e. the contents of the variable {GodGunFireball::*} will be lost when the server stops.
+[14:23:20] [Server thread/INFO]:     Line: add last spawned entity to {GodGunFireball::*}
+[14:23:20] [Server thread/INFO]:  
+[14:23:20] [Server thread/INFO]: [Skript] Encountered 4 errors while reloading the config, aliases and all scripts! (9907ms)
+[14:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9860ms or 197 ticks behind
+[14:28:20] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[14:28:50] [Server thread/INFO]: [Skript] Reloading the config, aliases and all scripts...
+[14:28:59] [Server thread/INFO]: Loaded 233074 aliases in 9014ms
+[14:28:59] [Server thread/INFO]: Line 102: (minigames.sk)
+[14:28:59] [Server thread/INFO]:     indentation error: expected 1 tab, but found 2 tabs
+[14:28:59] [Server thread/INFO]:     Line: teleport player to location(-5.5, 72, -163.5, world "world", 90, 0)
+[14:28:59] [Server thread/INFO]:  
+[14:28:59] [Server thread/INFO]: Line 103: (minigames.sk)
+[14:28:59] [Server thread/INFO]:     indentation error: expected 1 tab, but found 2 tabs
+[14:28:59] [Server thread/INFO]:     Line: send "&c&lWARNING: &fYou have not selected a pack yet! Please do by using /options or By clicking on the button infront of you." to player
+[14:28:59] [Server thread/INFO]:  
+[14:28:59] [Server thread/INFO]: Line 12: (opgun.sk)
+[14:28:59] [Server thread/INFO]:     Can't understand this structure: on slot change
+[14:28:59] [Server thread/INFO]:     Line: on slot change:
+[14:28:59] [Server thread/INFO]:  
+[14:28:59] [Server thread/INFO]: Line 12: (minigames.sk)
+[14:28:59] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::%loop-number%}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::%loop-number%}
+[14:28:59] [Server thread/INFO]:     Line: set {%{_p}'s uuid%::%{_n}%::%loop-number%} to {_i}
+[14:28:59] [Server thread/INFO]:  
+[14:28:59] [Server thread/INFO]: Line 15: (minigames.sk)
+[14:28:59] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::*}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::*}
+[14:28:59] [Server thread/INFO]:     Line: loop {%{_p}'s uuid%::%{_n}%::*}:
+[14:28:59] [Server thread/INFO]:  
+[14:29:00] [Server thread/INFO]: Line 10: (tailv2.sk)
+[14:29:00] [Server thread/INFO]:     a command sender cannot be saved, i.e. the contents of the variable {tailed::%UUID of the 1st argument%} will be lost when the server stops.
+[14:29:00] [Server thread/INFO]:     Line: set {tailed::%arg-1's uuid%} to sender
+[14:29:00] [Server thread/INFO]:  
+[14:29:00] [Server thread/INFO]: Line 10: (Dashsword.sk)
+[14:29:00] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:29:00] [Server thread/INFO]:     Line: if {%player%::dash} is true:
+[14:29:00] [Server thread/INFO]:  
+[14:29:00] [Server thread/INFO]: Line 12: (Dashsword.sk)
+[14:29:00] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:29:00] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[14:29:00] [Server thread/INFO]:  
+[14:29:00] [Server thread/INFO]: Line 14: (Dashsword.sk)
+[14:29:00] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:29:00] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[14:29:00] [Server thread/INFO]:  
+[14:29:00] [Server thread/INFO]: Line 15: (Dashsword.sk)
+[14:29:00] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:29:00] [Server thread/INFO]:     Line: if {%player%::dash} is not set:
+[14:29:00] [Server thread/INFO]:  
+[14:29:00] [Server thread/INFO]: Line 17: (Dashsword.sk)
+[14:29:00] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:29:00] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[14:29:00] [Server thread/INFO]:  
+[14:29:00] [Server thread/INFO]: Line 19: (Dashsword.sk)
+[14:29:00] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:29:00] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[14:29:00] [Server thread/INFO]:  
+[14:29:00] [Server thread/INFO]: Line 101: (minigames.sk)
+[14:29:00] [Server thread/INFO]:     Can't understand this condition/effect: if
+[14:29:00] [Server thread/INFO]:     Line: if
+[14:29:00] [Server thread/INFO]:  
+[14:29:00] [Server thread/INFO]: Line 6: (opgun.sk)
+[14:29:00] [Server thread/INFO]:     an entity cannot be saved, i.e. the contents of the variable {GodGunFireball::*} will be lost when the server stops.
+[14:29:00] [Server thread/INFO]:     Line: add last spawned entity to {GodGunFireball::*}
+[14:29:00] [Server thread/INFO]:  
+[14:29:00] [Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PURPUR - THIS IS NOT A BUG OR A CRASH  - 1.21.1-2291-bba87bf (MC: 1.21.1) ---
+[14:29:00] [Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[14:29:00] [Watchdog Thread/ERROR]: ------------------------------
+[14:29:00] [Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Purpur!):
+[14:29:00] [Watchdog Thread/ERROR]: ------------------------------
+[14:29:00] [Watchdog Thread/ERROR]: Current Thread: Server thread
+[14:29:00] [Watchdog Thread/ERROR]: 	PID: 37 | Suspended: false | Native: false | State: RUNNABLE
+[14:29:00] [Watchdog Thread/ERROR]: 	Stack:
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.Spliterators$IteratorSpliterator.tryAdvance(Spliterators.java:1950)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.MatchOps$MatchOp.evaluateSequential(MatchOps.java:230)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.MatchOps$MatchOp.evaluateSequential(MatchOps.java:196)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.ReferencePipeline.allMatch(ReferencePipeline.java:637)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.Keyword$ChoiceKeyword.lambda$isPresent$1(Keyword.java:161)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.Keyword$ChoiceKeyword$$Lambda/0x00007fcf89b056e8.test(Unknown Source)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.MatchOps$1MatchSink.accept(MatchOps.java:90)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.HashMap$KeySpliterator.tryAdvance(HashMap.java:1736)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.MatchOps$MatchOp.evaluateSequential(MatchOps.java:230)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.MatchOps$MatchOp.evaluateSequential(MatchOps.java:196)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.stream.ReferencePipeline.anyMatch(ReferencePipeline.java:632)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.Keyword$ChoiceKeyword.isPresent(Keyword.java:161)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.SkriptPattern.match(SkriptPattern.java:51)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptParser.parse_i(SkriptParser.java:1323)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptParser.parse(SkriptParser.java:232)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptParser.parse(SkriptParser.java:179)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptParser.parseExpression(SkriptParser.java:325)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptParser.parseSingleExpr(SkriptParser.java:541)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptParser.parseExpression(SkriptParser.java:781)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.TypePatternElement.match(TypePatternElement.java:162)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.PatternElement.matchNext(PatternElement.java:54)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.LiteralPatternElement.match(LiteralPatternElement.java:65)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.PatternElement.matchNext(PatternElement.java:54)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.OptionalPatternElement.match(OptionalPatternElement.java:46)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.PatternElement.matchNext(PatternElement.java:54)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.LiteralPatternElement.match(LiteralPatternElement.java:65)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.PatternElement.matchNext(PatternElement.java:54)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.LiteralPatternElement.match(LiteralPatternElement.java:65)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.ChoicePatternElement.match(ChoicePatternElement.java:63)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.GroupPatternElement.match(GroupPatternElement.java:47)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.PatternElement.matchNext(PatternElement.java:54)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.LiteralPatternElement.match(LiteralPatternElement.java:65)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.PatternElement.matchNext(PatternElement.java:54)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.TypePatternElement.match(TypePatternElement.java:157)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.PatternElement.matchNext(PatternElement.java:54)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.LiteralPatternElement.match(LiteralPatternElement.java:65)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.PatternElement.matchNext(PatternElement.java:54)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.LiteralPatternElement.match(LiteralPatternElement.java:65)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.ChoicePatternElement.match(ChoicePatternElement.java:63)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.GroupPatternElement.match(GroupPatternElement.java:47)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.patterns.SkriptPattern.match(SkriptPattern.java:63)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptParser.parse_i(SkriptParser.java:1323)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptParser.parse(SkriptParser.java:232)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptParser.parse(SkriptParser.java:179)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.Condition.parse(Condition.java:76)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.sections.SecConditional.init(SecConditional.java:209)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.Section.init(Section.java:67)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptParser.parse(SkriptParser.java:259)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptParser.parse(SkriptParser.java:179)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.Section.lambda$parse$0(Section.java:179)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.Section$$Lambda/0x00007fcf8b2e3610.get(Unknown Source)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.Section$SectionContext.modify(Section.java:212)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.Section.parse(Section.java:178)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.ScriptLoader.loadItems(ScriptLoader.java:987)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.Section.loadCode(Section.java:93)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.sections.SecConditional.init(SecConditional.java:233)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.Section.init(Section.java:67)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptParser.parse(SkriptParser.java:259)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptParser.parse(SkriptParser.java:179)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.Section.lambda$parse$0(Section.java:179)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.Section$$Lambda/0x00007fcf8b2e3610.get(Unknown Source)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.Section$SectionContext.modify(Section.java:212)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.Section.parse(Section.java:178)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.ScriptLoader.loadItems(ScriptLoader.java:987)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.lang.SkriptEvent.load(SkriptEvent.java:149)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.structures.StructEvent.load(StructEvent.java:85)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.ScriptLoader.lambda$loadScripts$8(ScriptLoader.java:570)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.ScriptLoader$$Lambda/0x00007fcf8b2e0f80.test(Unknown Source)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.ArrayList.removeIf(ArrayList.java:1755)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.ArrayList.removeIf(ArrayList.java:1743)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.ScriptLoader.lambda$loadScripts$10(ScriptLoader.java:561)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.ScriptLoader$$Lambda/0x00007fcf8b2bfbd0.apply(Unknown Source)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.CompletableFuture.uniApplyNow(CompletableFuture.java:684)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.CompletableFuture.uniApplyStage(CompletableFuture.java:662)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.util.concurrent.CompletableFuture.thenApply(CompletableFuture.java:2200)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.ScriptLoader.loadScripts(ScriptLoader.java:513)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.ScriptLoader.loadScripts(ScriptLoader.java:459)
+[14:29:00] [Watchdog Thread/ERROR]: 		Skript-2.9.1.jar//ch.njol.skript.SkriptCommand.onCommand(SkriptCommand.java:141)
+[14:29:00] [Watchdog Thread/ERROR]: 		org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[14:29:00] [Watchdog Thread/ERROR]: 		org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:178)
+[14:29:00] [Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftServer.dispatchCommand(CraftServer.java:1014)
+[14:29:00] [Watchdog Thread/ERROR]: 		org.bukkit.craftbukkit.CraftServer.dispatchServerCommand(CraftServer.java:999)
+[14:29:00] [Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.handleConsoleInputs(DedicatedServer.java:566)
+[14:29:00] [Watchdog Thread/ERROR]: 		net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:514)
+[14:29:00] [Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1635)
+[14:29:00] [Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1335)
+[14:29:00] [Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:334)
+[14:29:00] [Watchdog Thread/ERROR]: 		net.minecraft.server.MinecraftServer$$Lambda/0x00007fcf88cd6170.run(Unknown Source)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.runWith(Thread.java:1596)
+[14:29:00] [Watchdog Thread/ERROR]: 		java.base@21.0.3/java.lang.Thread.run(Thread.java:1583)
+[14:29:00] [Watchdog Thread/ERROR]: ------------------------------
+[14:29:00] [Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PURPUR - THIS IS NOT A BUG OR A CRASH ---
+[14:29:00] [Watchdog Thread/ERROR]: ------------------------------
+[14:29:00] [Server thread/INFO]: [Skript] Encountered 4 errors while reloading the config, aliases and all scripts! (9974ms)
+[14:29:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9924ms or 198 ticks behind
+[14:29:49] [Server thread/INFO]: [Skript] Reloading the config, aliases and all scripts...
+[14:29:58] [Server thread/INFO]: Loaded 233074 aliases in 8568ms
+[14:29:58] [Server thread/INFO]: Line 102: (minigames.sk)
+[14:29:58] [Server thread/INFO]:     indentation error: expected 1 tab, but found 2 tabs
+[14:29:58] [Server thread/INFO]:     Line: teleport player to location(-5.5, 72, -163.5, world "world", 90, 0)
+[14:29:58] [Server thread/INFO]:  
+[14:29:58] [Server thread/INFO]: Line 103: (minigames.sk)
+[14:29:58] [Server thread/INFO]:     indentation error: expected 1 tab, but found 2 tabs
+[14:29:58] [Server thread/INFO]:     Line: send "&c&lWARNING: &fYou have not selected a pack yet! Please do by using /options or By clicking on the button infront of you." to player
+[14:29:58] [Server thread/INFO]:  
+[14:29:58] [Server thread/INFO]: Line 12: (minigames.sk)
+[14:29:58] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::%loop-number%}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::%loop-number%}
+[14:29:58] [Server thread/INFO]:     Line: set {%{_p}'s uuid%::%{_n}%::%loop-number%} to {_i}
+[14:29:58] [Server thread/INFO]:  
+[14:29:58] [Server thread/INFO]: Line 15: (minigames.sk)
+[14:29:58] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::*}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::*}
+[14:29:58] [Server thread/INFO]:     Line: loop {%{_p}'s uuid%::%{_n}%::*}:
+[14:29:58] [Server thread/INFO]:  
+[14:29:58] [Server thread/INFO]: Line 10: (tailv2.sk)
+[14:29:58] [Server thread/INFO]:     a command sender cannot be saved, i.e. the contents of the variable {tailed::%UUID of the 1st argument%} will be lost when the server stops.
+[14:29:58] [Server thread/INFO]:     Line: set {tailed::%arg-1's uuid%} to sender
+[14:29:58] [Server thread/INFO]:  
+[14:29:58] [Server thread/INFO]: Line 10: (Dashsword.sk)
+[14:29:58] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:29:58] [Server thread/INFO]:     Line: if {%player%::dash} is true:
+[14:29:58] [Server thread/INFO]:  
+[14:29:58] [Server thread/INFO]: Line 12: (Dashsword.sk)
+[14:29:58] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:29:58] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[14:29:58] [Server thread/INFO]:  
+[14:29:58] [Server thread/INFO]: Line 14: (Dashsword.sk)
+[14:29:58] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:29:58] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[14:29:58] [Server thread/INFO]:  
+[14:29:58] [Server thread/INFO]: Line 15: (Dashsword.sk)
+[14:29:58] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:29:58] [Server thread/INFO]:     Line: if {%player%::dash} is not set:
+[14:29:58] [Server thread/INFO]:  
+[14:29:58] [Server thread/INFO]: Line 17: (Dashsword.sk)
+[14:29:58] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:29:58] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[14:29:58] [Server thread/INFO]:  
+[14:29:58] [Server thread/INFO]: Line 19: (Dashsword.sk)
+[14:29:58] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:29:58] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[14:29:58] [Server thread/INFO]:  
+[14:29:59] [Server thread/INFO]: Line 101: (minigames.sk)
+[14:29:59] [Server thread/INFO]:     Can't understand this condition/effect: if
+[14:29:59] [Server thread/INFO]:     Line: if
+[14:29:59] [Server thread/INFO]:  
+[14:29:59] [Server thread/INFO]: Line 6: (opgun.sk)
+[14:29:59] [Server thread/INFO]:     an entity cannot be saved, i.e. the contents of the variable {GodGunFireball::*} will be lost when the server stops.
+[14:29:59] [Server thread/INFO]:     Line: add last spawned entity to {GodGunFireball::*}
+[14:29:59] [Server thread/INFO]:  
+[14:29:59] [Server thread/INFO]: Line 13: (opgun.sk)
+[14:29:59] [Server thread/INFO]:     Unknown event value 'slot parsed as item'
+[14:29:59] [Server thread/INFO]:     Line: set {_i} to index of event-slot parsed as item
+[14:29:59] [Server thread/INFO]:  
+[14:29:59] [Server thread/INFO]: Line 16: (opgun.sk)
+[14:29:59] [Server thread/INFO]:     An on inventory slot change event cannot be cancelled
+[14:29:59] [Server thread/INFO]:     Line: cancel event
+[14:29:59] [Server thread/INFO]:  
+[14:29:59] [Server thread/INFO]: [Skript] Encountered 5 errors while reloading the config, aliases and all scripts! (9427ms)
+[14:29:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9377ms or 187 ticks behind
+[14:34:59] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[14:37:13] [Server thread/INFO]: [Skript] Reloading the config, aliases and all scripts...
+[14:37:22] [Server thread/INFO]: Loaded 233074 aliases in 8940ms
+[14:37:22] [Server thread/INFO]: Line 102: (minigames.sk)
+[14:37:22] [Server thread/INFO]:     indentation error: expected 1 tab, but found 2 tabs
+[14:37:22] [Server thread/INFO]:     Line: teleport player to location(-5.5, 72, -163.5, world "world", 90, 0)
+[14:37:22] [Server thread/INFO]:  
+[14:37:22] [Server thread/INFO]: Line 103: (minigames.sk)
+[14:37:22] [Server thread/INFO]:     indentation error: expected 1 tab, but found 2 tabs
+[14:37:22] [Server thread/INFO]:     Line: send "&c&lWARNING: &fYou have not selected a pack yet! Please do by using /options or By clicking on the button infront of you." to player
+[14:37:22] [Server thread/INFO]:  
+[14:37:22] [Server thread/INFO]: Line 12: (minigames.sk)
+[14:37:22] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::%loop-number%}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::%loop-number%}
+[14:37:22] [Server thread/INFO]:     Line: set {%{_p}'s uuid%::%{_n}%::%loop-number%} to {_i}
+[14:37:22] [Server thread/INFO]:  
+[14:37:22] [Server thread/INFO]: Line 15: (minigames.sk)
+[14:37:22] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::*}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::*}
+[14:37:22] [Server thread/INFO]:     Line: loop {%{_p}'s uuid%::%{_n}%::*}:
+[14:37:22] [Server thread/INFO]:  
+[14:37:22] [Server thread/INFO]: Line 10: (tailv2.sk)
+[14:37:22] [Server thread/INFO]:     a command sender cannot be saved, i.e. the contents of the variable {tailed::%UUID of the 1st argument%} will be lost when the server stops.
+[14:37:22] [Server thread/INFO]:     Line: set {tailed::%arg-1's uuid%} to sender
+[14:37:22] [Server thread/INFO]:  
+[14:37:22] [Server thread/INFO]: Line 10: (Dashsword.sk)
+[14:37:22] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:37:22] [Server thread/INFO]:     Line: if {%player%::dash} is true:
+[14:37:22] [Server thread/INFO]:  
+[14:37:22] [Server thread/INFO]: Line 12: (Dashsword.sk)
+[14:37:22] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:37:22] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[14:37:22] [Server thread/INFO]:  
+[14:37:22] [Server thread/INFO]: Line 14: (Dashsword.sk)
+[14:37:22] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:37:22] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[14:37:22] [Server thread/INFO]:  
+[14:37:22] [Server thread/INFO]: Line 15: (Dashsword.sk)
+[14:37:22] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:37:22] [Server thread/INFO]:     Line: if {%player%::dash} is not set:
+[14:37:22] [Server thread/INFO]:  
+[14:37:22] [Server thread/INFO]: Line 17: (Dashsword.sk)
+[14:37:22] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:37:22] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[14:37:22] [Server thread/INFO]:  
+[14:37:22] [Server thread/INFO]: Line 19: (Dashsword.sk)
+[14:37:22] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:37:22] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[14:37:22] [Server thread/INFO]:  
+[14:37:23] [Server thread/INFO]: Line 101: (minigames.sk)
+[14:37:23] [Server thread/INFO]:     Can't understand this condition/effect: if
+[14:37:23] [Server thread/INFO]:     Line: if
+[14:37:23] [Server thread/INFO]:  
+[14:37:23] [Server thread/INFO]: Line 6: (opgun.sk)
+[14:37:23] [Server thread/INFO]:     an entity cannot be saved, i.e. the contents of the variable {GodGunFireball::*} will be lost when the server stops.
+[14:37:23] [Server thread/INFO]:     Line: add last spawned entity to {GodGunFireball::*}
+[14:37:23] [Server thread/INFO]:  
+[14:37:23] [Server thread/INFO]: [Skript] Encountered 3 errors while reloading the config, aliases and all scripts! (9550ms)
+[14:37:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9501ms or 190 ticks behind
+[14:37:44] [User Authenticator #1/INFO]: UUID of player Windsly is 6c66632c-82d4-473b-bb44-9bc1b2a247cb
+[14:37:44] [Server thread/INFO]: Disconnecting Windsly (/17.212.118.146:34640): You are not whitelisted on this server!
+[14:37:44] [Server thread/INFO]: Windsly (/17.212.118.146:34640) lost connection: You are not whitelisted on this server!
+[14:39:33] [Server thread/INFO]: [Skript] Reloading the config, aliases and all scripts...
+[14:39:42] [Server thread/INFO]: Loaded 233074 aliases in 8445ms
+[14:39:42] [Server thread/INFO]: Line 12: (minigames.sk)
+[14:39:42] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::%loop-number%}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::%loop-number%}
+[14:39:42] [Server thread/INFO]:     Line: set {%{_p}'s uuid%::%{_n}%::%loop-number%} to {_i}
+[14:39:42] [Server thread/INFO]:  
+[14:39:42] [Server thread/INFO]: Line 15: (minigames.sk)
+[14:39:42] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::*}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::*}
+[14:39:42] [Server thread/INFO]:     Line: loop {%{_p}'s uuid%::%{_n}%::*}:
+[14:39:42] [Server thread/INFO]:  
+[14:39:42] [Server thread/INFO]: Line 10: (tailv2.sk)
+[14:39:42] [Server thread/INFO]:     a command sender cannot be saved, i.e. the contents of the variable {tailed::%UUID of the 1st argument%} will be lost when the server stops.
+[14:39:42] [Server thread/INFO]:     Line: set {tailed::%arg-1's uuid%} to sender
+[14:39:42] [Server thread/INFO]:  
+[14:39:42] [Server thread/INFO]: Line 10: (Dashsword.sk)
+[14:39:42] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:39:42] [Server thread/INFO]:     Line: if {%player%::dash} is true:
+[14:39:42] [Server thread/INFO]:  
+[14:39:42] [Server thread/INFO]: Line 12: (Dashsword.sk)
+[14:39:42] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:39:42] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[14:39:42] [Server thread/INFO]:  
+[14:39:42] [Server thread/INFO]: Line 14: (Dashsword.sk)
+[14:39:42] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:39:42] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[14:39:42] [Server thread/INFO]:  
+[14:39:42] [Server thread/INFO]: Line 15: (Dashsword.sk)
+[14:39:42] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:39:42] [Server thread/INFO]:     Line: if {%player%::dash} is not set:
+[14:39:42] [Server thread/INFO]:  
+[14:39:42] [Server thread/INFO]: Line 17: (Dashsword.sk)
+[14:39:42] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:39:42] [Server thread/INFO]:     Line: set {%player%::dash} to false
+[14:39:42] [Server thread/INFO]:  
+[14:39:42] [Server thread/INFO]: Line 19: (Dashsword.sk)
+[14:39:42] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%player%::dash}). You could prefix it with the script's name: {Dashsword::%player%::dash}
+[14:39:42] [Server thread/INFO]:     Line: set {%player%::dash} to true
+[14:39:42] [Server thread/INFO]:  
+[14:39:42] [Server thread/INFO]: Line 6: (opgun.sk)
+[14:39:42] [Server thread/INFO]:     an entity cannot be saved, i.e. the contents of the variable {GodGunFireball::*} will be lost when the server stops.
+[14:39:42] [Server thread/INFO]:     Line: add last spawned entity to {GodGunFireball::*}
+[14:39:42] [Server thread/INFO]:  
+[14:39:42] [Server thread/INFO]: [Skript] Successfully reloaded the config, aliases and all scripts. (9134ms)
+[14:39:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9086ms or 181 ticks behind
+[14:44:27] [Server thread/INFO]: [Skript] Reloading the config, aliases and all scripts...
+[14:44:35] [Server thread/INFO]: Loaded 233074 aliases in 8301ms
+[14:44:35] [Server thread/INFO]: Line 12: (minigames.sk)
+[14:44:35] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::%loop-number%}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::%loop-number%}
+[14:44:35] [Server thread/INFO]:     Line: set {%{_p}'s uuid%::%{_n}%::%loop-number%} to {_i}
+[14:44:35] [Server thread/INFO]:  
+[14:44:35] [Server thread/INFO]: Line 15: (minigames.sk)
+[14:44:35] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::*}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::*}
+[14:44:35] [Server thread/INFO]:     Line: loop {%{_p}'s uuid%::%{_n}%::*}:
+[14:44:35] [Server thread/INFO]:  
+[14:44:35] [Server thread/INFO]: Line 10: (tailv2.sk)
+[14:44:35] [Server thread/INFO]:     a command sender cannot be saved, i.e. the contents of the variable {tailed::%UUID of the 1st argument%} will be lost when the server stops.
+[14:44:35] [Server thread/INFO]:     Line: set {tailed::%arg-1's uuid%} to sender
+[14:44:35] [Server thread/INFO]:  
+[14:44:36] [Server thread/INFO]: Line 6: (opgun.sk)
+[14:44:36] [Server thread/INFO]:     an entity cannot be saved, i.e. the contents of the variable {GodGunFireball::*} will be lost when the server stops.
+[14:44:36] [Server thread/INFO]:     Line: add last spawned entity to {GodGunFireball::*}
+[14:44:36] [Server thread/INFO]:  
+[14:44:36] [Server thread/INFO]: [Skript] Successfully reloaded the config, aliases and all scripts. (9015ms)
+[14:44:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8965ms or 179 ticks behind
+[14:49:36] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[14:54:36] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[14:59:36] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[15:04:36] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[15:05:13] [Server thread/INFO]: [Skript] Reloading the config, aliases and all scripts...
+[15:05:22] [Server thread/INFO]: Loaded 233074 aliases in 9116ms
+[15:05:22] [Server thread/INFO]: Line 12: (minigames.sk)
+[15:05:22] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::%loop-number%}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::%loop-number%}
+[15:05:22] [Server thread/INFO]:     Line: set {%{_p}'s uuid%::%{_n}%::%loop-number%} to {_i}
+[15:05:22] [Server thread/INFO]:  
+[15:05:22] [Server thread/INFO]: Line 15: (minigames.sk)
+[15:05:22] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::*}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::*}
+[15:05:22] [Server thread/INFO]:     Line: loop {%{_p}'s uuid%::%{_n}%::*}:
+[15:05:22] [Server thread/INFO]:  
+[15:05:22] [Server thread/INFO]: Line 10: (tailv2.sk)
+[15:05:22] [Server thread/INFO]:     a command sender cannot be saved, i.e. the contents of the variable {tailed::%UUID of the 1st argument%} will be lost when the server stops.
+[15:05:22] [Server thread/INFO]:     Line: set {tailed::%arg-1's uuid%} to sender
+[15:05:22] [Server thread/INFO]:  
+[15:05:23] [Server thread/INFO]: Line 6: (opgun.sk)
+[15:05:23] [Server thread/INFO]:     an entity cannot be saved, i.e. the contents of the variable {-GodGunFireball::*} will be lost when the server stops.
+[15:05:23] [Server thread/INFO]:     Line: add last spawned entity to {-GodGunFireball::*}
+[15:05:23] [Server thread/INFO]:  
+[15:05:23] [Server thread/INFO]: [Skript] Successfully reloaded the config, aliases and all scripts. (9922ms)
+[15:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9872ms or 197 ticks behind
+[15:07:22] [Server thread/INFO]: [Skript] Reloading the config, aliases and all scripts...
+[15:07:31] [Server thread/INFO]: Loaded 233074 aliases in 8644ms
+[15:07:31] [Server thread/INFO]: Line 12: (minigames.sk)
+[15:07:31] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::%loop-number%}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::%loop-number%}
+[15:07:31] [Server thread/INFO]:     Line: set {%{_p}'s uuid%::%{_n}%::%loop-number%} to {_i}
+[15:07:31] [Server thread/INFO]:  
+[15:07:31] [Server thread/INFO]: Line 15: (minigames.sk)
+[15:07:31] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::*}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::*}
+[15:07:31] [Server thread/INFO]:     Line: loop {%{_p}'s uuid%::%{_n}%::*}:
+[15:07:31] [Server thread/INFO]:  
+[15:07:31] [spark-async-sampler-worker-thread/WARN]: [spark] Timed out waiting for world statistics
+[15:07:31] [Server thread/INFO]: [Skript] Successfully reloaded the config, aliases and all scripts. (9315ms)
+[15:07:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9266ms or 185 ticks behind
+[15:12:31] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[15:17:31] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[15:17:42] [Server thread/INFO]: [Skript] Reloading the config, aliases and all scripts...
+[15:17:50] [Server thread/INFO]: Loaded 233074 aliases in 8358ms
+[15:17:50] [Server thread/INFO]: Line 12: (minigames.sk)
+[15:17:50] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::%loop-number%}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::%loop-number%}
+[15:17:50] [Server thread/INFO]:     Line: set {%{_p}'s uuid%::%{_n}%::%loop-number%} to {_i}
+[15:17:50] [Server thread/INFO]:  
+[15:17:50] [Server thread/INFO]: Line 15: (minigames.sk)
+[15:17:50] [Server thread/INFO]:     Starting a variable's name with an expression is discouraged ({%{_p}'s uuid%::%{_n}%::*}). You could prefix it with the script's name: {minigames::%{_p}'s uuid%::%{_n}%::*}
+[15:17:50] [Server thread/INFO]:     Line: loop {%{_p}'s uuid%::%{_n}%::*}:
+[15:17:50] [Server thread/INFO]:  
+[15:17:51] [Server thread/INFO]: [Skript] Successfully reloaded the config, aliases and all scripts. (8950ms)
+[15:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8901ms or 178 ticks behind
+[15:22:51] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[15:27:51] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[15:32:51] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[15:37:51] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[15:42:51] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[15:47:51] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[15:52:51] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[15:53:13] [User Authenticator #2/INFO]: UUID of player Cime33 is 4e65a3e5-143e-4de8-9110-00ef731898e7
+[15:53:13] [Server thread/INFO]: Disconnecting Cime33 (/228.165.78.188:9956): You are not whitelisted on this server!
+[15:53:13] [Server thread/INFO]: Disconnecting Cime33 (/228.165.78.188:9956): You are not whitelisted on this server!
+[15:53:13] [Server thread/INFO]: Cime33 (/228.165.78.188:9956) lost connection: You are not whitelisted on this server!
+[15:57:51] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[16:00:26] [Server thread/WARN]: [SuperVanish] Could not intercept tab-completions using ProtocolLib: Field index 0 is out of bounds for length 0
+[16:00:28] [Server thread/INFO]: anmvc issued server command: /sk reload all
+[16:00:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9099ms or 181 ticks behind
+[16:02:12] [Server thread/INFO]: Automatic saving is now disabled
+[16:05:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[16:10:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[16:15:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[16:20:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[16:22:09] [Craft Scheduler Thread - 143 - Skuishy/INFO]: [Skuishy] Got latest version.
+[16:25:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[16:30:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[16:35:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[16:40:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[16:45:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[16:50:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[16:55:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[16:58:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player e23c38f3-ad85-49e6-a62d-3fae69f9db97 timed out
+[16:58:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player anmvc
+[16:58:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to anmvc
+[16:58:42] [Server thread/INFO]: anmvc lost connection: Disconnected
+[16:58:42] [Server thread/ERROR]: Could not pass event PlayerQuitEvent to PoaSkRewritev2 v4.7.5
+java.lang.NullPointerException: Cannot invoke "java.util.Map.entrySet()" because the return value of "poa.util.GlowMap.getGlowMap()" is null
+	at PoaSK (2).jar/poa.poaskrewritev2.events.JoinLeave.onQuit(JoinLeave.java:37) ~[PoaSK (2).jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor470.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-2291-bba87bf]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:630) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:607) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:591) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.removePlayerFromWorld(ServerGamePacketListenerImpl.java:2182) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2162) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2149) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.network.Connection.handleDisconnection(Connection.java:911) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:262) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1861) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:513) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1635) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1335) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:334) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[16:58:42] [Server thread/INFO]: [voicechat] Disconnecting client anmvc
+[16:58:42] [Server thread/INFO]: anmvc left the game
+[17:06:24] [User Authenticator #3/INFO]: UUID of player IgnoradoDK1 is da08d9ab-19a4-4e75-b032-e817101691d1
+[17:06:24] [Server thread/INFO]: Disconnecting IgnoradoDK1 (/108.42.11.233:28144): You are not whitelisted on this server!
+[17:06:24] [Server thread/INFO]: IgnoradoDK1 (/108.42.11.233:28144) lost connection: You are not whitelisted on this server!
+[17:39:22] [User Authenticator #4/INFO]: UUID of player szimione is 2d846ab1-9527-4701-8ce4-5b4d19becbd1
+[17:39:24] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to UnlimitedNameTags v1.3
+java.lang.NullPointerException: Cannot invoke "org.alexdev.unlimitednametags.config.Settings$NameTag.lines()" because "nametag" is null
+	at UnlimitedNametags.jar/org.alexdev.unlimitednametags.nametags.NameTagManager.addPlayer(NameTagManager.java:103) ~[UnlimitedNametags.jar:?]
+	at UnlimitedNametags.jar/org.alexdev.unlimitednametags.events.PlayerListener.onJoin(PlayerListener.java:75) ~[UnlimitedNametags.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor529.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-2291-bba87bf]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:630) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:347) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.handleConfigurationFinished(ServerConfigurationPacketListenerImpl.java:173) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:22) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:13) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1574) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1551) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1544) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1503) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1510) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1355) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:334) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17:39:24] [Server thread/INFO]: szimione joined the game
+[17:39:24] [Server thread/INFO]: szimione[/61.252.53.247:30602] logged in with entity id 587 at ([snipershowdown]91.91337117343633, -56.87313638146237, -170.63475745543292)
+[17:39:24] [Server thread/INFO]: [voicechat] Received secret request of szimione (18)
+[17:39:24] [Server thread/INFO]: [voicechat] Sent secret to szimione
+[17:39:35] [Server thread/INFO]: szimione issued server command: /gamemode creative
+[17:40:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[17:42:40] [User Authenticator #5/INFO]: UUID of player _2wo is 929db149-ec3b-4812-a8ff-b0c197c32052
+[17:42:40] [Server thread/INFO]: Disconnecting _2wo (/80.187.218.40:34954): You are not whitelisted on this server!
+[17:42:40] [Server thread/INFO]: _2wo (/80.187.218.40:34954) lost connection: You are not whitelisted on this server!
+[17:45:19] [Server thread/INFO]: szimione issued server command: /gamemode survival
+[17:45:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[17:46:01] [Server thread/INFO]: szimione issued server command: /gamemode survival
+[17:46:41] [Server thread/INFO]: szimione issued server command: /gamemode creative
+[17:47:02] [User Authenticator #6/INFO]: UUID of player DroppedByPhantom is 88166c94-fbdf-4db7-ac01-0137550e8646
+[17:47:03] [Server thread/ERROR]: Could not pass event PlayerJoinEvent to UnlimitedNameTags v1.3
+java.lang.NullPointerException: Cannot invoke "org.alexdev.unlimitednametags.config.Settings$NameTag.lines()" because "nametag" is null
+	at UnlimitedNametags.jar/org.alexdev.unlimitednametags.nametags.NameTagManager.addPlayer(NameTagManager.java:103) ~[UnlimitedNametags.jar:?]
+	at UnlimitedNametags.jar/org.alexdev.unlimitednametags.events.PlayerListener.onJoin(PlayerListener.java:75) ~[UnlimitedNametags.jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor529.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-2291-bba87bf]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:630) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.placeNewPlayer(PlayerList.java:347) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerConfigurationPacketListenerImpl.handleConfigurationFinished(ServerConfigurationPacketListenerImpl.java:173) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:22) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.network.protocol.configuration.ServerboundFinishConfigurationPacket.handle(ServerboundFinishConfigurationPacket.java:13) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.network.protocol.PacketUtils.lambda$ensureRunningOnSameThread$0(PacketUtils.java:56) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.util.thread.BlockableEventLoop.doRunTask(BlockableEventLoop.java:151) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.doRunTask(ReentrantBlockableEventLoop.java:24) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:1574) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.doRunTask(MinecraftServer.java:201) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.util.thread.BlockableEventLoop.pollTask(BlockableEventLoop.java:125) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.pollTaskInternal(MinecraftServer.java:1551) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.pollTask(MinecraftServer.java:1544) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.util.thread.BlockableEventLoop.managedBlock(BlockableEventLoop.java:135) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.managedBlock(MinecraftServer.java:1503) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.waitUntilNextTick(MinecraftServer.java:1510) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1355) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:334) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17:47:03] [Server thread/INFO]: DroppedByPhantom (formerly known as Twizxe) joined the game
+[17:47:03] [Server thread/INFO]: DroppedByPhantom[/70.66.218.148:38662] logged in with entity id 765 at ([world]-5.5, 72.0, -163.5)
+[17:47:12] [Server thread/INFO]: DroppedByPhantom issued server command: /tp szimione
+[17:47:16] [Server thread/INFO]: DroppedByPhantom issued server command: /gamemode creative
+[17:47:17] [Async Chat Thread - #0/INFO]: Manager szimione » hello
+[17:47:22] [Async Chat Thread - #0/INFO]: ᴘʟᴀʏᴇʀ | ~Twizxe » hi
+[17:48:02] [Async Chat Thread - #0/INFO]: Manager szimione » ?
+[17:48:08] [Async Chat Thread - #0/INFO]: ᴘʟᴀʏᴇʀ | ~Twizxe » place this
+[17:48:15] [Async Chat Thread - #1/INFO]: Manager szimione » no
+[17:48:32] [Async Chat Thread - #0/INFO]: ᴘʟᴀʏᴇʀ | ~Twizxe » place
+[17:48:37] [Async Chat Thread - #0/INFO]: ᴘʟᴀʏᴇʀ | ~Twizxe » rock
+[17:48:39] [Async Chat Thread - #0/INFO]: ᴘʟᴀʏᴇʀ | ~Twizxe » paper
+[17:48:42] [Async Chat Thread - #0/INFO]: ᴘʟᴀʏᴇʀ | ~Twizxe » scisers
+[17:48:44] [Async Chat Thread - #0/INFO]: Manager szimione » no
+[17:48:58] [Server thread/INFO]: szimione issued server command: /invsee DroppedByPhantom
+[17:49:19] [Async Chat Thread - #0/INFO]: Manager szimione » what do u want from me?
+[17:49:39] [User Authenticator #7/INFO]: UUID of player IfanCorruptMC is 6b0f4a95-bef8-4cce-b08b-2cb9e08bc73f
+[17:49:39] [Server thread/INFO]: Disconnecting IfanCorruptMC (/98.166.241.154:61370): You are not whitelisted on this server!
+[17:49:39] [Server thread/INFO]: IfanCorruptMC (/98.166.241.154:61370) lost connection: You are not whitelisted on this server!
+[17:49:41] [Server thread/INFO]: szimione issued server command: /invsee DroppedByPhantom
+[17:49:47] [User Authenticator #7/INFO]: UUID of player zQuapzZ is ea57f4f4-96f5-499c-a05c-3e43a864dcbf
+[17:49:47] [Server thread/INFO]: Disconnecting zQuapzZ (/183.209.122.5:61386): You are not whitelisted on this server!
+[17:49:47] [Server thread/INFO]: zQuapzZ (/183.209.122.5:61386) lost connection: You are not whitelisted on this server!
+[17:49:51] [User Authenticator #7/INFO]: UUID of player Mikeyross23yt is d7dd37d4-32bd-4fe2-a542-f32841fcf9ec
+[17:49:51] [Server thread/INFO]: Mikeyross23yt joined the game
+[17:49:51] [Server thread/INFO]: Mikeyross23yt[/98.166.241.154:48618] logged in with entity id 22937 at ([world]1.098906798070951, 80.85401587502625, 5.042728945070681)
+[17:49:52] [Server thread/INFO]: [voicechat] Received secret request of Mikeyross23yt (18)
+[17:49:52] [Server thread/INFO]: [voicechat] Sent secret to Mikeyross23yt
+[17:49:53] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d7dd37d4-32bd-4fe2-a542-f32841fcf9ec
+[17:49:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d7dd37d4-32bd-4fe2-a542-f32841fcf9ec
+[17:49:54] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Mikeyross23yt (d7dd37d4-32bd-4fe2-a542-f32841fcf9ec) successfully connected to voice chat
+[17:49:55] [Async Chat Thread - #0/INFO]: Manager szimione » hi Mikeyross23yt
+[17:50:00] [Server thread/INFO]: szimione issued server command: /tphere Mikeyross23yt
+[17:50:08] [Server thread/INFO]: Mikeyross23yt issued server command: /gmc
+[17:50:09] [Server thread/INFO]: Mikeyross23yt fell out of the world
+[17:50:13] [Server thread/INFO]: Mikeyross23yt issued server command: /gmc
+[17:50:14] [Async Chat Thread - #0/INFO]: Manager szimione » DroppedByPhantom can u stop giving me shees
+[17:50:16] [Server thread/INFO]: Mikeyross23yt issued server command: /tp Mikeyross23yt
+[17:50:23] [Server thread/INFO]: Mikeyross23yt issued server command: /tp szimione
+[17:50:25] [Async Chat Thread - #0/INFO]: Manager szimione » stop breaking my stuff
+[17:50:28] [Server thread/INFO]: Mikeyross23yt fell out of the world
+[17:50:30] [Server thread/INFO]: Mikeyross23yt issued server command: /tp szimione
+[17:50:33] [Server thread/INFO]: Mikeyross23yt issued server command: /gmc
+[17:50:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[17:50:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[17:50:41] [Server thread/INFO]: szimione issued server command: /tphere Mikeyross23yt
+[17:50:47] [User Authenticator #7/INFO]: UUID of player anmvc is e23c38f3-ad85-49e6-a62d-3fae69f9db97
+[17:50:48] [Server thread/INFO]: anmvc joined the game
+[17:50:48] [Server thread/INFO]: anmvc[/172.56.103.136:10212] logged in with entity id 23015 at ([world]-5.915591137445984, 72.0, -160.1012836347599)
+[17:50:48] [Server thread/INFO]: [voicechat] Received secret request of anmvc (18)
+[17:50:48] [Server thread/INFO]: [voicechat] Sent secret to anmvc
+[17:50:48] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e23c38f3-ad85-49e6-a62d-3fae69f9db97
+[17:50:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e23c38f3-ad85-49e6-a62d-3fae69f9db97
+[17:50:49] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player anmvc (e23c38f3-ad85-49e6-a62d-3fae69f9db97) successfully connected to voice chat
+[17:50:52] [Server thread/INFO]: szimione issued server command: /w Mikeyross23yt look what he gave me lol
+[17:51:09] [Server thread/INFO]: DroppedByPhantom issued server command: /locate
+[17:51:12] [Server thread/INFO]: DroppedByPhantom lost connection: Disconnected
+[17:51:12] [Server thread/ERROR]: Could not pass event PlayerQuitEvent to PoaSkRewritev2 v4.7.5
+java.lang.NullPointerException: Cannot invoke "java.util.Map.entrySet()" because the return value of "poa.util.GlowMap.getGlowMap()" is null
+	at PoaSK (2).jar/poa.poaskrewritev2.events.JoinLeave.onQuit(JoinLeave.java:37) ~[PoaSK (2).jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor470.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-2291-bba87bf]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:630) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:607) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:591) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.removePlayerFromWorld(ServerGamePacketListenerImpl.java:2182) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2162) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2149) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.network.Connection.handleDisconnection(Connection.java:911) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:262) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1861) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:513) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1635) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1335) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:334) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17:51:12] [Server thread/INFO]: [voicechat] Disconnecting client DroppedByPhantom
+[17:51:12] [Server thread/INFO]: DroppedByPhantom left the game
+[17:51:56] [Async Chat Thread - #2/INFO]: Manager szimione » hi anmvc btw
+[17:51:59] [Async Chat Thread - #2/INFO]: Owner Mikeyross23yt » anmvc
+[17:52:14] [Async Chat Thread - #2/INFO]: Owner Mikeyross23yt » anmvc
+[17:52:36] [Async Chat Thread - #3/INFO]: Manager szimione » he could be dead
+[17:53:01] [Async Chat Thread - #3/INFO]: Owner anmvc » no
+[17:53:07] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » idk i might just quit from now on cuz like ive been having so much fun just playing and i wanted to make my own after i learned how to skript but i havent and id rather start when ii know how im not gonna come back if ii do
+[17:53:08] [Server thread/INFO]: anmvc issued server command: /gamemode creative
+[17:54:02] [Server thread/INFO]: szimione issued server command: /effect clear
+[17:54:02] [Server thread/INFO]: [szimione: Removed every effect from szimione]
+[17:54:03] [Async Chat Thread - #3/INFO]: Owner anmvc » k
+[17:54:08] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » anmvc
+[17:54:09] [Async Chat Thread - #3/INFO]: Manager szimione » anmvc check dms btw
+[17:54:13] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » ima discord from bloom
+[17:54:14] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » ok
+[17:54:21] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » and disconnected my card
+[17:54:31] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » not discord
+[17:54:33] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » disconnect
+[17:55:01] [Server thread/INFO]: szimione lost connection: Disconnected
+[17:55:01] [Server thread/ERROR]: Could not pass event PlayerQuitEvent to PoaSkRewritev2 v4.7.5
+java.lang.NullPointerException: Cannot invoke "java.util.Map.entrySet()" because the return value of "poa.util.GlowMap.getGlowMap()" is null
+	at PoaSK (2).jar/poa.poaskrewritev2.events.JoinLeave.onQuit(JoinLeave.java:37) ~[PoaSK (2).jar:?]
+	at com.destroystokyo.paper.event.executor.asm.generated.GeneratedEventExecutor470.execute(Unknown Source) ~[?:?]
+	at org.bukkit.plugin.EventExecutor$2.execute(EventExecutor.java:77) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:1.21.1-2291-bba87bf]
+	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperEventManager.callEvent(PaperEventManager.java:54) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.callEvent(PaperPluginManagerImpl.java:131) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:630) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:607) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.players.PlayerList.remove(PlayerList.java:591) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.removePlayerFromWorld(ServerGamePacketListenerImpl.java:2182) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2162) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.onDisconnect(ServerGamePacketListenerImpl.java:2149) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.network.Connection.handleDisconnection(Connection.java:911) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.network.ServerConnectionListener.tick(ServerConnectionListener.java:262) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:1861) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.dedicated.DedicatedServer.tickChildren(DedicatedServer.java:513) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:1635) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1335) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:334) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17:55:01] [Server thread/INFO]: [voicechat] Disconnecting client szimione
+[17:55:01] [Server thread/INFO]: szimione left the game
+[17:55:03] [Server thread/INFO]: anmvc issued server command: /whitelist remove 223423
+[17:55:03] [Server thread/INFO]: [anmvc: Removed 223423 from the whitelist]
+[17:55:09] [User Authenticator #8/INFO]: UUID of player szimione is 2d846ab1-9527-4701-8ce4-5b4d19becbd1
+[17:55:09] [Server thread/INFO]: anmvc issued server command: /whitelist remove AwareIsSigma
+[17:55:09] [Server thread/INFO]: [anmvc: Removed AwareIsSigma from the whitelist]
+[17:55:10] [Server thread/INFO]: szimione joined the game
+[17:55:10] [Server thread/INFO]: szimione[/61.252.53.247:35362] logged in with entity id 23040 at ([snipershowdown]46.241706115285446, -39.44024682216819, -159.43708325182897)
+[17:55:10] [Server thread/INFO]: [voicechat] Received secret request of szimione (18)
+[17:55:10] [Server thread/INFO]: [voicechat] Sent secret to szimione
+[17:55:10] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » ok anmvc?
+[17:55:13] [Server thread/INFO]: anmvc issued server command: /whitelist remove Hurwisqt
+[17:55:13] [Server thread/INFO]: [anmvc: Removed Hurwisqt from the whitelist]
+[17:55:15] [Async Chat Thread - #3/INFO]: Owner anmvc » wait
+[17:55:16] [Server thread/INFO]: szimione issued server command: /gamemode creative
+[17:55:21] [Server thread/INFO]: anmvc issued server command: /whitelist remove maptinmp1
+[17:55:21] [Server thread/INFO]: [anmvc: Removed maptinmp1 from the whitelist]
+[17:55:26] [Async Chat Thread - #3/INFO]: Owner anmvc » Mikeyross23yt ok
+[17:55:29] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » map is staff?
+[17:55:31] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » also
+[17:55:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[17:55:37] [Server thread/ERROR]: Tried to load invalid item: 'No component with type: 'minecraft:display'; No component with type: 'minecraft:display' missed input: {display:{Name:'{"text":"","extra":[{"text":"Afk Token","color":"red","bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false}]}'}}'
+[17:55:40] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » just use lightwire at this pointt
+[17:55:52] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » cuz im not paying for bloom
+[17:55:59] [Async Chat Thread - #3/INFO]: Owner anmvc » okay
+[17:56:13] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » want me to get rid of the acc?
+[17:56:19] [Async Chat Thread - #3/INFO]: Owner anmvc » no
+[17:56:19] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » also copy the ftp
+[17:56:31] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » also we stayin as freinds
+[17:56:41] [Async Chat Thread - #3/INFO]: Owner anmvc » i need to download the server first\
+[17:56:43] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » just i havent had much fun and yk how i havent been active
+[17:56:55] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » alright?
+[17:57:00] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » we still friends tho
+[17:57:29] [Async Chat Thread - #3/INFO]: Manager szimione » okay anmvc i think i finished with floor 2. Do you want me to do something else?
+[17:57:35] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » anmvc
+[17:57:48] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » anmvc after you download the server ima get rid of plan
+[17:58:25] [Async Chat Thread - #3/INFO]: Owner anmvc » kk
+[17:58:28] [Async Chat Thread - #3/INFO]: Owner anmvc » szimione idk
+[17:58:38] [Async Chat Thread - #3/INFO]: Owner anmvc » i'm downloading the server
+[17:58:42] [Async Chat Thread - #3/INFO]: Owner anmvc » so ima stop it
+[17:58:51] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » ok
+[17:58:55] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » anmvc
+[17:58:58] [Async Chat Thread - #3/INFO]: Owner Mikeyross23yt » anmvc good luck!!!
+[17:59:08] [Async Chat Thread - #3/INFO]: Owner anmvc » k
+[17:59:14] [Server thread/INFO]: Stopping the server
+[17:59:14] [Server thread/INFO]: Stopping server
+[17:59:14] [Server thread/INFO]: [BungeeGuard] Disabling BungeeGuard v1.3-SNAPSHOT
+[17:59:14] [Server thread/INFO]: [PermSk] Disabling PermSk v2.0.0
+[17:59:14] [Server thread/INFO]: [PermSk] Plugin disabled!
+[17:59:14] [Server thread/INFO]: [skript-reflect] Disabling skript-reflect v2.5.1
+[17:59:14] [Server thread/INFO]: [AxiomPaper] Disabling AxiomPaper v1.5.12
+[17:59:14] [Server thread/INFO]: [BansWebhook] Disabling BansWebhook v2.2
+[17:59:14] [Server thread/INFO]: [SkQuery] Disabling SkQuery v4.1.10
+[17:59:14] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.20
+[17:59:14] [Server thread/INFO]: [Skuishy] Disabling Skuishy v2.7
+[17:59:14] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.28.0
+[17:59:14] [DiscordSRV - Shutdown/INFO]: [DiscordSRV] Shutdown completed in 199ms
+[17:59:14] [Server thread/INFO]: [ExcellentCrates] Disabling ExcellentCrates v5.2.3.1
+[17:59:14] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[17:59:14] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[17:59:14] [Server thread/INFO]: [SkUniversal] Disabling SkUniversal v2.13
+[17:59:14] [Server thread/INFO]: [SimplePortals] Disabling SimplePortals v1.7.6
+[17:59:14] [Server thread/INFO]: [ShulkerPacks] Disabling ShulkerPacks v1.6.4
+[17:59:14] [Server thread/INFO]: [ShulkerPacks] §f§l[§9ShulkerPacks§f§l] §cShulkerPacks has been disabled!
+[17:59:14] [Server thread/INFO]: [ViaRewind-Legacy-Support] Disabling ViaRewind-Legacy-Support v1.5.2-SNAPSHOT
+[17:59:14] [Server thread/INFO]: [WESV] Disabling WorldEditSelectionVisualizer v2.1.7
+[17:59:14] [Server thread/INFO]: [FreedomChat] Disabling FreedomChat v1.7.0
+[17:59:14] [Server thread/INFO]: [AntiPopup] Disabling AntiPopup v9.2
+[17:59:14] [Server thread/INFO]: [AntiPopup] Disabled PacketEvents.
+[17:59:14] [Server thread/INFO]: [VillagerMarket] Disabling VillagerMarket v1.12.0
+[17:59:14] [Server thread/INFO]: [CombatLogX] Disabling CombatLogX v11.5.0.0.1242
+[17:59:14] [Server thread/INFO]: [CombatLogX] Disabling expansions...
+[17:59:14] [Server thread/INFO]: [CombatLogX] There were no expansions to disable.
+[17:59:14] [Server thread/INFO]: [CombatLogX] Successfully disabled all expansions.
+[17:59:14] [Server thread/INFO]: CombatLogX was disabled successfully.
+[17:59:14] [Server thread/INFO]: [ItemTag] Disabling ItemTag v3.4.3
+[17:59:14] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion itemtag
+[17:59:14] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin ItemTag was disabled.
+[17:59:14] [Server thread/INFO]: [ajLeaderboards] Disabling ajLeaderboards v2.9.0
+[17:59:14] [pool-107-thread-1/INFO]: [ajLeaderboards] Shutting down cache method..
+[17:59:14] [pool-107-thread-1/INFO]: [ajLeaderboards] Cache method shut down
+[17:59:14] [Server thread/INFO]: [ajLeaderboards] Killing remaining workers
+[17:59:14] [Server thread/INFO]: [ajLeaderboards] Remaining workers killed
+[17:59:14] [Server thread/INFO]: [ajLeaderboards] ajLeaderboards v2.9.0 disabled.
+[17:59:14] [Server thread/INFO]: [LPC] Disabling LPC v3.6.0
+[17:59:14] [Server thread/INFO]: [PlugManX] Disabling PlugManX v2.4.1
+[17:59:14] [Server thread/INFO]: [AxVaults] Disabling AxVaults v2.0.1
+[17:59:14] [Server thread/INFO]: [DiSky] Disabling DiSky v4.17.2
+[17:59:14] [Server thread/INFO]: [ViaAprilFools] Disabling ViaAprilFools v3.0.1
+[17:59:14] [Server thread/INFO]: [UnlimitedNameTags] Disabling UnlimitedNameTags v1.3
+[17:59:14] [Server thread/INFO]: [Tebex] Disabling Tebex v2.0.6
+[17:59:14] [Server thread/INFO]: [Chunky] Disabling Chunky v1.4.10
+[17:59:14] [Server thread/INFO]: [skript-gui] Disabling skript-gui v1.3
+[17:59:14] [Server thread/INFO]: [AxSmithing] Disabling AxSmithing v1.9
+[17:59:14] [Server thread/ERROR]: Error occurred while disabling AxSmithing v1.9
+java.lang.RuntimeException: NMSHandler has not been initialised! This could be due to incorrect usage, or unsupported NMS version!
+	at AxSmithing-1.9-all.jar/com.artillexstudios.axsmithing.libs.axapi.nms.NMSHandlers.getNmsHandler(NMSHandlers.java:44) ~[AxSmithing-1.9-all.jar:?]
+	at AxSmithing-1.9-all.jar/com.artillexstudios.axsmithing.libs.axapi.AxPlugin.onDisable(AxPlugin.java:150) ~[AxSmithing-1.9-all.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:541) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:623) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:1059) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:887) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1390) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:334) ~[purpur-1.21.1.jar:1.21.1-2291-bba87bf]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[17:59:14] [Server thread/INFO]: [TAB] Disabling TAB v4.1.6
+[17:59:14] [Server thread/INFO]: [TAB] Disabled in 0ms
+[17:59:14] [Server thread/INFO]: [NoCheatPlus] Disabling NoCheatPlus v3.17.1-SNAPSHOT-Updated-b192
+[17:59:14] [Server thread/INFO]: [NoCheatPlus] Removed hook: ViolationFrequency(NCP) [1.0].
+[17:59:14] [Server thread/INFO]: [NoCheatPlus] Removed hook: AllViolations(NCP) [1.0].
+[17:59:14] [Server thread/INFO]: [NoCheatPlus] Version 3.17.1-SNAPSHOT-Updated-b192 is disabled.
+[17:59:14] [Server thread/INFO]: [BetterTeams] Disabling BetterTeams v4.10.0
+[17:59:14] [Server thread/INFO]: [CataMines] Disabling CataMines v2.5.11
+[17:59:14] [Server thread/INFO]: [MiniMOTD] Disabling MiniMOTD v2.1.2
+[17:59:14] [Server thread/INFO]: [AutoPickup] Disabling AutoPickup v1.4.5-SNAPSHOT
+[17:59:14] [Server thread/INFO]: [InventoryRollbackPlus] Disabling InventoryRollbackPlus v1.6.18
+[17:59:14] [Server thread/INFO]: [InventoryRollbackPlus] Setting shutdown state
+[17:59:14] [Server thread/INFO]: [InventoryRollbackPlus] Saving player inventories...
+[17:59:14] [Server thread/INFO]: [InventoryRollbackPlus] Done saving player inventories!
+[17:59:14] [Server thread/INFO]: [InventoryRollbackPlus] Plugin is disabled!
+[17:59:14] [Server thread/INFO]: [PoaSkRewritev2] Disabling PoaSkRewritev2 v4.7.5
+[17:59:14] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v22.4
+[17:59:14] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[17:59:15] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v22.4
+[17:59:15] [Server thread/INFO]: [SkBee] Disabling SkBee v3.6.0
+[17:59:15] [Server thread/INFO]: [nightcore] Disabling nightcore v2.6.2
+[17:59:15] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[17:59:15] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[17:59:15] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.23.0
+[17:59:15] [Server thread/INFO]: [AdvancedBan] Disabling AdvancedBan v2.3.0
+[17:59:15] [Server thread/INFO]: [hsqldb.db.HSQLDB9065E75FF5.ENGINE] Database closed
+[17:59:15] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[17:59:15] [Server thread/INFO]: [me.leoko.advancedban.shaded.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[17:59:15] [Server thread/INFO]: 
+[17:59:15] [Server thread/INFO]:  
+[17:59:15] [Server thread/INFO]: []=====[Disabling AdvancedBan]=====[]
+[17:59:15] [Server thread/INFO]: | Information:
+[17:59:15] [Server thread/INFO]: |   Name: AdvancedBan
+[17:59:15] [Server thread/INFO]: |   Developer: Leoko
+[17:59:15] [Server thread/INFO]: |   Version: 2.3.0
+[17:59:15] [Server thread/INFO]: |   Storage: HSQLDB (local)
+[17:59:15] [Server thread/INFO]: | Support:
+[17:59:15] [Server thread/INFO]: |   Github: https://github.com/DevLeoko/AdvancedBan/issues
+[17:59:15] [Server thread/INFO]: |   Discord: https://discord.gg/ycDG6rS
+[17:59:15] [Server thread/INFO]: | Twitter: @LeokoGar
+[17:59:15] [Server thread/INFO]: []================================[]
+[17:59:15] [Server thread/INFO]:  
+[17:59:15] [Server thread/INFO]: [Blue Slime Core] Disabling BlueSlimeCore v2.9.6.431
+[17:59:15] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.5.2
+[17:59:15] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion itemedit
+[17:59:15] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin ItemEdit was disabled.
+[17:59:15] [Server thread/INFO]: [packetevents] Disabling packetevents v2.4.0
+[17:59:15] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[17:59:15] [Server thread/INFO]: [DecentHolograms] Disabling DecentHolograms v2.8.11
+[17:59:15] [Server thread/INFO]: [Skript] Disabling Skript v2.9.1
+[17:59:15] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.35-SNAPSHOT (build 3494)
+[17:59:15] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.3.13-SNAPSHOT
+[17:59:15] [Server thread/INFO]: [SuperVanish] Disabling SuperVanish v6.2.20
+[17:59:15] [Server thread/INFO]: [WooEconomy] Disabling WooEconomy v1.0
+[17:59:15] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.3-SNAPSHOT
+[17:59:15] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.11-SNAPSHOT+2289-7272507
+[17:59:15] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[17:59:15] [Server thread/INFO]: [PlotSquared] Disabling PlotSquared v7.3.9-SNAPSHOT
+[17:59:15] [Server thread/INFO]: [PlotSquared/SQLManager] All DB transactions during this session are being validated (This may take a while if corrections need to be made)
+[17:59:15] [Server thread/INFO]: [VoidGen] Disabling VoidGen v2.2.1
+[17:59:15] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0-SNAPSHOT-726
+[17:59:15] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[17:59:15] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.11.2-SNAPSHOT-877;a779be4
+[17:59:15] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:59:15] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+110-f1a5caf
+[17:59:15] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[17:59:15] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[17:59:15] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[17:59:15] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.128
+[17:59:15] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[17:59:15] [Server thread/INFO]: [LuckPerms] Closing storage...
+[17:59:15] [Server thread/INFO]: [LuckPerms] Goodbye!
+[17:59:15] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
+[17:59:15] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[17:59:15] [Server thread/INFO]: Saving players
+[17:59:15] [Server thread/INFO]: Mikeyross23yt lost connection: Server closed
+[17:59:15] [Server thread/INFO]: Mikeyross23yt left the game
+[17:59:15] [Server thread/INFO]: anmvc lost connection: Server closed
+[17:59:15] [Server thread/INFO]: anmvc left the game
+[17:59:15] [Server thread/INFO]: szimione lost connection: Server closed
+[17:59:15] [Server thread/INFO]: szimione left the game
+[17:59:16] [Server thread/INFO]: Saving worlds
+[17:59:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Saved 429 block chunks, 400 entity chunks, 0 poi chunks in world 'world' in 0.51s
+[17:59:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[17:59:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[17:59:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[sniper_showdown]'/minecraft:sniper_showdown
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'sniper_showdown'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'sniper_showdown'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'sniper_showdown'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 0 entity chunks, 0 poi chunks in world 'sniper_showdown' in 0.01s
+[17:59:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Plots]'/minecraft:plots
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'Plots'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'Plots'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'Plots'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'Plots' in 0.00s
+[17:59:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[snipershowdown]'/minecraft:snipershowdown
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'snipershowdown'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'snipershowdown'
+[17:59:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'snipershowdown'
+[17:59:17] [Server thread/INFO]: [ChunkHolderManager] Saved 1290 block chunks, 897 entity chunks, 0 poi chunks in world 'snipershowdown' in 0.52s
+[17:59:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:59:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:59:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:59:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (sniper_showdown): All chunks are saved
+[17:59:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (Plots): All chunks are saved
+[17:59:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (snipershowdown): All chunks are saved
+[17:59:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

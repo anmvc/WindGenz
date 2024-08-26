@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 224.128.138.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720636044973
+  login: 1720636009169
+money: '0'
+last-account-name: TaylorOderSo
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 20.673034785783383
+  y: 66.0
+  z: 1.9014877047087153
+  yaw: -109.8026123046875
+  pitch: 15.89963150024414

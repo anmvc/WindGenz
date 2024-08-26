@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 62.208.102.233
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720945213177
+  login: 1720943506924
+money: '0'
+last-account-name: WaveyMc_
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -24.546079600672222
+  y: 65.0
+  z: 1.6348237264788072
+  yaw: -93.43072509765625
+  pitch: 29.65824317932129

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 161.158.199.138
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720622900441
+  login: 1720616942497
+money: '0'
+last-account-name: teammelon44
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 4.468769031469785
+  y: 65.0625
+  z: -0.14751918919377638
+  yaw: 82.03524780273438
+  pitch: 29.57180404663086
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 12.5
+  y: 63.0
+  z: 13.5
+  yaw: -134.9999542236328
+  pitch: -20.550018310546875

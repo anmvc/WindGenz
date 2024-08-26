@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 141.142.215.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721320480317
+  login: 1721320456165
+money: '0'
+last-account-name: zP4nda
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 24.748858795582994
+  y: 65.0
+  z: 0.7037082532880722
+  yaw: -152.36143493652344
+  pitch: 9.604181289672852

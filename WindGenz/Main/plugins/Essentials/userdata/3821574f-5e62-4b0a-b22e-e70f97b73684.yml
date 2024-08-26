@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 204.48.39.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721696594652
+  login: 1721695273751
+money: '0'
+last-account-name: big_kuk_mans
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -2.6972735610071648
+  y: 65.0625
+  z: 0.1659633381124963
+  yaw: -83.52201080322266
+  pitch: 54.6224250793457
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 0.2657187501765798
+  y: 65.48249998688698
+  z: -21.26246808759923
+  yaw: 172.80963134765625
+  pitch: -2.8469486236572266

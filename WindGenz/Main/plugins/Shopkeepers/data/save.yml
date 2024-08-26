@@ -1,0 +1,2209 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyway, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3955
+'1':
+  uniqueId: 3b07c8d9-d0c8-4433-847a-40b2e08a525f
+  world: world
+  x: -13
+  y: 65
+  z: -8
+  yaw: 183.31117
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:desert
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLDEN_APPLE
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLD_BLOCK
+        amount: 8
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLDEN_CARROT
+        amount: 25
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND
+        amount: 25
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: COOKED_BEEF
+        amount: 15
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: IRON_INGOT
+        amount: 10
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: BREAD
+        amount: 20
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: OAK_LOG
+        amount: 10
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+  snapshots: []
+'2':
+  uniqueId: 1846b183-1d62-4d66-b375-452f1ddc6c7f
+  world: world
+  x: -17
+  y: 65
+  z: -8
+  yaw: 180.12897
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:taiga
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          display-name: '{"text":"","extra":[{"text":"3 in 1 Potion","italic":false,"color":"dark_green"}]}'
+          custom: H4sIAAAAAAAA/62RsUoEMRCGZ13x9rZQPLCwW4Kljdhte72IrcgyJpO74bLJksxxity7+VTWZvdArQTBbuYj/zfMpAaYw4XeJgl9NwTh4DuylrSkGgDKAk7TOuy6AaOwdpSKAuYTYR18bmbYPzN5KSo4YgOLnj3piFbaJJH8StYlVGYbcVQDLN5zHvvBsWWKBfzVf/bDPxCZf5VffsstR+oiJU6CXtOvY2qYGU6Dw9cKju+wJ3h4U0IvolqlrlUuIqr28YvdNuybm+Z+unZ+oIMLMXODcdOtItEIWdCxVq1Fl2j/tIcSzpfTNx1yyzEEVx9QwcmB5G12mx1GA5/kqUNe1QEAAA==
+          potion-type: minecraft:awkward
+          custom-color:
+            ==: Color
+            ALPHA: 255
+            RED: 36
+            BLUE: 0
+            GREEN: 246
+          custom-effects:
+          - ==: PotionEffect
+            effect: minecraft:strength
+            duration: 4800
+            amplifier: 1
+            ambient: true
+            has-particles: true
+            has-icon: true
+          - ==: PotionEffect
+            effect: minecraft:speed
+            duration: 4800
+            amplifier: 1
+            ambient: true
+            has-particles: true
+            has-icon: true
+          - ==: PotionEffect
+            effect: minecraft:fire_resistance
+            duration: 4800
+            amplifier: 1
+            ambient: true
+            has-particles: true
+            has-icon: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 24
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          custom: H4sIAAAAAAAA/+NiYOBkEE0uLS7Jz40vyC/JzM+LT01LS00uKWYAAQ4GtgCwKINAcUlRfl56fHF5ZlpJXmpxMQMAZxEf1jwAAAA=
+          potion-type: minecraft:strong_swiftness
+          custom-effects: []
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 8
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          custom: H4sIAAAAAAAA/+NiYOBkEE0uLS7Jz40vyC/JzM+LT01LS00uKWYAAQ4GtgCwKINITn5eenxaZlFqfFFqcWZxSWJecioDAA0XcvVAAAAA
+          potion-type: minecraft:long_fire_resistance
+          custom-effects: []
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 8
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          custom: H4sIAAAAAAAA/+NiYOBkEE0uLS7Jz40vyC/JzM+LT01LS00uKWYAAQ4GtgCwKAN/cUlRfl56PJBKzUsvyWAAAKUKT1A7AAAA
+          potion-type: minecraft:strong_strength
+          custom-effects: []
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 8
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          custom: H4sIAAAAAAAA/+NiYOBgYAvIL8nMz2OQzs3MS00uSkwrscrJz0uPz8wryyzOTMrMySypZAAAGW0ACyoAAAA=
+          potion-type: minecraft:long_invisibility
+          custom-effects: []
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"C","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#0238FB","bold":true},{"text":"o","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#0A46FB","bold":true},{"text":"m","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#1253FC","bold":true},{"text":"p","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#1A61FC","bold":true},{"text":"r","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#226FFC","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#2A7CFC","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#328AFD","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#3A98FD","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#42A5FD","bold":true},{"text":"d
+            ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4AB3FE","bold":true},{"text":"L","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#52C0FE","bold":true},{"text":"a","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5ACEFE","bold":true},{"text":"p","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#62DCFE","bold":true},{"text":"i","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#6AE9FF","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#72F7FF","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+          custom: H4sIAAAAAAAA/73US2rDMBCA4UlaSGp6iKJuvUjk+BHvFMdahV6gdKFYSiwq20GWS0vJ3euVsQ7Q2Y1+Bj4QSAFAACup+5sRP2t4fBONWsEvcerbkZyQkIyDFSR/n1oxxqoznR3n1w2NMn4Yy7kzkuTODiok2gmjK5JfhOnH49BKZY1ulZxS76z+VK623XCtp9qdL0NfCTct3sNJ7TyV7RIUtZmrWxpHvEBQb57Kki2KaucqpQlHUZWnsrRAUfu5GtGM8SO6yvYZiurd8I6yGEWVLx7LDhEvEdjTXI1psUFRhaeyokRRvW8ioccCRdWeyso959hPJ6U8/Uf14w5P8Fy2VS1a16jW9QEALNaw1BJWY5C6vS7hwXwZWAD8AT7oIT5DBwAA
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          custom: H4sIAAAAAAAA/+NiYOBkEE0uLS7Jz40vyC/JzM+LT01LS00uKWYAAQ4GtgCwKANfcUlRfl56fEZqYk5mXjoDAEp70zM6AAAA
+          potion-type: minecraft:strong_healing
+          custom-effects: []
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 4
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+  snapshots: []
+'4':
+  uniqueId: e527f77c-38aa-42e9-95b2-877b86fb4c3a
+  world: world
+  x: -17
+  y: 65
+  z: -16
+  yaw: 323.22836
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:jungle
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: COBWEB
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 48
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 24
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          custom: H4sIAAAAAAAA/+NiYGBmYHNJzE1MT2UAAQCogW6XEQAAAA==
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 48
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          custom: H4sIAAAAAAAA/+NiYGBmYHNJzE1MT2UAAQCogW6XEQAAAA==
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 48
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ARROW
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 16
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENDER_PEARL
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: WATER_BUCKET
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 16
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: AMETHYST_CLUSTER
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD
+        amount: 64
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: WIND_CHARGE
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"1.21 Wind Charge","italic":false,"color":"white"}'
+          custom: H4sIAAAAAAAA/+NiYOBiYE/JLC7ISazkYGDxS8xNZbCqVipJrShRslIy1DMyVAjPzEtRcM5ILEpPVdJRSs7PyS8CSpVnZJaA+JkliTmZyUpWaYk5xam1DIwMKmFONQFF+SX5QJWG8UYG8aYh+WDauCa5tLgkPxdkByMDAMNJ9Il6AAAA
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 64
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Dash","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_INGOT
+        amount: 8
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: OXIDIZED_COPPER
+        amount: 4
+  snapshots: []
+'6':
+  uniqueId: a76acc2c-8f91-4cba-a22f-ae559ef8de2d
+  world: world
+  x: -9
+  y: 65
+  z: -16
+  yaw: 51.957317
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:swamp
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: IRON_INGOT
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: RAW_IRON
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: COAL
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLD_INGOT
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: RAW_GOLD
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: COAL
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_SCRAP
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ANCIENT_DEBRIS
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: COAL
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_INGOT
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLD_INGOT
+        amount: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_SCRAP
+        amount: 4
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_UPGRADE_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD
+        amount: 64
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: SILENCE_ARMOR_TRIM_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: SPIRE_ARMOR_TRIM_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: COAST_ARMOR_TRIM_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: TIDE_ARMOR_TRIM_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '12':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: WARD_ARMOR_TRIM_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '13':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: RIB_ARMOR_TRIM_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '14':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DUNE_ARMOR_TRIM_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '15':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: FLOW_ARMOR_TRIM_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '16':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: SENTRY_ARMOR_TRIM_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '17':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: WILD_ARMOR_TRIM_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '18':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: WAYFINDER_ARMOR_TRIM_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '19':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: RAISER_ARMOR_TRIM_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '20':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: SHAPER_ARMOR_TRIM_SMITHING_TEMPLATE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 32
+    '21':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: AMETHYST_SHARD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 6
+  snapshots: []
+'7':
+  uniqueId: dfd18264-2398-43df-ac59-393cd77d12e1
+  world: world
+  x: -9
+  y: 65
+  z: -12
+  yaw: 94.68346
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:snow
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: YELLOW_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: RED_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: BROWN_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ORANGE_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: BLACK_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: WHITE_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GRAY_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIME_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: PINK_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '12':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: MAGENTA_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '13':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: PURPLE_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '14':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: BLUE_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '15':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_BLUE_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '16':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: CYAN_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '17':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GREEN_SHULKER_BOX
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 32
+    '18':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+  snapshots: []
+'9':
+  uniqueId: 7f878820-eda9-401b-a755-0c8604fa1d21
+  world: world
+  x: -10
+  y: 65
+  z: -15
+  yaw: 27.63664
+  type: admin
+  name: Compressor
+  object:
+    type: villager
+    baby: true
+    profession: minecraft:none
+    villagerType: minecraft:snow
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"C","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4498DB","bold":true},{"text":"o","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#469CDA","bold":true},{"text":"m","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#47A1D8","bold":true},{"text":"p","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#49A5D7","bold":true},{"text":"r","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4AA9D6","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4CAED5","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4EB2D3","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4FB6D2","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#51BBD1","bold":true},{"text":"d","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#52BFCF","bold":true},{"text":"
+            ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#54C4CE","bold":true},{"text":"D","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#55C8CD","bold":true},{"text":"i","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#57CCCB","bold":true},{"text":"a","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#59D1CA","bold":true},{"text":"m","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5AD5C9","bold":true},{"text":"o","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5CD9C8","bold":true},{"text":"n","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DDEC6","bold":true},{"text":"d","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5FE2C5","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+          custom: H4sIAAAAAAAA/73VQWrDMBAF0ElbSBp6iKJus7FrJ5F38oy97AVKF4qtJKKKHGy5tJTcvV4ZdIDObvQZeCDQ1xpgDcvWDlenf1bw8KYvZqV/RTDfQRRCbMQ09FoU73OGU9h0ruun+SXL5J7KKTl0rhVF6EezETZoZxtRHLUbpuPoW9M76007R0Po7acJ574bT+c57Q7HcWh0mBdvm1ntInUrkRSDeonUnUpoz6BeI1WqnHYMah+pSknaMqgmUlFVlDOoQ6RWZUqv7GpdbinlvuE8KUtKGNQ2UtOyxppBfY7UDDOsGFSK1Bz3SAyqjdQdInL0sI5USQmy93CuKEfJ/efkSBI52t9HKlGFHD0cv9e6SvH/evjjBo/wVPnmrH24GB+GNQAsVnBnW1hOQWv96Q7u3ZeDBcAf1Z+lRqQIAAA=
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 64
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"C","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#0238FB","bold":true},{"text":"o","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#0A46FB","bold":true},{"text":"m","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#1253FC","bold":true},{"text":"p","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#1A61FC","bold":true},{"text":"r","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#226FFC","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#2A7CFC","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#328AFD","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#3A98FD","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#42A5FD","bold":true},{"text":"d
+            ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4AB3FE","bold":true},{"text":"L","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#52C0FE","bold":true},{"text":"a","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5ACEFE","bold":true},{"text":"p","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#62DCFE","bold":true},{"text":"i","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#6AE9FF","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#72F7FF","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+          custom: H4sIAAAAAAAA/73US2rDMBCA4UlaSGp6iKJuvUjk+BHvFMdahV6gdKFYSiwq20GWS0vJ3euVsQ7Q2Y1+Bj4QSAFAACup+5sRP2t4fBONWsEvcerbkZyQkIyDFSR/n1oxxqoznR3n1w2NMn4Yy7kzkuTODiok2gmjK5JfhOnH49BKZY1ulZxS76z+VK623XCtp9qdL0NfCTct3sNJ7TyV7RIUtZmrWxpHvEBQb57Kki2KaucqpQlHUZWnsrRAUfu5GtGM8SO6yvYZiurd8I6yGEWVLx7LDhEvEdjTXI1psUFRhaeyokRRvW8ioccCRdWeyso959hPJ6U8/Uf14w5P8Fy2VS1a16jW9QEALNaw1BJWY5C6vS7hwXwZWAD8AT7oIT5DBwAA
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 64
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"C","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5CFC81","bold":true},{"text":"o","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5CFA85","bold":true},{"text":"m","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5CF989","bold":true},{"text":"p","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DF78D","bold":true},{"text":"r","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DF691","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DF495","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DF399","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DF19D","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DF0A1","bold":true},{"text":"d","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5EEEA5","bold":true},{"text":"
+            ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5EEDA9","bold":true},{"text":"E","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5EEBAD","bold":true},{"text":"m","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5EEAB1","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5EE8B5","bold":true},{"text":"r","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5EE7B9","bold":true},{"text":"l","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5FE5BD","bold":true},{"text":"d","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5FE4C1","bold":true},{"text":"","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5FE2C5","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+          custom: H4sIAAAAAAAA/73TT2uDMBjH8afdoE72IkZ29bBudVVv/onHvoExWGrSGhZjiXFsjL73eRJ87ntu8YfwgXxJCBDCRurhYsRPALcH0ang45d59e1ZxljEpoMTLHubt3Iam970bjo/xmVdJttpOfZGssy7UUVMe2F0w7KTMMP0OVqpnNFWyXkavNOfyreuH8/tvPbH0zg0ws8/XqNZ7ZGaJzGB2iE1TVIC9bJQq3qfVASqQ+prStFVIXWXUnQdkPqSUnTF6jal6Ipv+Cmn6CoXKuc8p+j6gNQqp+jKkVrkFF07pOYF/XvlPCkoujqk7guKrmah1jwuKLpKpO5Kiq4IfS7/L+v7Fe7gntumFdZ3yvohBIBVAGstYTMNUtvzGm7Ml4EVwB8UHdEnowgAAA==
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 64
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: BEDROCK
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: BEDROCK
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: BEDROCK
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"C","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#0238FB","bold":true},{"text":"o","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#0A46FB","bold":true},{"text":"m","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#1253FC","bold":true},{"text":"p","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#1A61FC","bold":true},{"text":"r","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#226FFC","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#2A7CFC","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#328AFD","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#3A98FD","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#42A5FD","bold":true},{"text":"d
+            ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4AB3FE","bold":true},{"text":"L","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#52C0FE","bold":true},{"text":"a","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5ACEFE","bold":true},{"text":"p","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#62DCFE","bold":true},{"text":"i","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#6AE9FF","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#72F7FF","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+          custom: H4sIAAAAAAAA/73US2rDMBCA4UlaSGp6iKJuvUjk+BHvFMdahV6gdKFYSiwq20GWS0vJ3euVsQ7Q2Y1+Bj4QSAFAACup+5sRP2t4fBONWsEvcerbkZyQkIyDFSR/n1oxxqoznR3n1w2NMn4Yy7kzkuTODiok2gmjK5JfhOnH49BKZY1ulZxS76z+VK623XCtp9qdL0NfCTct3sNJ7TyV7RIUtZmrWxpHvEBQb57Kki2KaucqpQlHUZWnsrRAUfu5GtGM8SO6yvYZiurd8I6yGEWVLx7LDhEvEdjTXI1psUFRhaeyokRRvW8ioccCRdWeyso959hPJ6U8/Uf14w5P8Fy2VS1a16jW9QEALNaw1BJWY5C6vS7hwXwZWAD8AT7oIT5DBwAA
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"C","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5CFC81","bold":true},{"text":"o","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5CFA85","bold":true},{"text":"m","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5CF989","bold":true},{"text":"p","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DF78D","bold":true},{"text":"r","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DF691","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DF495","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DF399","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DF19D","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DF0A1","bold":true},{"text":"d","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5EEEA5","bold":true},{"text":"
+            ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5EEDA9","bold":true},{"text":"E","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5EEBAD","bold":true},{"text":"m","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5EEAB1","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5EE8B5","bold":true},{"text":"r","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5EE7B9","bold":true},{"text":"l","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5FE5BD","bold":true},{"text":"d","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5FE4C1","bold":true},{"text":"","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5FE2C5","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+          custom: H4sIAAAAAAAA/73TT2uDMBjH8afdoE72IkZ29bBudVVv/onHvoExWGrSGhZjiXFsjL73eRJ87ntu8YfwgXxJCBDCRurhYsRPALcH0ang45d59e1ZxljEpoMTLHubt3Iam970bjo/xmVdJttpOfZGssy7UUVMe2F0w7KTMMP0OVqpnNFWyXkavNOfyreuH8/tvPbH0zg0ws8/XqNZ7ZGaJzGB2iE1TVIC9bJQq3qfVASqQ+prStFVIXWXUnQdkPqSUnTF6jal6Ipv+Cmn6CoXKuc8p+j6gNQqp+jKkVrkFF07pOYF/XvlPCkoujqk7guKrmah1jwuKLpKpO5Kiq4IfS7/L+v7Fe7gntumFdZ3yvohBIBVAGstYTMNUtvzGm7Ml4EVwB8UHdEnowgAAA==
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"C","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4498DB","bold":true},{"text":"o","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#469CDA","bold":true},{"text":"m","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#47A1D8","bold":true},{"text":"p","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#49A5D7","bold":true},{"text":"r","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4AA9D6","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4CAED5","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4EB2D3","bold":true},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4FB6D2","bold":true},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#51BBD1","bold":true},{"text":"d","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#52BFCF","bold":true},{"text":"
+            ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#54C4CE","bold":true},{"text":"D","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#55C8CD","bold":true},{"text":"i","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#57CCCB","bold":true},{"text":"a","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#59D1CA","bold":true},{"text":"m","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5AD5C9","bold":true},{"text":"o","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5CD9C8","bold":true},{"text":"n","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5DDEC6","bold":true},{"text":"d","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#5FE2C5","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+          custom: H4sIAAAAAAAA/73VQWrDMBAF0ElbSBp6iKJus7FrJ5F38oy97AVKF4qtJKKKHGy5tJTcvV4ZdIDObvQZeCDQ1xpgDcvWDlenf1bw8KYvZqV/RTDfQRRCbMQ09FoU73OGU9h0ruun+SXL5J7KKTl0rhVF6EezETZoZxtRHLUbpuPoW9M76007R0Po7acJ574bT+c57Q7HcWh0mBdvm1ntInUrkRSDeonUnUpoz6BeI1WqnHYMah+pSknaMqgmUlFVlDOoQ6RWZUqv7GpdbinlvuE8KUtKGNQ2UtOyxppBfY7UDDOsGFSK1Bz3SAyqjdQdInL0sI5USQmy93CuKEfJ/efkSBI52t9HKlGFHD0cv9e6SvH/evjjBo/wVPnmrH24GB+GNQAsVnBnW1hOQWv96Q7u3ZeDBcAf1Z+lRqQIAAA=
+  snapshots: []
+'11':
+  uniqueId: 6bdc79cb-d467-4c8b-8c81-fadad0e40be1
+  world: world
+  x: 20
+  y: 65
+  z: -20
+  yaw: 36.88844
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD_BLOCK
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: EMERALD
+        amount: 9
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND
+        amount: 9
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_LAZULI
+        amount: 9
+  snapshots: []
+'14':
+  uniqueId: 9a45f96d-8ff9-4c03-9087-bdecc69c460d
+  world: world
+  x: -13
+  y: 65
+  z: -16
+  yaw: 4.800596
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:snow
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxhEMzNzEtNLkpMK7ECSqVk5qUzMTDnlOUwMDIwAAAOi2evPwAAAA==
+          stored-enchants:
+            minecraft:mending: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 24
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxh4CrNSypKTczOzEtnYmDOKcthYGZgAACVYBwNOAAAAA==
+          stored-enchants:
+            minecraft:unbreaking: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 16
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"A","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#1CFB00","bold":false},{"text":"r","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#15FC2F","bold":false},{"text":"m","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#0EFD5D","bold":false},{"text":"o","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#07FE8C","bold":false},{"text":"r","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#00FFBA","bold":false}]}'
+          custom: H4sIAAAAAAAA/72SwUrDQBCGRyuxDfTiI6zXIFEoSi6SJlnx0BZ6FZFNMkkWN9ky2YAifWcfwRXLah/AzOmfn3/4YPh9gAl4qWhFjWDHh/NS9jsl3qdwthYtnjYfzOCbYRFjAbOCBIuenBdbs9BKk9WX1wlfhqF1cq1KFlVC9RgwaYSShVuHrkRSssPfRG9IvqJpSA9141ydV0NfCOOC+8Bh6Qi74MkNHwPb/sWGGU8X6RhYfYS95dldMvqTw5DzZfx/2Oc9zOAiNjaeDwZXupSVROp9W8qTQxdh/pCts+1j8hJvV5vtBGabHZIwUnff3Z3C3N3/xGvskGRxJajV5IEXt3rozP0nHOYLX66WHP4CAAA=
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxh4Cooyi9JTS7JzM9jYmDOKcthYGFgAABgvoX8OAAAAA==
+          stored-enchants:
+            minecraft:protection: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 32
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxhEEjKSSwuiS8oyi9JTS7JzM9jYmDOKcthYGFgAAA6WmbTPgAAAA==
+          stored-enchants:
+            minecraft:blast_protection: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 24
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxh4E9LTSzJSC2KT0vMycnMS2diYM4py2FgYWAAABLSIzI9AAAA
+          stored-enchants:
+            minecraft:feather_falling: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 16
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxh4C5KLS7ILEosyczPY2JgzinLYWBmYAAAO63DCzkAAAA=
+          stored-enchants:
+            minecraft:respiration: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 16
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/wXBwQ2AIAwF0C9clKMXd/HuBA5gCK2hCVRTGuf3vQQsWE9/jOnQUrN6Z/WRAEwzghC2LsrF8u078ev1Gm5CbAGxfQ0R+AGwyifdRQAAAA==
+          stored-enchants:
+            minecraft:depth_strider: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 16
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            minecraft:swift_sneak: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 16
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"S","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#1CFB00","bold":false},{"text":"w","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#16FC25","bold":false},{"text":"o","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#11FD4A","bold":false},{"text":"r","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#0BFD70","bold":false},{"text":"d","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#06FE95","bold":false},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#00FFBA","bold":false}]}'
+          custom: H4sIAAAAAAAA/+NiYGBmYHNJzE1MT2UAAi4G9pTM4oKcxEoOBha/xNxUBslqpZLUihIlKyUlHSUgoyhRySpaSUEptpaBAQAm1qirPgAAAA==
+    '12':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxh4CzOSCwqyEstLmZiYM4py2FgZWAAALfEa3c3AAAA
+          stored-enchants:
+            minecraft:sharpness: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 32
+    '13':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxh4E7LLEqNTywuSE0uYWJgzinLYWBiYAAABA4Z6jkAAAA=
+          stored-enchants:
+            minecraft:fire_aspect: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 32
+    '14':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxh4MzOy0/OTkpMzmZiYM4py2FgYmAAANkVJwc3AAAA
+          stored-enchants:
+            minecraft:knockback: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 32
+    '15':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"P","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#1CFB00","bold":false},{"text":"i","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#18FC1B","bold":false},{"text":"c","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#14FC35","bold":false},{"text":"k","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#10FD50","bold":false},{"text":"a","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#0CFD6A","bold":false},{"text":"x","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#08FE85","bold":false},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#04FE9F","bold":false},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#00FFBA","bold":false}]}'
+          custom: H4sIAAAAAAAA/+NiYGBmYHNJzE1MT2UAAQCogW6XEQAAAA==
+    '16':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxh4EpNS8tMzkzNS65kYmDOKcthYGVgAAB+6FoBOAAAAA==
+          stored-enchants:
+            minecraft:efficiency: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 32
+    '17':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/wXBwQ2AIBAAwRU+yk/L8W8FVkDwiCRwJHhavzMBFrbT+pDr0HRHtSZqTwCmGVcu1lZU0ojZ9tyHvSoOX7+Khx9xXS78PwAAAA==
+          stored-enchants:
+            minecraft:fortune: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 32
+    '18':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxh4CrOzMmOL8kvTc5gYmDOKcthYGRgAABVFkfnOAAAAA==
+          stored-enchants:
+            minecraft:silk_touch: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 32
+    '19':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: BOW
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"B","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#1CFB00","bold":false},{"text":"o","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#13FC3E","bold":false},{"text":"w","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#09FE7C","bold":false},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#00FFBA","bold":false}]}'
+          custom: H4sIAAAAAAAA/+NiYGBmYHNJzE1MT2UAAQCogW6XEQAAAA==
+    '20':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxhYC3IL08tYmJgzinLYWBlYAAAgke29DMAAAA=
+          stored-enchants:
+            minecraft:power: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 32
+    '21':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxh4MjMS8vMyyypZGJgzinLYWBkYAAAXy0drDYAAAA=
+          stored-enchants:
+            minecraft:infinity: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 32
+    '22':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxhYE3LScxNZWJgzinLYWBkYAAAiV9lfDMAAAA=
+          stored-enchants:
+            minecraft:flame: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 32
+    '23':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxh4M/NzEtNLkpMK7EqKAUqYWJgzinLYWBiYAAAffe40D0AAAA=
+          stored-enchants:
+            minecraft:punch: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LAPIS_BLOCK
+        amount: 32
+    '24':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+  snapshots: []
+'18':
+  uniqueId: f5138e62-0514-4f4f-b361-95752a2db582
+  world: world
+  x: -17
+  y: 65
+  z: -12
+  yaw: 272.83942
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 5
+            minecraft:fortune: 3
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+          custom: H4sIAAAAAAAA/0WLSQ6AIBAEW9yJz9KHIA5IxDFBNPH3csDYx6ouCZRoRrUrS0jrMUysV8VxJ46nTKjqINyC1hwhXkwCpb99qjJOv8WxzbjIWF48B1Lbb75AkjFOO2L9ZFMDL4bKwyiHAAAA
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: DIAMOND_BLOCK
+        amount: 48
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 10
+            minecraft:fortune: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 5
+          custom: H4sIAAAAAAAA/0WNSw6AIBBDK/6Jx9KDIA5IxDFBNPH2ssDY5XttKoESzah2ZQkpPYaJ9ao47sTxlAlVHYRb0JojxItJoPS3R42MU29xbDMuMpYXz4HU9ptvIMkYpx2xfrJJJy8/I6fShwAAAA==
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_INGOT
+        amount: 6
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: OXIDIZED_COPPER
+        amount: 24
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_INGOT
+        amount: 10
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ZOMBIE_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Auto Compress","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_gray","bold":true}]}'
+          custom: H4sIAAAAAAAA/z3KQQrCMBCF4VkISk8hs+4JshP3XkBEps20DU07ZTIBi/Qg3tassnvv428AGjj7kLZI+wVOD1oYfl80/hg6xBbLUEL3rHbLJte7LJtySiXoJYoW96Tze1Tai3USPTrTzC0Goxh6dAPFVG5ePWsMK/tKyTTMbJNKHqeq0g059WQ1PF4HwB8GH2SmsQAAAA==
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_INGOT
+        amount: 16
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: OXIDIZED_COPPER
+        amount: 15
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: OXIDIZED_COPPER
+        amount: 24
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: ZOMBIE_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"Auto Compress","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"dark_gray","bold":true}]}'
+          custom: H4sIAAAAAAAA/z3KQQrCMBCF4VkISk8hs+4JshP3XkBEps20DU07ZTIBi/Qg3tassnvv428AGjj7kLZI+wVOD1oYfl80/hg6xBbLUEL3rHbLJte7LJtySiXoJYoW96Tze1Tai3USPTrTzC0Goxh6dAPFVG5ePWsMK/tKyTTMbJNKHqeq0g059WQ1PF4HwB8GH2SmsQAAAA==
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+  snapshots: []
+'25':
+  uniqueId: 0eb0d6cf-614d-44f0-8486-66fe80fc02c7
+  world: world
+  x: -18
+  y: 149
+  z: 221
+  yaw: 324.86902
+  type: admin
+  name: ''
+  object:
+    type: chicken
+    baby: false
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"","extra":[{"text":"B","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#CFEF0A","bold":false},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#C4E516","bold":false},{"text":"a","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#B9DB23","bold":false},{"text":"c","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#AED12F","bold":false},{"text":"h
+            ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#A3C73B","bold":false},{"text":"H","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#97BC47","bold":false},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#8CB254","bold":false},{"text":"a","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#81A860","bold":false},{"text":"d","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#769E6C","bold":false}]}'
+          enchants:
+            minecraft:protection: 9
+            minecraft:unbreaking: 3
+          attribute-modifiers:
+            minecraft:generic.armor:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 4.0
+              slot: head
+              operation: 0
+              key: minecraft:a6d81665-8a74-469d-a9e6-f069896b08ed
+            minecraft:generic.armor_toughness:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 4.0
+              slot: head
+              operation: 0
+              key: minecraft:8220eb6a-9184-42c4-8254-00bd879756ec
+            minecraft:generic.knockback_resistance:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 0.1
+              slot: head
+              operation: 0
+              key: minecraft:91f54237-d025-4ce4-af27-16383d7dab2d
+          skull-owner:
+            ==: PlayerProfile
+            uniqueId: 88166c94-fbdf-4db7-ac01-0137550e8646
+            name: EliteLT3
+            properties:
+            - name: textures
+              value: ewogICJ0aW1lc3RhbXAiIDogMTcxNzg2NjYyNTg5OCwKICAicHJvZmlsZUlkIiA6ICI4ODE2NmM5NGZiZGY0ZGI3YWMwMTAxMzc1NTBlODY0NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGl0ZUxUMyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jYWQxMTc4ODhmZWM0OTYwMzViZTUwMWJhMDM5ZDg3YTZlM2MxMWJhYzZkNTcyNTBmNzM1MDI1OTRkNzQ5ZDcwIgogICAgfQogIH0KfQ==
+              signature: MKI20rTMAAKTBPgAugEetT2juNxDAnjpY3MwPRHlEwYuYVYCKtVldpXC75LQFhPqSJkQY38I9K9eDa1y83doN9NDUPEvHmHpZ6xD+UdDg4+NpxADUUtOcOXNf97kO4UdrCsjgtmHy9N2q4V0n5BYg1iPwwjKHw//6EDqRM0beAtLt4crnVGi/4v8U1JRNv9bPgEoXtF3D0mBXJOzcNTGNgykTLct7/N3pda63Plr9YnP4kHeZ5qNMgYfTOnWhd4jkB3PKnlADLcVHsCssedVv68+zyS3GUwgeGWfGy0R2545Zg0M7zWFYG0voh1vupQkRvVLnzEWtDElhWFIdY5taLzfWGM6oCAIbvZezSX35pvxx182rVm1KV55vOIK68uU3oJ39JHsZLh1tYZhorBbu3imGDtaYuG95TCTVvmWah0QFiigJqrUJRdS7zfsMRV9HfcPCdwUgMQrJQNPTiTZWXKbKcANOCseqtvTwr7zkNRjvEPc97fXWQ7Z+AQPwYlSx4zFrfDwB5mOHnMFVw6MD1tM19n5tNrQPQCg1ZQ+oC6WGqmCsCiRnczz0qXAupTD63IuFAm/PDbAIv9LPBZSAYxIqUHZYVRpyjBRnNbHjpnD/KayztebOwn4ytDDltnt6JF33bic7vFVvIo6+OdzQ9+D1OwVKzX3uta3gBB3+Zw=
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: OXIDIZED_COPPER
+        amount: 12
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLD_NUGGET
+        amount: 5
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Koth Token","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+          custom: H4sIAAAAAAAA/z2KMQ7CMAxFPSCBegrkuSfIFZCY2BCDm7gkaoiR40gg1DtwZLLQ7b/33wAwwD6k+sz0PsDuTA+G7weNX4YOccQ+lNBdN3cSi8eLLFz66yWLdqkcOk2SAzrTxiMmo5w8uply7dhKYM2p9O6vqmla2KJKu8fNyjS36sm2cL2tAD8lkSE6qAAAAA==
+  snapshots: []
+'29':
+  uniqueId: cbae3fc6-5e60-44e6-bdae-efd1d51fe5d7
+  world: world
+  x: -57
+  y: 68
+  z: -2
+  yaw: 324.3336
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 10
+            minecraft:fortune: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 5
+          custom: H4sIAAAAAAAA/0WNSw6AIBBDK/6Jx9KDIA5IxDFBNPH2ssDY5XttKoESzah2ZQkpPYaJ9ao47sTxlAlVHYRb0JojxItJoPS3R42MU29xbDMuMpYXz4HU9ptvIMkYpx2xfrJJJy8/I6fShwAAAA==
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLD_NUGGET
+        amount: 2
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Koth Token","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"red","bold":true}]}'
+  snapshots: []
+'30':
+  uniqueId: 5558d136-a8d0-4372-8423-19eb33f853ea
+  world: world
+  x: -16
+  y: 65
+  z: -15
+  yaw: 325.8667
+  type: admin
+  name: offhand fix
+  object:
+    type: villager
+    baby: true
+    profession: minecraft:none
+    villagerType: minecraft:savanna
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIME_CANDLE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"S","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#2DE000","bold":false},{"text":"p","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#30C910","bold":false},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#33B120","bold":false},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#359A31","bold":false},{"text":"d","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#388241","bold":false},{"text":"y","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#3B6B51","bold":false}]}'
+          attribute-modifiers:
+            minecraft:generic.attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 0.05
+              slot: offhand
+              operation: 1
+              key: minecraft:022110f6-42eb-4431-bd08-d3c3aa61961a
+            minecraft:generic.max_health:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 2.0
+              slot: offhand
+              operation: 0
+              key: minecraft:d5706521-fff0-47c4-a2bd-574dddab75ad
+            minecraft:generic.movement_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 0.5
+              slot: offhand
+              operation: 1
+              key: minecraft:d0a49eb5-7d4c-4862-8c4d-c0c9a781bb02
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIME_CANDLE
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: LIGHT_GRAY_STAINED_GLASS_PANE
+  snapshots: []
+'33':
+  uniqueId: b9802425-4561-4308-89d0-50d1728cee0d
+  world: world
+  x: 110
+  y: 64
+  z: 92
+  yaw: 355.62576
+  type: admin
+  name: BOSS TOKEN
+  object:
+    type: creeper
+    powered: true
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLD_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          item-name: '{"text":"BOSS TOKEN","italic":true,"color":"gold","bold":true}'
+          Unbreakable: true
+          enchantment-glint-override: true
+          fire-resistant: true
+          rarity: EPIC
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLD_NUGGET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          item-name: '{"text":"BOSS TOKEN","italic":true,"color":"gold","bold":true}'
+          Unbreakable: true
+          enchantment-glint-override: true
+          fire-resistant: true
+          rarity: EPIC
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: BARRIER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"GAY","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"black","bold":false}]}'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: BARRIER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"GAY","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"black","bold":false}]}'
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"ARMOUR","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":true}]}'
+          enchants:
+            minecraft:sharpness: 1
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"BOSS BOOTS","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"blue","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 5
+            minecraft:unbreaking: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLD_NUGGET
+        amount: 3
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          item-name: '{"text":"BOSS TOKEN","italic":true,"color":"gold","bold":true}'
+          Unbreakable: true
+          enchantment-glint-override: true
+          fire-resistant: true
+          rarity: EPIC
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"BOSS LEGGINGS","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"blue","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 5
+            minecraft:unbreaking: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLD_NUGGET
+        amount: 7
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          item-name: '{"text":"BOSS TOKEN","italic":true,"color":"gold","bold":true}'
+          Unbreakable: true
+          enchantment-glint-override: true
+          fire-resistant: true
+          rarity: EPIC
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"BOSS CHESTPLATE","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"blue","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 5
+            minecraft:unbreaking: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLD_NUGGET
+        amount: 9
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          item-name: '{"text":"BOSS TOKEN","italic":true,"color":"gold","bold":true}'
+          Unbreakable: true
+          enchantment-glint-override: true
+          fire-resistant: true
+          rarity: EPIC
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          display-name: '{"text":"","extra":[{"text":"BOSS HELMET","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"blue","bold":true}]}'
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 5
+            minecraft:unbreaking: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLD_NUGGET
+        amount: 4
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          item-name: '{"text":"BOSS TOKEN","italic":true,"color":"gold","bold":true}'
+          Unbreakable: true
+          enchantment-glint-override: true
+          fire-resistant: true
+          rarity: EPIC
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: BARRIER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"GAY","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"black","bold":false}]}'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: BARRIER
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"GAY","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"black","bold":false}]}'
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"TOOLS","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":true}]}'
+          enchants:
+            minecraft:fire_aspect: 2
+            minecraft:mending: 1
+            minecraft:sharpness: 6
+            minecraft:unbreaking: 3
+          repair-cost: 15
+          ItemFlags:
+          - HIDE_ENCHANTS
+          - HIDE_ADDITIONAL_TOOLTIP
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"B","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#1400FB","bold":false},{"text":"o","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#2513FB","bold":false},{"text":"s","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#3626FC","bold":false},{"text":"s
+            ","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#4839FC","bold":false},{"text":"P","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#594CFD","bold":false},{"text":"i","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#6A60FD","bold":false},{"text":"c","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#7B73FD","bold":false},{"text":"k","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#8C86FE","bold":false},{"text":"a","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#9E99FE","bold":false},{"text":"x","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#AFACFF","bold":false},{"text":"e","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"#C0BFFF","bold":false}]}'
+          enchants:
+            minecraft:efficiency: 12
+            minecraft:fortune: 7
+            minecraft:mending: 1
+            minecraft:unbreaking: 5
+          custom: H4sIAAAAAAAA/0WNSw6AIBBDK/6Jx9KDIA5IxDFBNPH2ssDY5XttKoESzah2ZQkpPYaJ9ao47sTxlAlVHYRb0JojxItJoPS3R42MU29xbDMuMpYXz4HU9ptvIMkYpx2xfrJJJy8/I6fShwAAAA==
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: GOLD_NUGGET
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          item-name: '{"text":"BOSS TOKEN","italic":true,"color":"gold","bold":true}'
+          Unbreakable: true
+          enchantment-glint-override: true
+          fire-resistant: true
+          rarity: EPIC
+  snapshots: []
+'34':
+  uniqueId: e9b63015-6769-4d1c-a8d1-3a81ba84392b
+  world: world
+  x: 97
+  y: 65
+  z: 79
+  yaw: 0.0
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: true
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: MAGMA_CREAM
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+          attribute-modifiers:
+            minecraft:generic.movement_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 0.1
+              slot: offhand
+              operation: 1
+              key: minecraft:32cb308e-032d-441c-9523-a1090d8c7b64
+            minecraft:generic.max_health:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 8.0
+              slot: offhand
+              operation: 0
+              key: minecraft:ae174811-e01c-45c5-b04b-9f2bc6082925
+            minecraft:generic.attack_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 0.175
+              slot: offhand
+              operation: 1
+              key: minecraft:3f4d4dad-146f-46b2-b5bd-3b8bbc0e8577
+            minecraft:generic.knockback_resistance:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 1.0
+              slot: offhand
+              operation: 0
+              key: minecraft:6e76aed1-e3c0-4604-be43-cdfd435c67a5
+            minecraft:generic.attack_damage:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 0.125
+              slot: offhand
+              operation: 1
+              key: minecraft:6fadd29f-39b8-49f3-a4c1-870b77acbf7c
+          ItemFlags:
+          - HIDE_ENCHANTS
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: OXIDIZED_COPPER
+        amount: 32
+  snapshots: []
+'35':
+  uniqueId: c77ac5f2-57c8-40b1-9edc-b6c18262fab7
+  world: world
+  x: 11
+  y: 63
+  z: -15
+  yaw: 17.094933
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: true
+    profession: minecraft:butcher
+    villagerType: minecraft:savanna
+    villagerLevel: 4
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: SHEARS
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: COBWEB
+        amount: 64
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: SHEARS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: AMETHYST_SHARD
+        amount: 16
+  snapshots: []
+'36':
+  uniqueId: 19187f1c-c7df-4ab4-b88a-d0dd3a41f715
+  world: world
+  x: -219
+  y: 126
+  z: -101
+  yaw: 18.408442
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes: {}
+  snapshots: []
+'37':
+  uniqueId: 35183be4-acf1-4993-8890-bc490dd450ca
+  world: world
+  x: 84
+  y: 64
+  z: 94
+  yaw: 104.23967
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: true
+    profession: minecraft:none
+    villagerType: minecraft:taiga
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"","extra":[{"text":"Dash","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          enchants:
+            minecraft:fire_aspect: 2
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: OXIDIZED_COPPER
+        amount: 32
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3955
+        type: OXIDIZED_COPPER
+        amount: 16
+  snapshots: []
+'44':
+  uniqueId: f487390d-bf4d-4036-bd66-b471cb8dfe16
+  world: world
+  x: -323
+  y: 89
+  z: -28
+  yaw: 180.0
+  type: admin
+  name: King Piglin
+  object:
+    type: piglin
+    baby: false
+  recipes: {}
+  snapshots: []
+'45':
+  uniqueId: 8d8ddd0a-9026-4a67-9819-b585de75f50d
+  world: world
+  x: -328
+  y: 88
+  z: -29
+  yaw: 180.0
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes: {}
+  snapshots: []

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 15.117.255.200
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721081332878
+  login: 1721081185724
+money: '0'
+last-account-name: FrogeyFlexx
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -94.69999998807907
+  y: 137.1661092609382
+  z: 94.69999998808002
+  yaw: 23.604032516479492
+  pitch: 87.4981689453125

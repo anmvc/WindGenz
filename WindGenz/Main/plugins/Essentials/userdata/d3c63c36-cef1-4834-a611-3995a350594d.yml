@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 57.93.65.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720479183838
+  login: 1720479155584
+money: '0'
+last-account-name: KingJax2002
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -1.8380539683589237
+  y: 65.0625
+  z: 0.7162630666169363
+  yaw: 16.50006103515625
+  pitch: 10.350001335144043

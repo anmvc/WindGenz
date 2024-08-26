@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.184.182.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720879037977
+  login: 1720878898274
+money: '0'
+last-account-name: Luisamaybeme
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -10.424437814978832
+  y: 65.0625
+  z: -0.128305403862633
+  yaw: -80.27203369140625
+  pitch: 29.982666015625
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 53.69999998807907
+  y: 71.25220334025373
+  z: -2.5543961292504314
+  yaw: -7.6822509765625
+  pitch: -44.6066780090332

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 241.24.89.55
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721626740405
+  login: 1721623181601
+money: '0'
+last-account-name: .Lightpear122
+lastlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 32.00262
+  y: 64.07067108154297
+  z: 2.4834313
+  yaw: -124.21089172363281
+  pitch: 29.972412109375
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 34.258476
+  y: 64.0
+  z: -9.22711
+  yaw: -26.787704467773438
+  pitch: 10.693557739257812

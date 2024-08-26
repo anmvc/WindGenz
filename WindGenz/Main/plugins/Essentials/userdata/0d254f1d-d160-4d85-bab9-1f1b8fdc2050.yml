@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 195.224.32.220
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720979202477
+  login: 1720979197827
+money: '0'
+last-account-name: Airo_Bucket282
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 3.9363758981935217
+  y: 64.5
+  z: -4.057334049849554
+  yaw: -136.97811889648438
+  pitch: 25.24420166015625

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 34.179.22.44
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721368178770
+  login: 1721368168816
+money: '0'
+last-account-name: mhia_
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 39.05215399638953
+  y: 66.25220334025373
+  z: -40.33883538878023
+  yaw: -132.15103149414062
+  pitch: 5.850002765655518

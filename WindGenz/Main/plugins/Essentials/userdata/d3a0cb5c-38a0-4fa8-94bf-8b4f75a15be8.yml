@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0.29.90.194
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721672356755
+  login: 1721672344258
+money: '0'
+last-account-name: NotToxicSzymon
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: 26.895169288007374
+  y: 64.5
+  z: -15.723715712407733
+  yaw: -121.81951904296875
+  pitch: 27.964052200317383

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 155.150.116.184
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721652324256
+  login: 1721652135201
+money: '0'
+last-account-name: MatrixBhavya
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -43.89905245468477
+  y: 64.0
+  z: 1.4280293670612334
+  yaw: -101.48635864257812
+  pitch: 17.29254913330078

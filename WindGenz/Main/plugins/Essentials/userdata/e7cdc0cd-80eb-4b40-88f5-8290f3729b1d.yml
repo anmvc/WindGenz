@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 194.28.24.160
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722732563576
+  login: 1722732503087
+money: '0'
+last-account-name: Florida_Boi1
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -7.4330057510603975
+  y: 65.0
+  z: -10.882358951367266
+  yaw: -73.86407470703125
+  pitch: 8.992076873779297

@@ -1,0 +1,12 @@
+xp: 0.0
+health: 0.0
+hunger: 19
+saturation: 0.0
+location:
+  world: world
+  x: 67.9
+  y: 67.0
+  z: 0.2
+logType: DEATH
+version: v1_20_R4
+deathReason: ENTITY_ATTACK (vadehitsthegr1dy)

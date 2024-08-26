@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 20.201.2.128
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720696316277
+  login: 1720696302874
+money: '0'
+last-account-name: StrongChunk8855
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -6.392016850175044
+  y: 65.0
+  z: -25.24291732773222
+  yaw: 108.6012191772461
+  pitch: 36.14999771118164

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 136.85.74.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1720936766828
+  login: 1720936608424
+money: '0'
+last-account-name: SomeGuyDoesGames
+logoutlocation:
+  world: 5c41dfd9-1a7d-4a5f-ac47-da202acb57d7
+  world-name: world
+  x: -18.50452090517442
+  y: 65.5
+  z: -20.841413236751116
+  yaw: -84.35638427734375
+  pitch: 42.070472717285156
